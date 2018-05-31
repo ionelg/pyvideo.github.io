@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>E.T. chiama Python</title><link>http://pyvideo.org/pycon-italia-2017/et-chiama-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;All’osservatorio astronomico della Val Pellice in provincia di Torino,
+le attività amministrative, didattiche, divulgative e scientifiche non
+mancano di certo. L’osservatorio, gestito dall’&lt;a class="reference external" href="http:/osservatoriourania.it"&gt;Associazione Astrofili
+Urania&lt;/a&gt;, dispone di diversi telescopi
+ottici, di un planetario, di una biblioteca, di una sala
+corsi/conferenze e di un radio telescopio.&lt;/p&gt;
+&lt;p&gt;Python è spesso un filo conduttore nel mondo scientifico e non solo, e a
+prova di questo fatto vogliamo mostrarvi come lo usiamo noi
+all’osservatorio. Mostreremo come Python viene usato per l’elaborazione
+dei dati provenienti dal radio telescopio, che scruta il cielo alla
+ricerca di segnali provenienti da esopianeti ed inviati potenzialmente
+da altre forme di vita intelligente.&lt;/p&gt;
+&lt;p&gt;Altri cenni riguarderanno l’utilizzo di software basati su Python (come
+Odoo) per la gestione di associazioni come la nostra.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/et-chiama-python.html</guid><category>pydata</category><category>Python</category><category>data-logging</category><category>Data-Scientist</category><category>Odoo</category><category>astronomy</category></item><item><title>Sviluppo lato client con Odoo</title><link>http://pyvideo.org/pycon-italia-2017/sviluppo-lato-client-con-odoo.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;a class="reference external" href="http://odoo.com"&gt;Odoo&lt;/a&gt; è un framework utilizzato prevalentemente per
+lo sviluppo di soluzioni business, dall’ambito all’ERP all’e-commerce.
+E’ famoso per essere estremamente malleabile e scritto interamente in
+Python. Linguaggio con il quale può essere facilmente personalizzato ed
+esteso. Ma lo sviluppo di componenti client-side si fa sempre più
+sentire (hey, siamo nel 2017, non lamentarti) ed è ormai necessario
+comprendere come arricchire i nostri moduli Odoo scritti in Python con
+qualche riga di codice JavaScript.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Davide Corio</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/sviluppo-lato-client-con-odoo.html</guid><category>Python</category><category>javascript</category><category>ecommerce</category><category>Odoo</category></item></channel></rss>

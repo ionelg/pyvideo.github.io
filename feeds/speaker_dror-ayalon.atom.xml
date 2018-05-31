@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_dror-ayalon.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-10-07T00:00:00+00:00</updated><entry><title>Music Synthesis in Python</title><link href="http://pyvideo.org/pygotham-2017/music-synthesis-in-python.html" rel="alternate"></link><published>2017-10-07T00:00:00+00:00</published><updated>2017-10-07T00:00:00+00:00</updated><author><name>Dror Ayalon</name></author><id>tag:pyvideo.org,2017-10-07:pygotham-2017/music-synthesis-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="music-synthesis-in-python"&gt;
+&lt;h4&gt;Music Synthesis in Python&lt;/h4&gt;
+&lt;p&gt;Python has become a one-stop-shop for everything audio - from cutting edge digital signal processing packages to music synthesis and music composition packages. This plethora of audio related packages allows developers and musicians to build the most creative projects and experiences in a single programming language.&lt;/p&gt;
+&lt;p&gt;The goal of this talk to provide attendees with the knowledge of the fabulous audio analysis and music creation tools available in Python.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="talk-overview"&gt;
+&lt;h4&gt;Talk Overview&lt;/h4&gt;
+&lt;p&gt;The talk will start with a presentation of one of my recent projects, &lt;a class="reference external" href="https://www.drorayalon.com/#/luncz/"&gt;Luncz&lt;/a&gt; (pronounces “Luntz”), a tool that analyzes live playing and generates a bass line to accompany the musician. Luncz helps the musician to stay within the musical context of the original idea and leaves enough room for this idea to be developed. We will breakdown Luncz technical components and learn about the capabilities of the DSP packages that were used to build it and the Csound Python interface that was used to generate the playback.&lt;/p&gt;
+&lt;p&gt;Followed by the project presentation, we will briefly review a variety of available Python tools and packages for music creation, music analysis, and Python interfaces to the most used digital music synthesis engines. Among these tools are pyAudio, LibROSA, pyAudio, athenaCL, Cecilia, Pyo, Soundgrain, and Csound’s, Supercollider’s and ChucK’s Python APIs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="about-the-speaker"&gt;
+&lt;h4&gt;About The Speaker&lt;/h4&gt;
+&lt;p&gt;Dror Ayalon is a maker, programmer, user experience designer, and a user interface designer, and was the Product Manager for a few very successful start-ups. Dror is currently a graduate student at NYU. As a lifelong music lover, he researches and develops innovative music creation tools, using music information retrieval (MIR) techniques, digital signal processing (DSP), and machine learning algorithms, that will allow musicians to compose music in a variety of new ways and formats.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry></feed>

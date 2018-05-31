@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_pydata.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-10-25T00:00:00+00:00</updated><entry><title>Connecting PyData to other Big Data Landscapes using Arrow and Parquet</title><link href="http://pyvideo.org/pycon-de-2017/connecting-pydata-to-other-big-data-landscapes-using-arrow-and-parquet.html" rel="alternate"></link><published>2017-10-25T00:00:00+00:00</published><updated>2017-10-25T00:00:00+00:00</updated><author><name>Uwe L. Korn</name></author><id>tag:pyvideo.org,2017-10-25:pycon-de-2017/connecting-pydata-to-other-big-data-landscapes-using-arrow-and-parquet.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Uwe L. Korn&lt;/strong&gt; (&amp;#64;xhochy)&lt;/p&gt;
+&lt;p&gt;Uwe Korn is a Data Scientist at the Karlsruhe-based RetailTec company Blue Yonder. His expertise is on building architectures for machine learning services that are scalably usable for multiple customers aiming at high service availability as well as rapid prototyping of solutions to evaluate the feasibility of his design decisions. As part of his work to provide an efficient data interchange he became a core committer to the Apache Parquet and Apache Arrow projects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While Python itself hosts a wide range of machine learning and data tools, other ecosystems like the Hadoop world also provide beneficial tools that can be either connected via Apache Parquet files or in memory using Arrow. This talks shows recent developments that allow interoperation at speed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Python has a vast amount of libraries and tools in its machine learning and data analysis ecosystem. Although it is clearly in competition with R here about the leadership, the world that has sprung out of the Hadoop ecosystem has established itself in the space of data engineering and also tries to provide tools for distributed machine learning. As these stacks run in different environments and are mostly developed by distinct groups of people, using them together has been a pain. While Apache Parquet has already proven itself as the gold standard for the exchange of DataFrames serialized to files, Apache Arrow recently got traction as the in-memory format for DataFrame exchange between different ecosystems.&lt;/p&gt;
+&lt;p&gt;This talk will outline how Apache Parquet files can be used in Python and how they are structured to provide efficient DataFrame exchange. In addition to small code sample, this also includes an explanation of some interesting details of the file format. Additionally, the idea of Apache Arrow will be presented and taking Apache Spark (2.3) as an example to showcase how performance increases once DataFrames can be efficiently shared between Python and JVM processes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</summary><category term="data-science"></category><category term="hadoop"></category><category term="apache"></category><category term="arrow"></category><category term="parquet"></category><category term="pandas"></category><category term="pydata"></category></entry><entry><title>Keeping the grip on decoupled code using CLIs</title><link href="http://pyvideo.org/pycon-de-2017/keeping-the-grip-on-decoupled-code-using-clis.html" rel="alternate"></link><published>2017-10-25T00:00:00+00:00</published><updated>2017-10-25T00:00:00+00:00</updated><author><name>Anne Matthies</name></author><id>tag:pyvideo.org,2017-10-25:pycon-de-2017/keeping-the-grip-on-decoupled-code-using-clis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Anne Matthies&lt;/strong&gt; (&amp;#64;babeltron)&lt;/p&gt;
+&lt;p&gt;Anne Matthies has been coding data stuff professionally since 1996. She switched to Python 2 in 2000, to Python 3 in 2015. Currently, she’s working at Babbel, Berlin, responsible for building and operating the data platform – and developing the next generation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So you’ve decoupled your code monolith into all those micro chunks. When someone asks &amp;quot;How can I…&amp;quot; you want to answer: &amp;quot;That’s easy! We’ve built that.&amp;quot; Actually, you’ve built all parts needed for that. Who plugs them together? And how?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Keeping the grip on decoupled code using CLIs&lt;/p&gt;
+&lt;p&gt;So you’ve decoupled your monolith spaghetti code into micro chunks. You’ve switched to infrastructure as code, and you’re confident that it scales horizontally. Your data pipelines are pretty resilient, your CI pipeline runs tests on every single git push.&lt;/p&gt;
+&lt;p&gt;And then, you get a new team member. Or your CTO wants to plot data of his brandnew sandbox project that isn’t integrated into your pipelines. Or someone just asks &amp;quot;How can I…&amp;quot; and you want to answer: &amp;quot;That’s easy! We’ve built that… – Well, actually, we’ve built all parts needed for that.&amp;quot; Who plugs them together? And how?&lt;/p&gt;
+&lt;p&gt;In my talk, I’d like to show how lightweight CLIs can be Ariadne Threads through the labyrinth of micro components. How at Babbel we use conda, setuptools entrypoints and simple CLI scripts to keep the grip on our data platform code chunks&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</summary><category term="pydata"></category><category term="devops"></category><category term="cli"></category><category term="python"></category></entry><entry><title>Time series feature extraction with tsfresh - “get rich or die overfitting”</title><link href="http://pyvideo.org/pycon-de-2017/time-series-feature-extraction-with-tsfresh-get-rich-or-die-overfitting.html" rel="alternate"></link><published>2017-10-25T00:00:00+00:00</published><updated>2017-10-25T00:00:00+00:00</updated><author><name>Nils Braun</name></author><id>tag:pyvideo.org,2017-10-25:pycon-de-2017/time-series-feature-extraction-with-tsfresh-get-rich-or-die-overfitting.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Nils Braun&lt;/strong&gt; (&amp;#64;_nilsbraun)&lt;/p&gt;
+&lt;p&gt;Currently I am doing my PhD in Particle Physics - which mainly involves development of software in a large collaboration. I love working with Python and C++ to process large amounts of data. Of course it needs to be processed as quickly as possible. I am working on the core reconstruction algorithms for our experiment, which are steered and controlled using Python. Apart from that, I was working as a Data Science Engineer for Blue Yonder, a leading machine learning company, where the idea for tsfresh was born. I am still heavily involved in the project. When I am not writing code, I am updating myself on the newest technical geek stuff (mostly cloud computing and deep learning) or play the guitar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Have you ever thought about developing a time series model to predict stock prices? Or do you consider log time series from the operation of cloud resources as being more compelling? In this case you really should consider using the time series feature extraction package tsfresh for your project.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trends such as the Internet of Things (IoT), Industry 4.0, and precision medicine are driven by the availability of cheap sensors and advancing connectivity, which among others increases the availability of temporally annotated data. The resulting time series are the basis for manifold machine learning applications. Examples are the classification of hard drives into risk classes concerning specific defect, the log analysis of server farms for detecting intruders, or regression tasks like the prediction of the remaining lifespan of machinery. Tsfresh also allows to easily setup a machine learning pipeline that predicts stock prices, which we will demonstrate live during the presentation ;). The problem of extracting and selecting relevant features for classification or regression is these domains is especially hard to solve, if each label or regression target is associated with several time series and meta-information simultaneously – which is a common pattern in industrial applications. This talk introduces a distributed and parallel feature extraction and selection algorithm – the recently published Python library tsfresh. The fully automated extraction and importance selection does not only allow to reach better machine learning classification scores, but in combination with the speed of the package, also allows to incorporate tsfresh into automated AI-pipelines.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</summary><category term="pydata"></category><category term="time series"></category><category term="data-science"></category><category term="machine learning"></category><category term="python"></category><category term="ai"></category></entry><entry><title>Affrontare le sfide del cambiamento climatico con Python</title><link href="http://pyvideo.org/pycon-italia-2017/affrontare-le-sfide-del-cambiamento-climatico-con-python.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Alessandro Amici</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/affrontare-le-sfide-del-cambiamento-climatico-con-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Che si intenda pianificare una attività industriale di lungo periodo,
+come costruire un complesso sciistico, o semplicemente scegliere il
+periodo ideale per le vacanze ai tropici è essenziale avere previsioni
+affidabili sulle condizioni climatiche che si incontreranno. Cosa non
+banale in un mondo in cui il clima sta cambiando.&lt;/p&gt;
+&lt;p&gt;Il &lt;a class="reference external" href="http://climate.copernicus.eu"&gt;servizio per il monitoraggio del cambiamento climatico del programma
+europeo Copernicus&lt;/a&gt; si avvia a
+diventare la principale piattaforma per l’accesso e l’analisi dei dati
+climatici in Europa il cui cuore, il Climate Data Store Toolbox, è
+interamente basato su Python 3 e sullo stack di tecnologie del PyData
+con l’aggiunta di tool specifici per trattare dati che riguardano
+l’atmosfera.&lt;/p&gt;
+&lt;p&gt;In questo talk presenterò i dati e gli strumenti di accesso e analisi
+già disponibili e la roadmap verso il sistema completo attraverso
+l’implementazione di vari casi d’uso.&lt;/p&gt;
+</summary><category term="climate-change"></category><category term="notebook"></category><category term="python3"></category><category term="pydata"></category></entry><entry><title>E.T. chiama Python</title><link href="http://pyvideo.org/pycon-italia-2017/et-chiama-python.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/et-chiama-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;All’osservatorio astronomico della Val Pellice in provincia di Torino,
+le attività amministrative, didattiche, divulgative e scientifiche non
+mancano di certo. L’osservatorio, gestito dall’&lt;a class="reference external" href="http:/osservatoriourania.it"&gt;Associazione Astrofili
+Urania&lt;/a&gt;, dispone di diversi telescopi
+ottici, di un planetario, di una biblioteca, di una sala
+corsi/conferenze e di un radio telescopio.&lt;/p&gt;
+&lt;p&gt;Python è spesso un filo conduttore nel mondo scientifico e non solo, e a
+prova di questo fatto vogliamo mostrarvi come lo usiamo noi
+all’osservatorio. Mostreremo come Python viene usato per l’elaborazione
+dei dati provenienti dal radio telescopio, che scruta il cielo alla
+ricerca di segnali provenienti da esopianeti ed inviati potenzialmente
+da altre forme di vita intelligente.&lt;/p&gt;
+&lt;p&gt;Altri cenni riguarderanno l’utilizzo di software basati su Python (come
+Odoo) per la gestione di associazioni come la nostra.&lt;/p&gt;
+</summary><category term="pydata"></category><category term="Python"></category><category term="data-logging"></category><category term="Data-Scientist"></category><category term="Odoo"></category><category term="astronomy"></category></entry><entry><title>How to use pandas the wrong way</title><link href="http://pyvideo.org/pycon-italia-2017/how-to-use-pandas-the-wrong-way.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Pietro Battiston</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/how-to-use-pandas-the-wrong-way.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The &lt;strong&gt;pandas&lt;/strong&gt; library represents a very efficient and convenient tool
+for data manipulation, but sometimes hides unexpected pitfalls which can
+arise in various and sometimes unintelligible ways.&lt;/p&gt;
+&lt;p&gt;By briefly referring to some aspects of the internals, I will review
+specific situations in which a change of approach can, for instance,
+make a difference in terms of performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UPDATE (April 12, 2017) - SLIDES:&lt;/strong&gt; the talk had very few slides;
+still, you can find those few, together with the notebooks I used live,
+&lt;a class="reference external" href="https://pietrobattiston.it/python:pycon"&gt;here&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data-science"></category><category term="pandas"></category><category term="pydata"></category></entry><entry><title>Jupyter: if you don't use it yet you're doing wrong</title><link href="http://pyvideo.org/pycon-italia-2017/jupyter-if-you-dont-use-it-yet-youre-doing-wrong.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Christian Barra</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/jupyter-if-you-dont-use-it-yet-youre-doing-wrong.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever heard about Jupyter Notebook ? It’s like Python REPL on
+steroids !&lt;/p&gt;
+&lt;p&gt;In this talk I will introduce the Jupyter project, the libraries behind
+this project and how you can use Jupyter Notebook for a lot of
+activities like fast prototyping, data science, education and so on !&lt;/p&gt;
+&lt;p&gt;The talk will be an introduction, Beginners are welcome !&lt;/p&gt;
+</summary><category term="iPython"></category><category term="Data-Scientist"></category><category term="Jupyter"></category><category term="pydata"></category></entry><entry><title>Word Embeddings for Natural Language Processing in Python</title><link href="http://pyvideo.org/pycon-italia-2017/word-embeddings-for-natural-language-processing-in-python.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Marco Bonzanini</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/word-embeddings-for-natural-language-processing-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Word embeddings are a family of Natural Language Processing (NLP)
+algorithms where words are mapped to vectors in low-dimensional space.
+The interest around word embeddings has been on the rise in the past few
+years, because these techniques have been driving important improvements
+in many NLP applications like text classification, sentiment analysis or
+machine translation.&lt;/p&gt;
+&lt;p&gt;In this talk we’ll describe the intuitions behind this family of
+algorithms, we’ll explore some of the Python tools that allow us to
+implement modern NLP applications and we’ll conclude with some practical
+considerations.&lt;/p&gt;
+</summary><category term="Python"></category><category term="nlp"></category><category term="text-analysis"></category><category term="pydata"></category></entry><entry><title>Svilluppare con python sull'iPad</title><link href="http://pyvideo.org/pycon-italia-2017/svilluppare-con-python-sullipad.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Lelio Campanile</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/svilluppare-con-python-sullipad.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Da quando è stato introdotto l’iPad, questo si è evoluto velocemente,
+trasformandosi da un iPhone agli steroidi ad un surrogato di computer
+ultraportatile. Questo mi ha spinto ad esplorare la piattaforma per
+vedere fino a che punto ci si poteva spingere nell’utilizzo di un iPad
+come sostituto di un ultra portatile: volevo poter sviluppare con python
+anche su un iPad.&lt;/p&gt;
+&lt;p&gt;Finalmente dopo molte ricerche scopro l’app Pythonista che consente di
+sviluppare in python sull’iPad e senza alcun jailbreak, secondo le
+regole della Apple!&lt;/p&gt;
+&lt;p&gt;Vi voglio far conoscere questo strumento con il quale potrete sviluppare
+script python per automatizzare il vostro lavoro sull’iPad, fare test al
+volo di codici anche quando non avete un pc, utilizzare l’iPad per le
+vostre ricerche scientifiche (grazie al supporto di numpy e matplotlib)
+ad adirittura scrivere app con una gui che potrete pubblicare sull’app
+store!!!&lt;/p&gt;
+</summary><category term="Python"></category><category term="IDE"></category><category term="python3"></category><category term="matplotlib"></category><category term="pydata"></category></entry><entry><title>Data Science &amp; Data Visualization in Python. How to harness power of Python for social good?</title><link href="http://pyvideo.org/pydata-berlin-2017/data-science-data-visualization-in-python-how-to-harness-power-of-python-for-social-good.html" rel="alternate"></link><published>2017-06-30T00:00:00+00:00</published><updated>2017-06-30T00:00:00+00:00</updated><author><name>Radovan Kavicky</name></author><id>tag:pyvideo.org,2017-06-30:pydata-berlin-2017/data-science-data-visualization-in-python-how-to-harness-power-of-python-for-social-good.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python as an Open Data Science tool offers many libraries for data visualization and I will show you how to use and combine the best. I strongly believe that power of data is not only in the information &amp;amp; insight that data can provide us, Data is and can be really beautiful and can not only transform our perception but also the world that we all live in.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In my talk I will primarily focus on answering/offer the answer to these questions:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why we need data science and why more and more people should be really interested in analyzing data and data visualization? (motivation)&lt;/li&gt;
+&lt;li&gt;What is data science and how to start doing it in Python? (introduction of procedures, tools, most popular IDE-s for Python, etc.)&lt;/li&gt;
+&lt;li&gt;What tools for data analysis and data visualization Python offers? (in each stage of analysis the best libraries will be shown for the specific purpose; as for data visualization we will focus particularly on Bokeh, Seaborn, Plotly and use of Jupyter Notebook and Plotly)&lt;/li&gt;
+&lt;li&gt;How to 'unlock' the insight hidden in data through Python and how to use it to transform not only public administration or business, but ultimately the transformation of the whole society and economy towards the insight &amp;amp; knowledge based? (potential of data science)&lt;/li&gt;
+&lt;li&gt;Open Data, Open Government Partnership, Open Public Administration &amp;amp; all the advantages of Open Data Science &amp;amp; Python. Data-Driven Approach. Everywhere. Now. (the end of talk +vision)&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="python"></category><category term="data-science"></category><category term="data-visualization"></category><category term="analytics"></category><category term="PyData"></category><category term="PyDataBLN"></category><category term="PyDataBerlin"></category><category term="PyDataBA"></category><category term="PyDataBratislava"></category><category term="talk"></category><category term="Data"></category><category term="Bokeh"></category><category term="Social Good"></category><category term="datascience"></category><category term="jupyter"></category><category term="open science"></category><category term="open data science"></category><category term="DataVisualization"></category><category term="data-analysis"></category><category term="analysis"></category><category term="matplotlib"></category><category term="numpy"></category><category term="data wrangling"></category><category term="jupyter notebook"></category><category term="pandas"></category><category term="machine learning"></category><category term="deep learning"></category><category term="Open Data"></category><category term="Citizen Data Science"></category></entry></feed>

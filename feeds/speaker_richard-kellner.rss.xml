@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate><item><title>ChatOps, have you ever heard about it?</title><link>http://pyvideo.org/pycon-cz-2016/chatops-have-you-ever-heard-about-it.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;ChatOps is a term for a collaborative way of running DevOps,
+including operating aspects of systems and infrastructure through an
+online chat. It combines a powerful way to get things done with a
+more human way of working.&lt;/p&gt;
+&lt;p&gt;But it doesn’t happen overnight. In this talk I would like to explain
+various stages of adoption. I also want to inspire you to implement
+ChatOps into your workflow and to suggest ideas how to do that. I
+will show you why Python is the ideal language for building a ChatOps
+stack. It is quick and fun to build new chat commands and even a
+person who doesn’t know Python can easily start learning and see the
+results immediately.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Kellner</dc:creator><pubDate>Fri, 28 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-28:pycon-cz-2016/chatops-have-you-ever-heard-about-it.html</guid></item><item><title>Záverečný príhovor</title><link>http://pyvideo.org/pycon-sk-2017/zaverecny-prihovor.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Zaujíma Vás ako sa začal PyCon na Slovensku? Alebo prečo by ste mali prispievať do OpenSource projektov? Richard Kellner nám na konci prvého dňa konferencie na tieto otázky zodpovedal... Na záver sa ukáže aj dobrovoľnícky tím čo organizoval PyCon SK 2017.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Richard Kellner</dc:creator><pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-12:pycon-sk-2017/zaverecny-prihovor.html</guid></item></channel></rss>

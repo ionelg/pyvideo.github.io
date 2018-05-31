@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 13 Aug 2017 00:00:00 +0000</lastBuildDate><item><title>Preventing headaches with linters and automated checks</title><link>http://pyvideo.org/pybay-2017/preventing-headaches-with-linters-and-automated-checks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will teach you how to use and extend tools for automated checks on Python projects. Are your imports a mess? No reasonable order, stdlib modules mixed with third-party ones? There's a tool to fix that. Tired of checking for security patches of the libs in your requirements.txt? Let a tool do this for you. We'll learn about many other tools and we'll also discuss how to build new ones.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While it's very common to enforce PEP8 code style with tools like pycodestyle or flake8, it's rare for Python projects to use other types of tools for automated checks. However, there are many common problems in readability, security, configuration, etc that could be avoided by using other linters and tools, for example:&lt;/p&gt;
+&lt;p&gt;Are your imports a complete mess, with third-party modules mixed with stdlib ones? You can use &amp;quot;isort&amp;quot; to organize and separate them.
+Tired of checking if your project requirements received security patches? Let &amp;quot;safety&amp;quot; do that for you.
+Hated when that fellow developer pushed a huge file that slowed your repository pulls forever? A &amp;quot;pre-commit&amp;quot; hook with a simple check could've prevented that.
+Is your code cluttered with unused legacy functions and classes? Check and prevent that with &amp;quot;vulture&amp;quot;.
+As we can see from the list above, many issues can be prevented at commit or CI time with automated tools. In this talk, we'll discuss how to configure and use those tools. Also, we'll learn the role of static analysis in those tools, which will enable us to extend them and build new ones.&lt;/p&gt;
+&lt;p&gt;Here is a non-exhaustive list of tools that will be presented:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;prospector: &lt;a class="reference external" href="https://github.com/landscapeio/prospector"&gt;https://github.com/landscapeio/prospector&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pylint: &lt;a class="reference external" href="https://github.com/PyCQA/pylint"&gt;https://github.com/PyCQA/pylint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;safety: &lt;a class="reference external" href="https://github.com/pyupio/safety"&gt;https://github.com/pyupio/safety&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;bandit: &lt;a class="reference external" href="https://github.com/openstack/bandit"&gt;https://github.com/openstack/bandit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pre-commit: &lt;a class="reference external" href="http://pre-commit.com/"&gt;http://pre-commit.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;isort: &lt;a class="reference external" href="https://github.com/timothycrosley/isort"&gt;https://github.com/timothycrosley/isort&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;vulture: &lt;a class="reference external" href="https://github.com/jendrikseipp/vulture"&gt;https://github.com/jendrikseipp/vulture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pycycle: &lt;a class="reference external" href="https://github.com/bndr/pycycle"&gt;https://github.com/bndr/pycycle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;pyt: &lt;a class="reference external" href="https://github.com/python-security/pyt"&gt;https://github.com/python-security/pyt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Django System check framework: &lt;a class="reference external" href="https://docs.djangoproject.com/en/1.10/ref/checks/"&gt;https://docs.djangoproject.com/en/1.10/ref/checks/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Web developer from Brazil. Loves beautiful high-quality products, from UX to code, and will defend them against unreasonable deadlines and crazy features. Partner at Vinta (&lt;a class="reference external" href="https://www.vinta.com.br/"&gt;https://www.vinta.com.br/&lt;/a&gt;), a web consultancy specialized in building products with React and Django.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Juvenal</dc:creator><pubDate>Sun, 13 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-13:pybay-2017/preventing-headaches-with-linters-and-automated-checks.html</guid></item><item><title>Your Django app is a User Interface</title><link>http://pyvideo.org/pybay-2017/your-django-app-is-a-user-interface.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Usability heuristics are a useful way to evaluate an interface. An often overlooked aspect of Django apps is they’re interfaces too, one that connects the developer with a reusable solution. In this talk, we’ll learn how to apply usability concepts to Django apps to make them better to (re)use.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Django docs say &amp;quot;Reusability is the way of life in Python. You only need to write the parts that make your project unique&amp;quot;. The Django way to write reusable code is Django apps, which are straightforward to write. The vast quantity of apps available in PyPI and Django Packages proves that.&lt;/p&gt;
+&lt;p&gt;However, there is one overlooked aspect of apps: they are an interface between the developer and a reusable solution for a problem. Therefore, as any interface, Usability Heuristics should be used to evaluate Django apps efficacy. In this talk, we'll learn how to apply Usability Heuristics to Django apps to make them better to (re)use.&lt;/p&gt;
+&lt;p&gt;Talk outline:&lt;/p&gt;
+&lt;p&gt;Unix Philosophy and Django apps concept
+Aesthetic and minimalist design
+How to design for the 90% use case
+Progressive disclosure and Affordance
+Docs first
+How to write beautiful app code with declarative programming
+How to write simple app code by minimizing state
+Consistency and Recognition rather than recall
+How common Django idioms increase recognition
+How existing Django abstractions help increase recognition
+How separating concerns with Django abstractions increase recognition
+Flexibility and efficiency of use
+How making the other 10% use case possible with an extensible granular API
+The concept of Integration Discontinuity
+How to break Django abstractions to increase extensibility
+How a granular API allows composition of apps
+Error prevention and recovery
+How to use Django system check framework to prevent errors and give tips
+How to fail-fast if an error occurs, preventing some unexpected state
+djangoappschecklist.com
+How the community can help define a good practices checklist&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Web developer from Brazil. Loves beautiful high-quality products, from UX to code, and will defend them against unreasonable deadlines and crazy features. Partner at Vinta (&lt;a class="reference external" href="https://www.vinta.com.br/"&gt;https://www.vinta.com.br/&lt;/a&gt;), a web consultancy specialized in building products with React and Django.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Juvenal</dc:creator><pubDate>Sat, 12 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-12:pybay-2017/your-django-app-is-a-user-interface.html</guid></item><item><title>How to make a good library API</title><link>http://pyvideo.org/pycon-us-2017/how-to-make-a-good-library-api.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;It's not easy to write libraries with great APIs. We're aware of that.
+However, it's not always clear how we can follow abstract ideals like
+elegance, simplicity, and extensibility to improve our APIs. That's why
+in this talk we'll discuss good and bad APIs with real-world examples.
+For each thing learned, we'll come up with a checklist to help us with
+practical advice for writing good APIs.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flávio Juvenal</dc:creator><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-20:pycon-us-2017/how-to-make-a-good-library-api.html</guid></item></channel></rss>

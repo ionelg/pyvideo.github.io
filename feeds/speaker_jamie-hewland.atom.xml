@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jamie-hewland.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-10-06T00:00:00+00:00</updated><entry><title>Deploying Django web applications in Docker containers</title><link href="http://pyvideo.org/pycon-za-2017/deploying-django-web-applications-in-docker-containers.html" rel="alternate"></link><published>2017-10-06T00:00:00+00:00</published><updated>2017-10-06T00:00:00+00:00</updated><author><name>Jamie Hewland</name></author><id>tag:pyvideo.org,2017-10-06:pycon-za-2017/deploying-django-web-applications-in-docker-containers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will describe how to package a Django web application as a
+Docker container image for use on a container orchestration platform.
+Starting with a common Django setup involving Nginx, Gunicorn, and
+Celery, we will show how to adapt the application to run inside
+containers.&lt;/p&gt;
+&lt;p&gt;Container orchestration platforms such as Kubernetes and DC/OS are
+growing increasingly popular. These systems provide many advantages, but
+require significant changes to how applications are packaged and
+deployed. Instead of running on staticly-configured webservers,
+applications must run in containers that are dynamically deployed to a
+pool of hosts.&lt;/p&gt;
+&lt;p&gt;There are further benefits to packaging applications as containers. By
+providing an easy-to-use and tested base image for Django applications,
+deployment best-practices are easily and consistently replicated.
+Integration testing becomes more practical, as containers can be run
+similarly between development and production environments.&lt;/p&gt;
+&lt;p&gt;This talk expects some familiarity with Django, as well as the basics of
+Docker and HTTP. There should be lessons relevant to anybody interested
+in using Docker for Python-based web applications.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_lambda-functions.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-08T00:00:00+00:00</updated><entry><title>Building Serverless applications with Python</title><link href="http://pyvideo.org/pycon-italia-2017/building-serverless-applications-with-python.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Andrii Soldatenko</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/building-serverless-applications-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Serverless applications in Python sounds, strange isn’t? In this talk
+I’ll explain how to build not only crop images or select data from
+DynamoDB, but build real application, what kind of troubles are we
+should expect, how to make decision is your task fit into serverless
+architecture in Python or may be you should use, general approach. How
+fast serverless applications written in Python, and more important how
+to scale it.&lt;/p&gt;
+</summary><category term="serverless"></category><category term="aws"></category><category term="lambda-functions"></category><category term="python3"></category></entry></feed>

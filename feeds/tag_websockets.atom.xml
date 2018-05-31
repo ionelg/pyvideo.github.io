@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_websockets.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-07T00:00:00+00:00</updated><entry><title>La GUI di Genropy</title><link href="http://pyvideo.org/pycon-italia-2017/la-gui-di-genropy.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Giovanni Porcari</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/la-gui-di-genropy.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lo scopo di quersto talk è di offrire una panoramica della GUI di
+Genropy e del suo meccanismo di funzionamento. In particolare verra
+mostrato come sia possibile, scrivendo solo codice python, usare genropy
+come interfaccia grafica al di fuori del classico uso del gestionale&lt;/p&gt;
+&lt;p&gt;Proveremo a vedere come dare un’ interfaccia grafica ad alcuni comandi
+di shell e a mostrare come tramite i widget di genropy sia possibile
+gestire con poche righe di codice python widget complessi come griglie,
+griglie editabili e alberi.&lt;/p&gt;
+&lt;p&gt;Vi mostreremo l’utilizzo sia in versione classica nel browser, che con
+electron.&lt;/p&gt;
+&lt;p&gt;Mostreremo anche l’uso di RPC classiche e di websocket.&lt;/p&gt;
+</summary><category term="genropy"></category><category term="gui"></category><category term="websockets"></category></entry><entry><title>Asynchrone Programmierung mit Tornado</title><link href="http://pyvideo.org/pycon-de-2013/asynchrone-programmierung-mit-tornado.html" rel="alternate"></link><published>2013-10-16T00:00:00+00:00</published><updated>2013-10-16T00:00:00+00:00</updated><author><name>Florian Ludwig</name></author><id>tag:pyvideo.org,2013-10-16:pycon-de-2013/asynchrone-programmierung-mit-tornado.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Tornado ist eine asynchrone Netzwerkbibliothek mit der Fähigkeit
+zehntausende Verbindungen zu verwalten. Dieser Vortrag legt dar, wie
+dies erreicht wird und für welche Probleme Tornado die Lösung ist - und
+für welche nicht. Mit Praxisbeispielen wird vorgestellt, wie TCP-Server
+und Webanwendungen realisiert werden können und wie man asynchron auch
+ohne Callback-Jungle programmieren kann.&lt;/p&gt;
+</summary><category term="asynchron"></category><category term="non-blocking"></category><category term="tornado"></category><category term="websockets"></category></entry></feed>

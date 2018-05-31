@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate><item><title>Leverage knowledge from under-represented classes in machine learning: an introduction to imbalanced-learn</title><link>http://pyvideo.org/euroscipy-2017/leverage-knowledge-from-under-represented-classes-in-machine-learning-an-introduction-to-imbalanced-learn.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="the-curse-of-imbalanced-data-sets"&gt;
+&lt;h4&gt;The curse of imbalanced data sets&lt;/h4&gt;
+&lt;p&gt;The curse of imbalanced data set refers to data sets in which the number
+of samples in one class is less than in others. This issue is often
+encountered in real world data sets such as medical imaging applications
+(e.g. cancer detection), fraud detection, etc. In such particular
+condition, machine learning algorithms learn sub-optimal models which
+will generally favor the class having the largest number of samples.&lt;/p&gt;
+&lt;p&gt;In this talk, we will present the
+'&lt;a class="reference external" href="https://github.com/scikit-learn-contrib/imbalanced-learn"&gt;imbalanced-learn&lt;/a&gt;'
+package which implement some of the state-of-the-art algorithms,
+tackling the class imbalance problem.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-scikit-learn-contrib-project"&gt;
+&lt;h4&gt;A &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;scikit-learn-contrib&lt;/span&gt;&lt;/tt&gt; project&lt;/h4&gt;
+&lt;p&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;scikit-learn&lt;/span&gt;&lt;/tt&gt; includes a tremendous set of pre-processing methods
+(i.e. transformers, standardizers, etc.) to optimally train machine
+learning algorithms. However, there is currently no estimators to reduce
+or generate samples. Therefore, the &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;imbalanced-learn&lt;/span&gt;&lt;/tt&gt; provides a new
+type of estimator, named sampler, aiming at resampling a data set
+whenever it is desired. The samplers are fully compatible with the
+current &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;scikit-learn&lt;/span&gt;&lt;/tt&gt; API and are composed of the following main
+methods inspired from &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;scikit-learn&lt;/span&gt;&lt;/tt&gt;: (i) &lt;tt class="docutils literal"&gt;fit&lt;/tt&gt;, (ii) &lt;tt class="docutils literal"&gt;sample&lt;/tt&gt;,
+and (iii) &lt;tt class="docutils literal"&gt;fit_sample&lt;/tt&gt;. Additionally, a class &lt;tt class="docutils literal"&gt;Pipeline&lt;/tt&gt; is
+inherited from &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;scikit-learn&lt;/span&gt;&lt;/tt&gt;, permitting to incorporate samplers in
+the usual classification pipeline. During the talk, we will also present
+the key parameters, shared by all the samplers.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-data-science-perspective"&gt;
+&lt;h4&gt;A data science perspective&lt;/h4&gt;
+&lt;p&gt;Regarding the data science aspect of this talk, we will highlight the
+distinctive characteristics of the different algorithms: (i)
+over-sampling, (ii) controlled under-sampling, (iii) cleaning
+under-sampling, (iv) combination of over-sampling and cleaning
+under-sampling, and (v) ensemble sampler.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="concrete-examples"&gt;
+&lt;h4&gt;Concrete examples&lt;/h4&gt;
+&lt;p&gt;In addition, we will briefly present a couple of examples in which the
+package has been used on real-world data sets.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="perspectives"&gt;
+&lt;h4&gt;Perspectives&lt;/h4&gt;
+&lt;p&gt;Our package is still under heavy development and we are aiming at
+improving the following points:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Speed optimization through benchmarking and profiling.&lt;/li&gt;
+&lt;li&gt;Quantitative classification performance benchmarking.&lt;/li&gt;
+&lt;li&gt;Additional algorithms (categorical features, ...)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume Lemaitre</dc:creator><pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-31:euroscipy-2017/leverage-knowledge-from-under-represented-classes-in-machine-learning-an-introduction-to-imbalanced-learn.html</guid></item><item><title>Python (1/2)</title><link>http://pyvideo.org/euroscipy-2017/python-12.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python tutorial will present the basic of the programming language
+itself. Therefore, no extra package apart of the Jupyter notebook will
+be required. However, we might have a preference for Python 3.6 over
+Python 2.7. The tutorial will be based on the &lt;a class="reference external" href="http://www.scipy-lectures.org/intro/language/python_language.html"&gt;SciPy lecture
+notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The corresponding notebooks are available
+&lt;a class="reference external" href="https://github.com/glemaitre/euroscipy-2017"&gt;here&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume Lemaître</dc:creator><pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-31:euroscipy-2017/python-12.html</guid></item><item><title>Python (2/2)</title><link>http://pyvideo.org/euroscipy-2017/python-22.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python tutorial will present the basic of the programming language
+itself. Therefore, no extra package apart of the Jupyter notebook will
+be required. However, we might have a preference for Python 3.6 over
+Python 2.7. The tutorial will be based on the &lt;a class="reference external" href="http://www.scipy-lectures.org/intro/language/python_language.html"&gt;SciPy lecture
+notes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The corresponding notebooks are available
+&lt;a class="reference external" href="https://github.com/glemaitre/euroscipy-2017"&gt;here&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume Lemaître</dc:creator><pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-31:euroscipy-2017/python-22.html</guid></item></channel></rss>

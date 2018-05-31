@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_nick-lang.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-06-09T00:00:00+00:00</updated><entry><title>Replacing tox with Docker</title><link href="http://pyvideo.org/pycon-cz-2017/replacing-tox-with-docker.html" rel="alternate"></link><published>2017-06-09T00:00:00+00:00</published><updated>2017-06-09T00:00:00+00:00</updated><author><name>Nick Lang</name></author><id>tag:pyvideo.org,2017-06-09:pycon-cz-2017/replacing-tox-with-docker.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Using tox is great to ensure your code works with different pythons.
+But with Docker you can customize the environment that your
+application runs on and ensure that it works across a variety of
+environments while running your tests in parallel.&lt;/p&gt;
+</summary></entry></feed>

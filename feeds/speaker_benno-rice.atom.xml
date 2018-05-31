@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_benno-rice.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-12-03T00:00:00+00:00</updated><entry><title>A Young Twitter Bot's Illustrated Primer (ebook)</title><link href="http://pyvideo.org/north-bay-python-2017/a-young-twitter-bots-illustrated-primer-ebook.html" rel="alternate"></link><published>2017-12-03T00:00:00+00:00</published><updated>2017-12-03T00:00:00+00:00</updated><author><name>Benno Rice</name></author><id>tag:pyvideo.org,2017-12-03:north-bay-python-2017/a-young-twitter-bots-illustrated-primer-ebook.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I run a Twitter bot that's aimed to be amusing. It generates tweets based off a mixture of other Twitter feeds, Facebook posts and some other sources. One of the challenges in making this work has been getting decently amusing output.&lt;/p&gt;
+&lt;p&gt;This presentation will go through some of the options available, ranging from simple Markov systems using markovify, through more complicated Markov approaches and will then look at systems based on torch-rnn and other neural network systems.&lt;/p&gt;
+&lt;p&gt;You'll leave this presentation with a decent overview of the ways you can transform content into new content and the strengths and weaknesses of each.&lt;/p&gt;
+</summary></entry><entry><title>PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html" rel="alternate"></link><published>2010-06-26T00:00:00+00:00</published><updated>2010-06-26T00:00:00+00:00</updated><author><name>Benno Rice</name></author><id>tag:pyvideo.org,2010-06-26:pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Don't Break It: Continuous Integration &amp;amp; Deployment&lt;/p&gt;
+&lt;p&gt;Presented by Benno Rice&lt;/p&gt;
+&lt;p&gt;So you've developed your application, it appears to work and you may
+even have some tests to back that up. Now what?&lt;/p&gt;
+&lt;p&gt;One part of software development that tends to receive not nearly enough
+attention is the process of deploying, supporting and maintaining your
+code in production. This demonstration will give an overview of using
+tools such as Hudson, nose, stdeb and freshen to automate the testing,
+packaging, deployment and verification of production software.&lt;/p&gt;
+</summary><category term="agile"></category><category term="architecture"></category><category term="packaging"></category><category term="pyconau"></category><category term="pyconau2010"></category><category term="testing"></category></entry><entry><title>Making Your Application Behave</title><link href="http://pyvideo.org/pycon-au-2012/making-your-application-behave.html" rel="alternate"></link><published>2012-08-22T00:00:00+00:00</published><updated>2012-08-22T00:00:00+00:00</updated><author><name>Benno Rice</name></author><id>tag:pyvideo.org,2012-08-22:pycon-au-2012/making-your-application-behave.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Behave is a tool for behaviour-driven development inspired by the
+Cucumber tool for Ruby. It allows developers and stakeholders to agree
+on how a particular piece of software should behave using an
+English-like Given-When- Then syntax and f&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Behave is a tool for behaviour-driven development inspired by the
+Cucumber tool for Ruby. It allows developers and stakeholders to agree
+on how a particular piece of software should behave using an
+English-like Given-When- Then syntax and for that behaviour for then to
+be easily tested in whatever manner is appropriate.&lt;/p&gt;
+&lt;p&gt;This presentation will provide an introduction to behaviour-driven
+development, behaviour testing in general and the behave tool along with
+its advantages over alternatives such as lettuce and freshen.&lt;/p&gt;
+</summary><category term="bdd"></category><category term="behave"></category></entry></feed>

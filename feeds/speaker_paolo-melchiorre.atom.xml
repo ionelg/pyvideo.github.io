@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_paolo-melchiorre.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-07-12T00:00:00+00:00</updated><entry><title>Ricerca full text in Django con PostgreSQL</title><link href="http://pyvideo.org/pycon-italia-2017/ricerca-full-text-in-django-con-postgresql.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Paolo Melchiorre</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/ricerca-full-text-in-django-con-postgresql.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Dalla versione 1.10 di &lt;strong&gt;Django&lt;/strong&gt; è presente il modulo che facilita
+l’utilizzo del motore di &lt;strong&gt;ricerca full text&lt;/strong&gt; di PostgreSQL. Dal
+momento che &lt;strong&gt;PostgreSQL&lt;/strong&gt; è utilizzato in molti progetti Django,
+sfruttare il suo motore di ricerca full text permette di avere questa
+funzionalità molto facilmente, senza dover configurare prodotti esterni
+e senza doversi preoccupare di mantenere sincronizzati i dati tra
+differenti sistemi. Vedremo come abbiamo sfruttato questa funzionalità
+di ricerca full text in un &lt;strong&gt;progetto reale&lt;/strong&gt;.&lt;/p&gt;
+</summary><category term="Full Text Search"></category><category term="search"></category><category term="postgresql"></category><category term="python3"></category><category term="django"></category></entry><entry><title>Full-Text Search in Django with PostgreSQL</title><link href="http://pyvideo.org/europython-2017/full-text-search-in-django-with-postgresql.html" rel="alternate"></link><published>2017-07-12T00:00:00+00:00</published><updated>2017-07-12T00:00:00+00:00</updated><author><name>Paolo Melchiorre</name></author><id>tag:pyvideo.org,2017-07-12:europython-2017/full-text-search-in-django-with-postgresql.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;After some experiences in the implementation of full-text search
+functionality with different system, we have decided to use
+PostgreSQL to implement full-text search functionality in our next
+project, a website to search for shows, venues, bands and festivals.&lt;/p&gt;
+&lt;p&gt;In the past, I have worked in two different projects, a mobile
+platform to sell and buy used items and a sport videos sharing
+platform, where I used two of the most currently famous full-text
+search software (Elasticsearch or Solr) but I had some
+synchronization and management problems.&lt;/p&gt;
+&lt;p&gt;After that, in my company, we searched for new Django support of
+full-text search PostgreSQL implementation and we decided to use it
+to avoid any problems that I had in the past.&lt;/p&gt;
+&lt;p&gt;I’m going to start speaking about the full-text search in a general
+context and I want to show the problems I encountered implementing it
+in the past.&lt;/p&gt;
+&lt;p&gt;Afterwards, I’m going to talk about the PostgreSQL functionality to
+implement the full-text search functionality and also present the
+django.contrib.potgres.search module, with step-by-step
+demonstrations of its functions with real world data.&lt;/p&gt;
+&lt;p&gt;Finally, I’m going to show the way we use and test this functionality
+in our project and which functionality lacks us to have a complete
+implementation of full-text search in our project.&lt;/p&gt;
+&lt;p&gt;At the end, I want to present my conclusions about our solution and I
+want to explore some new features that will be present in the next
+versions of Django and PostgreSQL.&lt;/p&gt;
+</summary></entry></feed>

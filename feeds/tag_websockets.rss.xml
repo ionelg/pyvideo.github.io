@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>La GUI di Genropy</title><link>http://pyvideo.org/pycon-italia-2017/la-gui-di-genropy.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lo scopo di quersto talk è di offrire una panoramica della GUI di
+Genropy e del suo meccanismo di funzionamento. In particolare verra
+mostrato come sia possibile, scrivendo solo codice python, usare genropy
+come interfaccia grafica al di fuori del classico uso del gestionale&lt;/p&gt;
+&lt;p&gt;Proveremo a vedere come dare un’ interfaccia grafica ad alcuni comandi
+di shell e a mostrare come tramite i widget di genropy sia possibile
+gestire con poche righe di codice python widget complessi come griglie,
+griglie editabili e alberi.&lt;/p&gt;
+&lt;p&gt;Vi mostreremo l’utilizzo sia in versione classica nel browser, che con
+electron.&lt;/p&gt;
+&lt;p&gt;Mostreremo anche l’uso di RPC classiche e di websocket.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Porcari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/la-gui-di-genropy.html</guid><category>genropy</category><category>gui</category><category>websockets</category></item><item><title>Asynchrone Programmierung mit Tornado</title><link>http://pyvideo.org/pycon-de-2013/asynchrone-programmierung-mit-tornado.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Tornado ist eine asynchrone Netzwerkbibliothek mit der Fähigkeit
+zehntausende Verbindungen zu verwalten. Dieser Vortrag legt dar, wie
+dies erreicht wird und für welche Probleme Tornado die Lösung ist - und
+für welche nicht. Mit Praxisbeispielen wird vorgestellt, wie TCP-Server
+und Webanwendungen realisiert werden können und wie man asynchron auch
+ohne Callback-Jungle programmieren kann.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Ludwig</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-16:pycon-de-2013/asynchrone-programmierung-mit-tornado.html</guid><category>asynchron</category><category>non-blocking</category><category>tornado</category><category>websockets</category></item></channel></rss>

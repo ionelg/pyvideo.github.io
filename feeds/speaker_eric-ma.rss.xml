@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 12 May 2018 00:00:00 +0000</lastBuildDate><item><title>Network Analysis Made Simple: Part II</title><link>http://pyvideo.org/pycon-us-2018/network-analysis-made-simple-part-ii.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Daenerys or Jon Snow? Diffusion of news through Twitter? JFK, ORD or ATL, do these codes look familiar? In this tutorial we build up on the fundamentals of Part 1 tutorial and look at various applications of network analysis to real world datasets like the US Airport Dataset, Game of Thrones character co-occurrence network, and foray into diffusion processes on networks.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mridul Seth</dc:creator><pubDate>Sat, 12 May 2018 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2018-05-12:pycon-us-2018/network-analysis-made-simple-part-ii.html</guid></item><item><title>Network Analysis Made Simple: Part I</title><link>http://pyvideo.org/pycon-us-2018/network-analysis-made-simple-part-i.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wondered about how those data scientists at Facebook and LinkedIn make friend recommendations? Or how epidemiologists track down patient zero in an outbreak? If so, then this tutorial is for you. In this tutorial, which is Part I of a two-part series, we will use a variety of datasets to help you understand the fundamentals of network thinking, with a particular focus on constructing, summarizing, and visualizing complex networks. With this tutorial, you will be well equipped to explore advanced topics (dynamics on graphs, evolving graphs, and network propagation methods) in Part II.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Ma</dc:creator><pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2018-05-10:pycon-us-2018/network-analysis-made-simple-part-i.html</guid></item><item><title>Network Science and Statistics - Fundamentals and Applications</title><link>http://pyvideo.org/scipy-2017/network-science-and-statistics-fundamentals-and-applications.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There are audio issues with this video that cannot be fixed. We recommend listening to the tutorial without headphones to minimize the buzzing sound.
+Tutorial information may be found at &lt;a class="reference external" href="https://scipy2017.scipy.org/ehome/220975/493423/"&gt;https://scipy2017.scipy.org/ehome/220975/493423/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this tutorial, we will cover the fundamentals and practical aspects of network science and how it can be used to solve problems in science and society! Outline:&lt;/p&gt;
+&lt;p&gt;Part 1: Introduction (30 min)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Networks of all kinds: biological, transportation.&lt;/li&gt;
+&lt;li&gt;Representation of networks, NetworkX data structures&lt;/li&gt;
+&lt;li&gt;Basic quick-and-dirty visualizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 2: Hubs and Paths (40 min)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Finding important nodes; applications&lt;/li&gt;
+&lt;li&gt;Pathfinding algorithms and their applications&lt;/li&gt;
+&lt;li&gt;Hands-on: implementing path-finding algorithms&lt;/li&gt;
+&lt;li&gt;Visualize degree and betweenness centrality distributions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 3: Cliques, Triangles &amp;amp; Structures (40 min)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Definition of cliques&lt;/li&gt;
+&lt;li&gt;Triangles as the simplest complex clique, applications&lt;/li&gt;
+&lt;li&gt;Using path-finding algorithms to find structures in a graph.&lt;/li&gt;
+&lt;li&gt;Open triangles as recommender systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 4: Bipartite Graphs (30 min)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Definition of bipartite graphs, applications&lt;/li&gt;
+&lt;li&gt;Constructing bipartite graphs in NetworkX.&lt;/li&gt;
+&lt;li&gt;Summary statistics of bipartite graphs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 5: Advanced Network Visualizations &amp;amp; Concepts (40 min)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Basic concepts in rational layouts: node positioning, node colouring.&lt;/li&gt;
+&lt;li&gt;Plots: Circos, Arc, Hive, Matrix, Flow plots&lt;/li&gt;
+&lt;li&gt;Handling large graphs using matrices.&lt;/li&gt;
+&lt;li&gt;Graph diffs and their application to analysis of time-variant, evolving graphs.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Ma</dc:creator><pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-05:scipy-2017/network-science-and-statistics-fundamentals-and-applications.html</guid><category>tutorial</category></item><item><title>How to formulate a (science) problem and analyze it using Python code</title><link>http://pyvideo.org/pycon-us-2014/how-to-formulate-a-science-problem-and-analyze.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Are you interested in doing analysis but don't know where to start? This
+tutorial is for you. Python packages &amp;amp; tools (IPython, scikit-learn,
+NetworkX) are powerful for performing data analysis. However, little is
+said about formulating the questions and tying these tools together to
+provide a holistic view of the data. This tutorial will provide you with
+an introduction on how this can be done.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Ma</dc:creator><pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-11:pycon-us-2014/how-to-formulate-a-science-problem-and-analyze.html</guid></item><item><title>Practical Graph/Network Analysis Made Simple</title><link>http://pyvideo.org/pycon-us-2015/practical-graphnetwork-analysis-made-simple.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wondered about how those data scientists at Facebook and
+LinkedIn make friend recommendations? Or how epidemiologists track down
+patient zero in an outbreak? If so, then this tutorial is for you. Here,
+we will explore a bike sharing data set as a way to understand the kinds
+of problems that can be solved using graph analytics.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Ma</dc:creator><pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-09:pycon-us-2015/practical-graphnetwork-analysis-made-simple.html</guid></item></channel></rss>

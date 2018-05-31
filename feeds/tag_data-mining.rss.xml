@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Machine Learning con Python: previsione in real-time della richiesta di energia elettrica</title><link>http://pyvideo.org/pycon-italia-2017/machine-learning-con-python-previsione-in-real-time-della-richiesta-di-energia-elettrica.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Nel talk si parlerà di come attraverso il linguaggio Python sia
+possibile risolvere un problema reale e complesso relativamente alla
+trasmissione di energia elettrica. Verrà spiegato il progetto
+&lt;strong&gt;RealtimeLoadForecast&lt;/strong&gt; che è stato sviluppato per un importante TSO
+(Transmission System Operator). Si tratta di sistema predittivo che
+permette di fornire in tempo reale ogni 15 minuti ed entro 5 minuti, le
+previsioni delle serie storiche dei consumi di energia elettrica
+relativi a circa 500 nodi elettrici.&lt;/p&gt;
+&lt;p&gt;Si parlerà dei passi che occorre seguire per ottenere da un semplice
+prototipo, un sistema &lt;em&gt;ingegnerizzato&lt;/em&gt; che lavori in tempo reale e di
+come sono state utilizzate le librerie di Python per l’acquisizione,
+manipolazione e processamento dei dati elettrici ed ambientali.&lt;/p&gt;
+&lt;p&gt;Saranno descritte alcune tecniche algoritmiche e di Machine Learning per
+ottenere dei modelli predittivi capaci di fornire previsioni accurate ma
+con tempi di risposta sfidanti.&lt;/p&gt;
+&lt;p&gt;Verrà mostrato un &lt;em&gt;esempio concreto&lt;/em&gt; di implementazione di un algoritmo
+predittivo basato sulla libreria Deep Learning &lt;strong&gt;Keras&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Per la comprensione del talk non sono necessari particolari requisiti se
+non una conoscenza di base di programmazione in Python e di Machine
+Learning.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Felice Tuosto</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/machine-learning-con-python-previsione-in-real-time-della-richiesta-di-energia-elettrica.html</guid><category>Forecasting</category><category>Genetic Algorithms</category><category>Keras</category><category>Data Mining</category><category>programming-paradigms</category><category>scikit-learn</category><category>bigdata</category><category>scalability</category><category>Deep-Learning</category><category>threading</category><category>realtime</category><category>Data-Scientist</category><category>database</category><category>machine-learning</category><category>mysql</category><category>signal-processing</category><category>LoadForecasting</category><category>cassandra</category></item><item><title>Data mining and integration with Python</title><link>http://pyvideo.org/pytexas-2015/data-mining-and-integration-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There is an abundance of data in social media sites (Wikipedia,
+Facebook, Instagram, etc.) which can be accessed through web APIs. But
+how do we know that the data from the Wikipedia article on &amp;quot;Golden Gate
+Bridge&amp;quot; goes along with the data from &amp;quot;Golden Gate Bridge&amp;quot; Facebook
+page? This represents an important question about integrating data from
+various sources.&lt;/p&gt;
+&lt;p&gt;In this talk, I'll outline important aspects of structured data mining,
+integration and entity resolution methods in a scalable system.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Isaac Vidas</dc:creator><pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-09:pytexas-2015/data-mining-and-integration-with-python.html</guid><category>Data</category><category>Data Analysis</category><category>data mining</category></item><item><title>Data Mining mit Orange</title><link>http://pyvideo.org/pycon-de-2013/data-mining-mit-orange.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Es wird eine einfache Einführung in das Thema Data Mining gegeben. Dazu
+werden anschauliche Beispiele für den Einsatz von Orange gezeigt. Orange
+ist ein Open Source Programm, das Data Mining und Datenvisualisierung
+durch visuelle Programmierung oder Python Scripting ermöglicht.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Bresser</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-16:pycon-de-2013/data-mining-mit-orange.html</guid><category>classification</category><category>data mining</category><category>klassifikation</category><category>orange</category></item></channel></rss>

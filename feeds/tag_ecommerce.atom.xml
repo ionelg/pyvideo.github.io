@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_ecommerce.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-07T00:00:00+00:00</updated><entry><title>Sviluppo lato client con Odoo</title><link href="http://pyvideo.org/pycon-italia-2017/sviluppo-lato-client-con-odoo.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/sviluppo-lato-client-con-odoo.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;a class="reference external" href="http://odoo.com"&gt;Odoo&lt;/a&gt; è un framework utilizzato prevalentemente per
+lo sviluppo di soluzioni business, dall’ambito all’ERP all’e-commerce.
+E’ famoso per essere estremamente malleabile e scritto interamente in
+Python. Linguaggio con il quale può essere facilmente personalizzato ed
+esteso. Ma lo sviluppo di componenti client-side si fa sempre più
+sentire (hey, siamo nel 2017, non lamentarti) ed è ormai necessario
+comprendere come arricchire i nostri moduli Odoo scritti in Python con
+qualche riga di codice JavaScript.&lt;/p&gt;
+</summary><category term="Python"></category><category term="javascript"></category><category term="ecommerce"></category><category term="Odoo"></category></entry></feed>

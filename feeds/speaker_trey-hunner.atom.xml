@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_trey-hunner.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2018-05-12T00:00:00+00:00</updated><entry><title>Python 2 to 3: How to Upgrade and What Features to Start Using</title><link href="http://pyvideo.org/pycon-us-2018/python-2-to-3-how-to-upgrade-and-what-features-to-start-using.html" rel="alternate"></link><published>2018-05-12T00:00:00+00:00</published><updated>2018-05-12T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2018-05-12:pycon-us-2018/python-2-to-3-how-to-upgrade-and-what-features-to-start-using.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The end of life for Python 2 is 2020. Python 3 is the future and you'll need to consider both your upgrade plan and what steps you'll take after upgrading to start leveraging Python 3 features.&lt;/p&gt;
+&lt;p&gt;During this talk we'll briefly discuss how to start &lt;strong&gt;the process of upgrading your code to Python 3&lt;/strong&gt;. We'll then dive into some of &lt;strong&gt;the most useful Python 3 features&lt;/strong&gt; that you'll be able to start embracing once you drop Python 2 support.&lt;/p&gt;
+&lt;p&gt;A number of the most powerful Python 3 features are syntactic features that are &lt;strong&gt;Python 3 only&lt;/strong&gt;. You won't get any experience using these features until you fully upgrade. These features are an incentive to drop Python 2 support in existing 2 and 3 compatible code. You can consider this talk as a teaser of Python 3 features that you may have never used.&lt;/p&gt;
+&lt;p&gt;After this talk I hope you'll be inspired to fully upgrade your code to Python 3.&lt;/p&gt;
+</summary><category term="python3"></category><category term="python3 migration"></category></entry><entry><title>Using List Comprehensions and Generator Expressions For Data Processing</title><link href="http://pyvideo.org/pycon-us-2018/using-list-comprehensions-and-generator-expressions-for-data-processing.html" rel="alternate"></link><published>2018-05-09T00:00:00+00:00</published><updated>2018-05-09T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2018-05-09:pycon-us-2018/using-list-comprehensions-and-generator-expressions-for-data-processing.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Creating one list out of another list is a very common thing to do in Python, so common that Python includes a special construct just for this purpose: list comprehensions. We'll get hands-on experience using list comprehensions, set comprehensions, and dictionary comprehensions during this tutorial. We'll also learn how and when we can slightly tweak our comprehensions to turn them into more performant generator expressions.&lt;/p&gt;
+&lt;p&gt;We will learn some tricks for figuring out which of our &amp;quot;for&amp;quot; loops can be rewritten as comprehensions and which cannot. We will focus heavily on code readability and code clarity and we'll discuss when comprehensions help readability and when they hurt.&lt;/p&gt;
+&lt;p&gt;All new skills will be acquired through practice. We'll work through many exercises both individually and as a group. All students will also receive a cheat sheet which can be used for guidance during future comprehension-writing journeys.&lt;/p&gt;
+&lt;p&gt;A laptop with Python installed is required for this workshop.&lt;/p&gt;
+</summary></entry><entry><title>Loop better: a deeper look at iteration in Python</title><link href="http://pyvideo.org/north-bay-python-2017/loop-better-a-deeper-look-at-iteration-in-python.html" rel="alternate"></link><published>2017-12-02T00:00:00+00:00</published><updated>2017-12-02T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-12-02:north-bay-python-2017/loop-better-a-deeper-look-at-iteration-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What's the difference between an iterable, an iterator, and a generator?  Do you know how to create infinitely long iterables?&lt;/p&gt;
+&lt;p&gt;Come to this talk to learn some of Python's slightly more advanced looping techniques.&lt;/p&gt;
+&lt;p&gt;Iterables are a very big deal in Python and they became even more important in Python 3.  There's quite a bit beyond the basics when it comes to loops and looping in Python.  Let's learn some of Python's slightly more advanced looping techniques!&lt;/p&gt;
+&lt;p&gt;In this session, we'll take a step back and learn about how looping actually works in Python.  We'll then learn about a number of Python looping techniques that you've probably overlooked.&lt;/p&gt;
+&lt;p&gt;We'll learn about the difference between sequences, iterables, and iterators.  We'll also reveal the iterator protocol that powers &lt;cite&gt;for&lt;/cite&gt; loops in Python.&lt;/p&gt;
+&lt;p&gt;After we learn the basics, we'll learn some techniques for working with infinite infinite iterables, generators, and generator expressions.&lt;/p&gt;
+&lt;p&gt;Attendees will walk away from this session with specific actionable recommendations for refactoring their own code as well as a wealth of new topics to look deeper into after the session.&lt;/p&gt;
+</summary></entry><entry><title>Loop better: a deeper look at iteration in Python</title><link href="http://pyvideo.org/pygotham-2017/loop-better-a-deeper-look-at-iteration-in-python.html" rel="alternate"></link><published>2017-10-06T00:00:00+00:00</published><updated>2017-10-06T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-10-06:pygotham-2017/loop-better-a-deeper-look-at-iteration-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;dl class="docutils"&gt;
+&lt;dt&gt;What's the difference between an iterable, an iterator, and a generator?  Do you know how to create infinitely long iterables?&lt;/dt&gt;
+&lt;dd&gt;Come to this talk to learn some of Python's slightly more advanced looping techniques.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Iterables are a very big deal in Python and they became even more important in Python 3.  There's quite a bit beyond the basics when it comes to loops and looping in Python.  Let's learn some of Python's slightly more advanced looping techniques!&lt;/p&gt;
+&lt;p&gt;In this session, we'll take a step back and learn about how looping actually works in Python.  We'll then learn about a number of Python looping techniques that you've probably overlooked.&lt;/p&gt;
+&lt;p&gt;We'll learn about the difference between sequences, iterables, and iterators.  We'll also reveal the iterator protocol that powers &lt;cite&gt;for&lt;/cite&gt; loops in Python.&lt;/p&gt;
+&lt;p&gt;After we learn the basics, we'll learn some techniques for working with infinite infinite iterables, generators, and generator expressions.&lt;/p&gt;
+&lt;p&gt;Attendees will walk away from this session with specific actionable recommendations for refactoring their own code as well as a wealth of new topics to look deeper into after the session.&lt;/p&gt;
+</summary></entry><entry><title>Comprehensible Comprehensions</title><link href="http://pyvideo.org/pycon-au-2017/comprehensible-comprehensions.html" rel="alternate"></link><published>2017-08-05T00:00:00+00:00</published><updated>2017-08-05T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-08-05:pycon-au-2017/comprehensible-comprehensions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Finding list comprehensions incomprehensible? Having trouble figuring out when to use list comprehensions or just plain for loops?  Come to this talk and learn the how, when, and why of list comprehensions.&lt;/p&gt;
+&lt;p&gt;Finding list comprehensions incomprehensible?  Having trouble figuring out when to use list comprehensions or just plain &lt;cite&gt;for&lt;/cite&gt; loops?&lt;/p&gt;
+&lt;p&gt;If you find comprehensions tricky to write or perplexing to read, this talk is for you.&lt;/p&gt;
+&lt;p&gt;We're going to learn:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;when and how to turn a &lt;cite&gt;for&lt;/cite&gt; loop into a comprehension&lt;/li&gt;
+&lt;li&gt;why list comprehensions are often hard to read&lt;/li&gt;
+&lt;li&gt;how to use list, set, an dictionary comprehensions as well as generator expressions&lt;/li&gt;
+&lt;li&gt;how to make your comprehensions even more readable than your loops&lt;/li&gt;
+&lt;li&gt;when and how not to use comprehensions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You'll come away from this talk with a cheat sheet for helping you remember when and how to use comprehensions.&lt;/p&gt;
+</summary></entry><entry><title>Loop better: a deeper look at iteration in Python</title><link href="http://pyvideo.org/pycon-au-2017/loop-better-a-deeper-look-at-iteration-in-python.html" rel="alternate"></link><published>2017-08-04T00:00:00+00:00</published><updated>2017-08-04T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-08-04:pycon-au-2017/loop-better-a-deeper-look-at-iteration-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What's the difference between an iterable, an iterator, and a generator?  Do you know how to create infinitely long iterables?
+Come to this talk to learn some of Python's slightly more advanced looping techniques.&lt;/p&gt;
+&lt;p&gt;Iterables are a very big deal in Python and they became even more important in Python 3.  There's quite a bit beyond the basics when it comes to loops and looping in Python.  Let's learn some of Python's slightly more advanced looping techniques!&lt;/p&gt;
+&lt;p&gt;In this session, we'll take a step back and learn about how looping actually works in Python.  We'll then learn about a number of Python looping techniques that you've probably overlooked.&lt;/p&gt;
+&lt;p&gt;We'll learn about the difference between sequences, iterables, and iterators.  We'll also reveal the iterator protocol that powers for loops in Python.&lt;/p&gt;
+&lt;p&gt;After we learn the basics, we'll learn some techniques for working with infinite infinite iterables, generators, and generator expressions.&lt;/p&gt;
+&lt;p&gt;Attendees will walk away from this session with specific actionable recommendations for refactoring their own code as well as a wealth of new topics to look deeper into after the session.&lt;/p&gt;
+</summary></entry><entry><title>Readability Counts</title><link href="http://pyvideo.org/pycon-us-2017/readability-counts.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/readability-counts.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you found unreadable PEP8-compliant code and wondered how to fix
+it? Have you ever seen code that was simply a pleasure to read?&lt;/p&gt;
+&lt;p&gt;If you've ever wondered what makes code easy to read, this talk is for
+you.&lt;/p&gt;
+&lt;p&gt;During this talk we'll learn a number of techniques for refactoring code
+to improve readability and maintainability.&lt;/p&gt;
+&lt;p&gt;We'll discuss:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;whitespace&lt;/li&gt;
+&lt;li&gt;self-documenting code&lt;/li&gt;
+&lt;li&gt;modularity&lt;/li&gt;
+&lt;li&gt;expectation management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We'll end with a checklist for improving the readability of your own
+code.&lt;/p&gt;
+</summary></entry><entry><title>Hands-On Intro to Python for New Programmers</title><link href="http://pyvideo.org/pycon-us-2017/hands-on-intro-to-python-for-new-programmers.html" rel="alternate"></link><published>2017-05-18T00:00:00+00:00</published><updated>2017-05-18T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-05-18:pycon-us-2017/hands-on-intro-to-python-for-new-programmers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Brand new to programming and want to get some hands-on Python
+experience? Let's learn some Python together!&lt;/p&gt;
+&lt;p&gt;During this tutorial we will work through a number of programming
+exercises together. We'll be doing a lot of asking questions, taking
+guesses, trying things out, and seeking out help from others.&lt;/p&gt;
+&lt;p&gt;In this tutorial we'll cover:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Types of things in Python: strings, numbers, lists&lt;/li&gt;
+&lt;li&gt;Conditionally executing code&lt;/li&gt;
+&lt;li&gt;Repeating code with loops&lt;/li&gt;
+&lt;li&gt;Getting user input&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Readable Regular Expressions</title><link href="http://pyvideo.org/pycon-us-2017/readable-regular-expressions.html" rel="alternate"></link><published>2017-05-17T00:00:00+00:00</published><updated>2017-05-17T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-05-17:pycon-us-2017/readable-regular-expressions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What are regular expressions, what are they useful for, and why are they
+so hard to read? We'll learn what regular expressions are good for, how
+to make our own regular expressions, and how to make our regular
+expressions friendly and readable (yes it's possible, sort of).&lt;/p&gt;
+</summary></entry><entry><title>Readability Counts</title><link href="http://pyvideo.org/djangocon-us-2016/readability-counts.html" rel="alternate"></link><published>2016-08-10T00:00:00+00:00</published><updated>2016-08-10T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2016-08-10:djangocon-us-2016/readability-counts.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon US 2016 - Readability Counts by Trey Hunner&lt;/p&gt;
+&lt;p&gt;Most code is read many more times than it is written. Constructing readable code is important, but that doesn't mean it's easy.&lt;/p&gt;
+&lt;p&gt;If you've ever found unreadable PEP8-compliant code and wondered how to fix it, this talk is for you.&lt;/p&gt;
+&lt;p&gt;Long-lived code must be maintainable and readability is a prerequisite of maintainability. It's easier to identify unreadable code than it is to create readable code.&lt;/p&gt;
+&lt;p&gt;Let's talk about how to shape tricky code into something more readable and more maintainable.&lt;/p&gt;
+&lt;p&gt;During this talk we'll discuss:&lt;/p&gt;
+&lt;p&gt;whitespace
+self-documenting code
+modularity
+expectation management
+We'll conclude this talk with a checklist of questions you can use to make your own code more readable.&lt;/p&gt;
+</summary></entry><entry><title>Regular Expressions</title><link href="http://pyvideo.org/pycon-us-2016/trey-hunner-regular-expressions-pycon-2016.html" rel="alternate"></link><published>2016-06-09T00:00:00+00:00</published><updated>2016-06-09T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2016-06-09:pycon-us-2016/trey-hunner-regular-expressions-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Trey Hunner&lt;/p&gt;
+&lt;p&gt;What are regular expressions, what are they useful for, and why are they so hard to read?  We'll learn what regular expressions are good for, how to make our own regular expressions, and how to make our regular expressions friendly and readable (yes it's possible, sort of).&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talks - Part 2</title><link href="http://pyvideo.org/djangocon-us-2015/lightning-talks-part-2.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Dmitry Filippov</name></author><id>tag:pyvideo.org,2015-09-18:djangocon-us-2015/lightning-talks-part-2.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning Talks&lt;/p&gt;
+&lt;p&gt;Dmitry Filippov &amp;quot;Django assistance in PyCharm&amp;quot;&lt;/p&gt;
+&lt;p&gt;Paul Bailey &amp;quot;End the Holy Wars of Formatting&amp;quot;&lt;/p&gt;
+&lt;p&gt;Trey Hunner &amp;quot;JavaScript is Becoming Pythonic&amp;quot;&lt;/p&gt;
+&lt;p&gt;Eduardo Rivas &amp;quot; Sublime Text Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Jeff Sumner &amp;quot;Texas Swim Center&amp;quot;&lt;/p&gt;
+&lt;p&gt;Francisco Saldana &amp;quot;Keeping Fast Fast: Rapid Iteration with
+TransactionTestCase&amp;quot;&lt;/p&gt;
+&lt;p&gt;Raphael Merx &amp;quot;Mocking Outbound Requests with HTTPretty&amp;quot;&lt;/p&gt;
+&lt;p&gt;James Tauber &amp;quot;Building a Learning Management System with Pinax&amp;quot;&lt;/p&gt;
+&lt;p&gt;Miroslav Shubernetskiy &amp;quot;Filtering in Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Armin Ronacher &amp;quot;rb - Scaling Redis in Python&amp;quot;&lt;/p&gt;
+&lt;p&gt;Brendan Sterne &amp;quot;Code Wiki&amp;quot;&lt;/p&gt;
+&lt;p&gt;Russell Keith-Magee &amp;quot;Professional Yak Coiffure&amp;quot;&lt;/p&gt;
+</summary><category term="lightning talks"></category></entry></feed>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate><item><title>Deploying Django web applications in Docker containers</title><link>http://pyvideo.org/pycon-za-2017/deploying-django-web-applications-in-docker-containers.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will describe how to package a Django web application as a
+Docker container image for use on a container orchestration platform.
+Starting with a common Django setup involving Nginx, Gunicorn, and
+Celery, we will show how to adapt the application to run inside
+containers.&lt;/p&gt;
+&lt;p&gt;Container orchestration platforms such as Kubernetes and DC/OS are
+growing increasingly popular. These systems provide many advantages, but
+require significant changes to how applications are packaged and
+deployed. Instead of running on staticly-configured webservers,
+applications must run in containers that are dynamically deployed to a
+pool of hosts.&lt;/p&gt;
+&lt;p&gt;There are further benefits to packaging applications as containers. By
+providing an easy-to-use and tested base image for Django applications,
+deployment best-practices are easily and consistently replicated.
+Integration testing becomes more practical, as containers can be run
+similarly between development and production environments.&lt;/p&gt;
+&lt;p&gt;This talk expects some familiarity with Django, as well as the basics of
+Docker and HTTP. There should be lessons relevant to anybody interested
+in using Docker for Python-based web applications.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jamie Hewland</dc:creator><pubDate>Fri, 06 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-06:pycon-za-2017/deploying-django-web-applications-in-docker-containers.html</guid></item></channel></rss>

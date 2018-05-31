@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Genropy: 10 anni di sviluppo di un framework italiano</title><link>http://pyvideo.org/pycon-italia-2017/genropy-10-anni-di-sviluppo-di-un-framework-italiano.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Genropy è un framework per la creazione di Single Page Applications che
+consente allo sviluppatore di scrivere applicazioni complesse in tempi
+brevissimi. Lo scopo del framework è di mettere a disposizione un
+potente costruttore di GUI web, un ORM molto facile, veloce ed intivo ed
+una serie di component che rendono possibile costruire la propria
+applicazione in poche righe di codice. A questo si aggiungono tools di
+amministrazione per la gestione di permessi, grafici, gestione del
+workflow, gestore di stampe e molti altri che fanno di Genropy
+un’ambiente usabile immediatamente in produzione anche in situazioni
+complesse e critiche.&lt;/p&gt;
+&lt;p&gt;Abbiamo cominciato a scrivere Genropy nel 2005 e durante il primo Pycon
+qui a Firenze nel 2007, abbiamo ne abbiamo mostrato la primissima
+versione. Da allora, ogni edizione di Pycon è stata l’occasione per
+presentare le nuove features e cercare di diffondere la copnoscenza di
+questo framework . A distanza di 10 anni possiamo dire che esiste una
+minuscola ma molto attiva community che utilizza Genropy come strumento
+quotidiano per scrivere le proprie applicazioni web.&lt;/p&gt;
+&lt;p&gt;In questo talk vorremmo raccontarvi questa avventura, e darvi modo di
+conoscere meglio Genropy e di capire se può essere anche per voi il
+vostro nuovo modo di scriverre applicazioni web.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Porcari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/genropy-10-anni-di-sviluppo-di-un-framework-italiano.html</guid><category>community</category><category>genropy</category><category>gui</category><category>web-development</category><category>business</category></item><item><title>La GUI di Genropy</title><link>http://pyvideo.org/pycon-italia-2017/la-gui-di-genropy.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lo scopo di quersto talk è di offrire una panoramica della GUI di
+Genropy e del suo meccanismo di funzionamento. In particolare verra
+mostrato come sia possibile, scrivendo solo codice python, usare genropy
+come interfaccia grafica al di fuori del classico uso del gestionale&lt;/p&gt;
+&lt;p&gt;Proveremo a vedere come dare un’ interfaccia grafica ad alcuni comandi
+di shell e a mostrare come tramite i widget di genropy sia possibile
+gestire con poche righe di codice python widget complessi come griglie,
+griglie editabili e alberi.&lt;/p&gt;
+&lt;p&gt;Vi mostreremo l’utilizzo sia in versione classica nel browser, che con
+electron.&lt;/p&gt;
+&lt;p&gt;Mostreremo anche l’uso di RPC classiche e di websocket.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Porcari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/la-gui-di-genropy.html</guid><category>genropy</category><category>gui</category><category>websockets</category></item><item><title>Erpy: una solida base per scrivere gestionali su misura</title><link>http://pyvideo.org/pycon-italia-2016/erpy-una-solida-base-per-scrivere-gestionali-su-misura.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Porcari</dc:creator><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-20:pycon-italia-2016/erpy-una-solida-base-per-scrivere-gestionali-su-misura.html</guid></item></channel></rss>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jirka-vejrazka.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-06-08T00:00:00+00:00</updated><entry><title>Lightning talks Thursday</title><link href="http://pyvideo.org/pycon-cz-2017/lightning-talks-thursday.html" rel="alternate"></link><published>2017-06-08T00:00:00+00:00</published><updated>2017-06-08T00:00:00+00:00</updated><author><name>Viktor Stískala</name></author><id>tag:pyvideo.org,2017-06-08:pycon-cz-2017/lightning-talks-thursday.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks Thursday&lt;/p&gt;
+</summary><category term="lightning talks"></category></entry><entry><title>Poor person's parallel processing</title><link href="http://pyvideo.org/pycon-cz-2017/poor-persons-parallel-processing.html" rel="alternate"></link><published>2017-06-08T00:00:00+00:00</published><updated>2017-06-08T00:00:00+00:00</updated><author><name>Jirka Vejražka</name></author><id>tag:pyvideo.org,2017-06-08:pycon-cz-2017/poor-persons-parallel-processing.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A relatively simple example of using Python to elegantly handle
+resource intensive tasks (e.g. password cracking, mass DNS
+resolution, large port scans) in a distributed way using multiple
+physical or virtual hosts.&lt;/p&gt;
+</summary></entry></feed>

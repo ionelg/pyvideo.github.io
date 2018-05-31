@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate><item><title>Python Profiling with Intel® VTune™ Amplifier</title><link>http://pyvideo.org/europython-2017/python-profiling-with-intelr-vtunetm-amplifier.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has grown in both significance and popularity in the last
+years, especially in the field of high performance computing and
+machine learning. When it comes to performance, there are numerous
+ways of profiling and measuring code performance—with each analysis
+tool having its own strengths and weaknesses. In this talk, we will
+introduce a rich GUI application (Intel® VTune™ Amplifier) which can
+be used to analyze the runtime performance of one’s Python
+application, and fully understand where the performance bottlenecks
+are in one’s code.  With this application, one may also analyze the
+call-stacks and get quick visual clues where one’s Python application
+is spending time or wasting CPU cycles.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Shailen Sobhee</dc:creator><pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-10:europython-2017/python-profiling-with-intelr-vtunetm-amplifier.html</guid></item></channel></rss>

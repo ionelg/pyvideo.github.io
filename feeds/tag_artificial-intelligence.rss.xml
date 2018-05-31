@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Explore the brain with Nilearn</title><link>http://pyvideo.org/pycon-italia-2017/explore-the-brain-with-nilearn.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In the past recent years, the Python programming language became popular
+and widely used in many science areas, that you can notes from huge
+amount of high quality &lt;strong&gt;scientific&lt;/strong&gt; libraries available in GitHub.
+Python has already won the confidence in neuro-imaging community&lt;/p&gt;
+&lt;p&gt;Analysis of different &lt;strong&gt;neuroimaging&lt;/strong&gt; modalities consists of
+identifying such a complex pipeline that include supporting specific
+&lt;strong&gt;MRI&lt;/strong&gt; data acquisition, image processing, statistics and predictive
+modeling, and visualization of the results. &lt;strong&gt;Nilearn&lt;/strong&gt; is a Python
+package designed to face these challenges. It provides state-of-the-art
+&lt;strong&gt;machine-learning&lt;/strong&gt; methods for analysis task fMRI, resting-state, or
+anathomical data. In my talk, I would like to present general purpose of
+Nilearn, focusing on &lt;strong&gt;functional connectivity&lt;/strong&gt; and &lt;strong&gt;connectome&lt;/strong&gt;
+analysis in resting-state fMRI.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Darya Chyzhyk</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pycon-italia-2017/explore-the-brain-with-nilearn.html</guid><category>computer-science</category><category>cognitive-science</category><category>Artificial Intelligence</category><category>Machine Learning</category></item><item><title>Facial Analysis Techniques for Pythonista (and beyond!)</title><link>http://pyvideo.org/pycon-italia-2017/facial-analysis-techniques-for-pythonista-and-beyond.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The ability to detect, track, and analyze faces opens up a wide range of
+interesting use cases, ranging from interactive smart applications and
+real- time video processing, all the way to biometric security and
+augmented reality.&lt;/p&gt;
+&lt;p&gt;This talk will showcase the available &lt;strong&gt;tools built by the Python
+community&lt;/strong&gt; and their corresponding pros &amp;amp; cons, limitations, and
+complexity. While discussing the possible scenarios and what is actually
+required to &lt;strong&gt;DIY with Python&lt;/strong&gt;, I will compare such handmade solutions
+with &lt;strong&gt;Cloud-based products and APIs&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: basic understanding of Python’s data science stack
+(especially numpy).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Casalboni</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pycon-italia-2017/facial-analysis-techniques-for-pythonista-and-beyond.html</guid><category>CloudComputing</category><category>aws</category><category>scikit-learn</category><category>scikit-image</category><category>google-cloud</category><category>Deep-Learning</category><category>opencv</category><category>scikits</category><category>cv</category><category>Machine Learning</category><category>Facial-Analysis</category><category>dlib</category><category>Artificial Intelligence</category></item><item><title>AI, Machine Learning e Deep Learning: cosa cambia?</title><link>http://pyvideo.org/pycon-italia-2017/ai-machine-learning-e-deep-learning-cosa-cambia.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Artificial Intelligence&lt;/strong&gt;, &lt;strong&gt;Machine Learning&lt;/strong&gt; e &lt;strong&gt;Deep Learning&lt;/strong&gt;:
+cosa sono e qual’è la loro storia? Ma soprattutto quali sono le
+differenze tra questi tre?&lt;/p&gt;
+&lt;p&gt;Questo talk è orientato a coloro che non hanno alcuna base su nessuno di
+questi argomenti&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Spadaro</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/ai-machine-learning-e-deep-learning-cosa-cambia.html</guid><category>Deep-Learning</category><category>machine-learning</category><category>Artificial Intelligence</category><category>Machine Learning</category></item><item><title>How to turn Wikipedia into a Quiz Game</title><link>http://pyvideo.org/pycon-italia-2017/how-to-turn-wikipedia-into-a-quiz-game.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Quiz games let people test their knowledge through multi-choice
+questions. Unfortunately, generating such questions can be very
+time-consuming and it is typically done manually. In this talk we
+will present a pipeline to automatically generate quiz games starting
+from generic knowledge (e.g. Wikipedia). The pipeline consists of the
+following components: (i) a parser to retrieve text from Wikipedia
+pages, (ii) a Natural Language Processing module (based on the Google
+Natural Language API) to extract information about syntax, entities
+and relations, (iii) a Natural Language Generation module to generate
+test questions and correct answers, and finally (iv) a domain-aware
+module that uses domain-specific knowledge to generate wrong answers
+(i.e. distractors). Every module is written in Python and it is based
+on either available libraries or Cloud services (e.g., Google Natural
+Language).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: basic knowledge of python, minimal understanding
+of text syntactic analysis.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrea Cappelli</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/how-to-turn-wikipedia-into-a-quiz-game.html</guid><category>nlp</category><category>AI</category><category>games</category><category>computational-linguistics</category><category>data-analysis</category><category>text-analysis</category><category>google-cloud</category><category>Artificial Intelligence</category><category>linked-data</category></item><item><title>A Gentle Introduction to Neural Networks (with Python)</title><link>http://pyvideo.org/pycon-italia-2017/a-gentle-introduction-to-neural-networks-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A gentle introduction to neural networks, and making your own with
+Python.&lt;/p&gt;
+&lt;p&gt;This session is especially designed to be accessible to everyone,
+including anyone with no expertise in mathematics, computer science or
+Python.&lt;/p&gt;
+&lt;p&gt;From this session you will have an intuitive understanding of what
+neural networks are and how they work. If you are more technically
+capable, you will see how you could make your own with Python and numpy.&lt;/p&gt;
+&lt;p&gt;Part 1 - Ideas:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;the search for AI, hard problems for computers easy for humans&lt;/li&gt;
+&lt;li&gt;learning from examples (simple classifier)&lt;/li&gt;
+&lt;li&gt;biologically inspired neurons and networks&lt;/li&gt;
+&lt;li&gt;training a neural network&lt;/li&gt;
+&lt;li&gt;the back propagation breakthrough&lt;/li&gt;
+&lt;li&gt;matrix ways of working (good for computers)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 2 - Python:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python is easy, and everywhere&lt;/li&gt;
+&lt;li&gt;Python notebooks&lt;/li&gt;
+&lt;li&gt;the MNIST data set&lt;/li&gt;
+&lt;li&gt;a very simple neural network class&lt;/li&gt;
+&lt;li&gt;focus on concise and efficient matrix calculations with numpy&lt;/li&gt;
+&lt;li&gt;97.5% accuracy recognising handwritten numbers - with just a few lines of code!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 3 - Live Demo! … and Q&amp;amp;A&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tariq Rashid</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/a-gentle-introduction-to-neural-networks-with-python.html</guid><category>image-processing</category><category>numpy</category><category>neural network</category><category>Artificial Intelligence</category><category>Machine Learning</category></item></channel></rss>

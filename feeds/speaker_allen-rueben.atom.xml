@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_allen-rueben.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-08-06T00:00:00+00:00</updated><entry><title>Lightning Talks - Sunday</title><link href="http://pyvideo.org/pycon-au-2017/lightning-talks-sunday.html" rel="alternate"></link><published>2017-08-06T00:00:00+00:00</published><updated>2017-08-06T00:00:00+00:00</updated><author><name>Sam Kitajima-Kimbrel</name></author><id>tag:pyvideo.org,2017-08-06:pycon-au-2017/lightning-talks-sunday.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Sam Kitajima-Kimbrel - You Aren't Facebook, and That's OK 0:19&lt;/li&gt;
+&lt;li&gt;Jason King - Don't do what I did 4:55&lt;/li&gt;
+&lt;li&gt;Evan Kohilas - Rubber Snaek 9:55&lt;/li&gt;
+&lt;li&gt;Dr. Russell Keith-Magee - Tools for Apiarists 12:13&lt;/li&gt;
+&lt;li&gt;William Brown - Hard CPUs Make Multithreading 17:23&lt;/li&gt;
+&lt;li&gt;Allen Rueben - Joining the dots 21:54&lt;/li&gt;
+&lt;li&gt;Malcolm Ramsay - How I Reinvented Solarized 24:16&lt;/li&gt;
+&lt;li&gt;Zac Hatfield-Dodds - From REPL to reliable 26:47&lt;/li&gt;
+&lt;li&gt;Daniel McCarthy - Hexapod and MicroPython 31:55&lt;/li&gt;
+&lt;li&gt;Lilly Ryan - Towns I Wish I Could Visit 35:35&lt;/li&gt;
+&lt;li&gt;Jeremy Rothstein - I'm a mockoholic 41:00&lt;/li&gt;
+&lt;li&gt;Nick Moore - ESP32 and MicroPython 45:54&lt;/li&gt;
+&lt;li&gt;Katie Bell - Hello 48:38&lt;/li&gt;
+&lt;li&gt;Peter Hall - A Brief History of 'What is the Time?' 53:37&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="lightning talks"></category></entry></feed>

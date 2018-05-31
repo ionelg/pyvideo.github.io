@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate><item><title>Big Data Analytics at the MPCDF: GPU Crystallography with Python</title><link>http://pyvideo.org/europython-2017/big-data-analytics-at-the-mpcdf-gpu-crystallography-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In close collaboration with scientists from MPG, the Max Planck
+Computing and Data Facility is&amp;nbsp;engaged in the development and
+optimization of algorithms and applications for high
+performance&amp;nbsp;computing, as well as in the design and&amp;nbsp;implementation of
+solutions for data-intensive projects.&amp;nbsp;Python is now used at MPCDF in
+the emerging area of “atom probe crystallography” (APT): a Fourier
+spectral analysis in 3D reciprocal space can be simulated in order to
+reveal both composition and crystallographic structure at the atomic
+scale of billions APT experimental data sets. The Python data
+ecosystem has proved to be well suited to this, as it has grown
+beyond the confines of single machines to embrace scalability. This
+talk aims to describe our approach to scaling across multiple GPUs,
+and the role of our visualization methods too. Our data workflow
+analysis relies on the GPU-accelerated Python software package called
+PyNX, an open source Python library which provides fast parallel
+computation scattering. The code is well suited for GPU computing,
+using both the pyCUDA and pyOpenCL libraries. Exploratory data
+analysis and performance tests are initially carried on through
+Jupyter notebooks and Python packages e.g., pandas, matplotlib,
+plotly. In production stage, interactive visualization is realized by
+using standard scientific tool, e.g. Paraview, an open-source 3D
+visualization program which e.g. requires Python modules to generate
+visualization components within VTK files.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giuseppe Di Bernardo</dc:creator><pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-12:europython-2017/big-data-analytics-at-the-mpcdf-gpu-crystallography-with-python.html</guid></item></channel></rss>

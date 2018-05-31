@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Analisi dati e grafici con Genropy e Pandas</title><link>http://pyvideo.org/pycon-italia-2017/analisi-dati-e-grafici-con-genropy-e-pandas.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Genropy è un framework per la creazione di Single Page Applications che
+offre ad utenti e sviluppatori un ambiente di lavoro molto comodo per il
+caricamento e la gestione dei dati. In questo talk parleremo degli
+strumenti messi a disposizione per l’analisi dei dati e la
+rappresentazione grafica, tabellare e in dashboard. Parleremo in
+particolare dell’integrazione con Pandas e di come sia facile anche per
+un utente non particolarmente esperto generare pivot table, e creare
+colonne calcolate e mostrare i risultati come grafici.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Porcari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/analisi-dati-e-grafici-con-genropy-e-pandas.html</guid><category>genropy</category><category>webapp</category><category>pandas</category><category>web-development</category><category>graph</category></item><item><title>weppy: the web framework for humans</title><link>http://pyvideo.org/pycon-italia-2017/weppy-the-web-framework-for-humans.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Why another python web framework? Do we really need to innovate the
+Django and Flask scene? Could we? This talk will address all these
+questions, introducing weppy: the full stack python web framework
+designed with simplicity in mind.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Barillari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/weppy-the-web-framework-for-humans.html</guid><category>web</category><category>orm</category><category>webservices</category><category>sql</category><category>webapp</category><category>web-development</category></item></channel></rss>

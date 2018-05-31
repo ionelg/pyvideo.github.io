@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_tania-sanchez-monroy.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2018-05-09T00:00:00+00:00</updated><entry><title>Down the rabbit hole. A 101 on reproducible workflows with Python</title><link href="http://pyvideo.org/pycon-us-2018/down-the-rabbit-hole-a-101-on-reproducible-workflows-with-python.html" rel="alternate"></link><published>2018-05-09T00:00:00+00:00</published><updated>2018-05-09T00:00:00+00:00</updated><author><name>Tania  Sanchez Monroy</name></author><id>tag:pyvideo.org,2018-05-09:pycon-us-2018/down-the-rabbit-hole-a-101-on-reproducible-workflows-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There has been a massive interest in reproducible research / data
+analysis pipelines over the last few years.
+But... how can I ensure that what I produce as a Python
+user is reproducible?
+In this tutorial we'll be taking you on a journey down the rabbit hole
+of reproducibility.
+We'll be taking a step by step approach to reproducible scientific development
+in Python.
+This means you get a crash course on version control, execution environments, testing,
+and continuous integration. And a guide on how to integrate all of these in your
+software projects.
+By the end of the course we hope you will have the necessary tools to make your
+Python workflows reproducible no matter if you're starting a brand new project
+or if this is ready to be shared with the world.&lt;/p&gt;
+</summary><category term="reproducibility"></category></entry></feed>

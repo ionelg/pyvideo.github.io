@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_webapp.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-07T00:00:00+00:00</updated><entry><title>Analisi dati e grafici con Genropy e Pandas</title><link href="http://pyvideo.org/pycon-italia-2017/analisi-dati-e-grafici-con-genropy-e-pandas.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Francesco Porcari</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/analisi-dati-e-grafici-con-genropy-e-pandas.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Genropy è un framework per la creazione di Single Page Applications che
+offre ad utenti e sviluppatori un ambiente di lavoro molto comodo per il
+caricamento e la gestione dei dati. In questo talk parleremo degli
+strumenti messi a disposizione per l’analisi dei dati e la
+rappresentazione grafica, tabellare e in dashboard. Parleremo in
+particolare dell’integrazione con Pandas e di come sia facile anche per
+un utente non particolarmente esperto generare pivot table, e creare
+colonne calcolate e mostrare i risultati come grafici.&lt;/p&gt;
+</summary><category term="genropy"></category><category term="webapp"></category><category term="pandas"></category><category term="web-development"></category><category term="graph"></category></entry><entry><title>weppy: the web framework for humans</title><link href="http://pyvideo.org/pycon-italia-2017/weppy-the-web-framework-for-humans.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Giovanni Barillari</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/weppy-the-web-framework-for-humans.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Why another python web framework? Do we really need to innovate the
+Django and Flask scene? Could we? This talk will address all these
+questions, introducing weppy: the full stack python web framework
+designed with simplicity in mind.&lt;/p&gt;
+</summary><category term="web"></category><category term="orm"></category><category term="webservices"></category><category term="sql"></category><category term="webapp"></category><category term="web-development"></category></entry></feed>

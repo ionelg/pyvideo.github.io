@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 06 Sep 2017 00:00:00 +0000</lastBuildDate><item><title>Door Prizes</title><link>http://pyvideo.org/pytexas-2012/door-prizes.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Door prizes!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 15 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-15:pytexas-2012/door-prizes.html</guid></item><item><title>Lightning Talk: Mezzanine CMS Framework</title><link>http://pyvideo.org/pytexas-2012/lightning-talk-mezzanine-cms-framework.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 15 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-15:pytexas-2012/lightning-talk-mezzanine-cms-framework.html</guid><category>lightning talks</category></item><item><title>Lightning Talk: YAML</title><link>http://pyvideo.org/pytexas-2012/lightning-talk-yaml.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 15 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-15:pytexas-2012/lightning-talk-yaml.html</guid><category>lightning talks</category></item><item><title>Official Welcome - Pytexas 2012</title><link>http://pyvideo.org/pytexas-2012/official-welcome-pytexas-2012.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Official Welcome&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 15 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-15:pytexas-2012/official-welcome-pytexas-2012.html</guid></item><item><title>PyData Warsaw Live Stream 00</title><link>http://pyvideo.org/pydata-warsaw-group/pydata-warsaw-live-stream-00.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-29:pydata-warsaw-group/pydata-warsaw-live-stream-00.html</guid></item><item><title>PyData Warsaw Live Stream 01</title><link>http://pyvideo.org/pydata-warsaw-group/pydata-warsaw-live-stream-01.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-29:pydata-warsaw-group/pydata-warsaw-live-stream-01.html</guid></item><item><title>Pycon 2017 closing and remarks</title><link>http://pyvideo.org/pycon-se-2017/pycon-2017-closing-and-remarks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Thanks all whom joined us!  Hope to see you next year.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-06:pycon-se-2017/pycon-2017-closing-and-remarks.html</guid><category>closing ceremony</category></item><item><title>Guppy, un outil d'analyse de l'espace mémoire de process Python</title><link>http://pyvideo.org/montreal-python/guppy-un-outil-danalyse-de-lespace-memoire-de-process-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Montreal, Jan. 21, 2013 - Maxime Noël présente Guppu-PE, un environnement de programmation Python.&lt;/p&gt;
+&lt;p&gt;Liens utiles:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Guppy: &lt;a class="reference external" href="http://guppy-pe.sourceforge.net/"&gt;http://guppy-pe.sourceforge.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Maxime: &lt;a class="reference external" href="http://ca.linkedin.com/pub/maxime"&gt;http://ca.linkedin.com/pub/maxime&lt;/a&gt;-noël/5b/b62/287&lt;/li&gt;
+&lt;li&gt;MP34: &lt;a class="reference external" href="http://montrealpython.org/2013/01/mp34/"&gt;http://montrealpython.org/2013/01/mp34/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Montreal Python: &lt;a class="reference external" href="http://montrealpython.org"&gt;http://montrealpython.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Savoir-faire Linux: &lt;a class="reference external" href="http://www.savoirfairelinux.com"&gt;http://www.savoirfairelinux.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 11 Feb 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-02-11:montreal-python/guppy-un-outil-danalyse-de-lespace-memoire-de-process-python.html</guid></item><item><title>Introduction à Python 1/5</title><link>http://pyvideo.org/montreal-python/introduction-a-python-15.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 18 Nov 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-11-18:montreal-python/introduction-a-python-15.html</guid></item><item><title>Introduction à Python 2/5</title><link>http://pyvideo.org/montreal-python/introduction-a-python-25.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 18 Nov 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-11-18:montreal-python/introduction-a-python-25.html</guid></item><item><title>Introduction à Python 3/5</title><link>http://pyvideo.org/montreal-python/introduction-a-python-35.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 18 Nov 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-11-18:montreal-python/introduction-a-python-35.html</guid></item><item><title>Introduction à Python 4/5</title><link>http://pyvideo.org/montreal-python/introduction-a-python-45.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 18 Nov 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-11-18:montreal-python/introduction-a-python-45.html</guid></item><item><title>Introduction à Python 5/5</title><link>http://pyvideo.org/montreal-python/introduction-a-python-55.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 18 Nov 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-11-18:montreal-python/introduction-a-python-55.html</guid></item><item><title>MAH00002.MP4</title><link>http://pyvideo.org/montreal-python/mah00002mp4.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-11-14:montreal-python/mah00002mp4.html</guid></item><item><title>MAH00016</title><link>http://pyvideo.org/montreal-python/mah00016.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-10-07:montreal-python/mah00016.html</guid></item><item><title>Charla patrocinador</title><link>http://pyvideo.org/pyday-galicia-2017/charla-patrocinador.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 10 Jun 2017 13:11:40 +0200</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-06-10:pyday-galicia-2017/charla-patrocinador.html</guid><category>pyday</category><category>Galicia</category><category>sponsors</category></item><item><title>PyData London 2017 - Closing Notes</title><link>http://pyvideo.org/pydata-london-2017/pydata-london-2017-closing-notes.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Filmed at PyData London 2017
+www.pydata.org&lt;/p&gt;
+&lt;p&gt;PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-05:pydata-london-2017/pydata-london-2017-closing-notes.html</guid></item><item><title>PyCon mini Hiroshima 2016 (1)</title><link>http://pyvideo.org/pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;第2回 テーマ「広島とPython」
+&lt;a class="reference external" href="http://hiroshima.pycon.jp/"&gt;http://hiroshima.pycon.jp/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-12:pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-1.html</guid></item><item><title>PyCon mini Hiroshima 2016 (2)</title><link>http://pyvideo.org/pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon mini Hiroshima 2016
+第2回 テーマ「広島とPython」
+&lt;a class="reference external" href="http://hiroshima.pycon.jp/"&gt;http://hiroshima.pycon.jp/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-11:pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-2.html</guid></item><item><title>PyCon mini Hiroshima 2016 (3)</title><link>http://pyvideo.org/pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;第2回 テーマ「広島とPython」
+&lt;a class="reference external" href="http://hiroshima.pycon.jp/"&gt;http://hiroshima.pycon.jp/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-11:pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-3.html</guid></item><item><title>PyCon mini Hiroshima 2016 (4)</title><link>http://pyvideo.org/pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-4.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;第2回 テーマ「広島とPython」
+&lt;a class="reference external" href="http://hiroshima.pycon.jp/"&gt;http://hiroshima.pycon.jp/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 11 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-11:pycon-mini-hiroshima-2016/pycon-mini-hiroshima-2016-4.html</guid></item><item><title>Welcome and quick introduction of all talks</title><link>http://pyvideo.org/pycon-finland-2015/welcome-and-quick-introduction-of-all-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon Finland 2015
+Welcome and quick introduction of all talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 19 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-19:pycon-finland-2015/welcome-and-quick-introduction-of-all-talks.html</guid></item><item><title>PyBay2016 Highlights</title><link>http://pyvideo.org/pybay-2016/pybay2016-highlights.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-21:pybay-2016/pybay2016-highlights.html</guid></item><item><title>PyData Amsterdam 2016</title><link>http://pyvideo.org/pydata-amsterdam-2016/pydata-amsterdam-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;www.pydata.org&lt;/p&gt;
+&lt;p&gt;PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-26:pydata-amsterdam-2016/pydata-amsterdam-2016.html</guid><category>recap</category></item><item><title>PyConES 2013. Así fue...</title><link>http://pyvideo.org/pycon-es-2013/pycones-2013-asi-fue.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Vídeo resumen de la conferencia PyCon España 2013, celebrada los días 23 y 24 de Noviembre en la EU Informática, Universidad Politécnica de Madrid.&lt;/p&gt;
+&lt;p&gt;Canción: &amp;quot;Let the hacking begin&amp;quot;. Compuesta por Trent Reznor y Atticus Ross para la BSO de la película The Social Network.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 30 Dec 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-12-30:pycon-es-2013/pycones-2013-asi-fue.html</guid></item><item><title>Machine learning, de BityVip</title><link>http://pyvideo.org/pycon-es-2013/machine-learning-de-bityvip.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Autor: BityVip
+Track: BityVip (Científico)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 27 Dec 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-12-27:pycon-es-2013/machine-learning-de-bityvip.html</guid></item><item><title>DjangoConf Lightning Talks and Closing</title><link>http://pyvideo.org/pycon-au-2016/djangoconf-lightning-talks-and-closing.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-15:pycon-au-2016/djangoconf-lightning-talks-and-closing.html</guid><category>django</category><category>lightning talks</category></item><item><title>Saturday: Lightning Talks</title><link>http://pyvideo.org/pycon-au-2016/pycon-au-2016-saturday-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-15:pycon-au-2016/pycon-au-2016-saturday-lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyCaribbean 2016 Sponsors Video</title><link>http://pyvideo.org/pycaribbean-2016/pycaribbean-2016-sponsors-video.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCaribbean 2016 Sponsors Video&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-19:pycaribbean-2016/pycaribbean-2016-sponsors-video.html</guid></item><item><title>Python brasil [6] Cerimonia de abertura &amp; infra-estrutura</title><link>http://pyvideo.org/python-brasil-2010/abertura.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Thu, 21 Oct 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-10-21:python-brasil-2010/abertura.html</guid></item><item><title>Final Remarks and Conference Close</title><link>http://pyvideo.org/pycon-us-2016/final-remarks-and-conference-close.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-01:pycon-us-2016/final-remarks-and-conference-close.html</guid></item><item><title>Gloriajw-APracticalGuideToNonblockingIOCoroutinesAndConcurrency489.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-apracticalguidetononblockingiocoroutines.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-apracticalguidetononblockingiocoroutines.html</guid></item><item><title>Gloriajw-ArtCulturalConcernAndComputerCode967.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-artculturalconcernandcomputercode967ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-artculturalconcernandcomputercode967ogv.html</guid></item><item><title>Gloriajw-BehindTheScenesAtFiestaccMikeDirolfFiestacc931.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-behindthescenesatfiestaccmikedirolffiest.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-behindthescenesatfiestaccmikedirolffiest.html</guid></item><item><title>Gloriajw-BestPracticePanel786.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-bestpracticepanel786m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-bestpracticepanel786m4v.html</guid></item><item><title>Gloriajw-BoostingTheNumbersPythonForWomenAndDoingDistributedOrga506.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-boostingthenumberspythonforwomenanddoing.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-boostingthenumberspythonforwomenanddoing.html</guid></item><item><title>Gloriajw-BOSCBlenderOpenSoundControl431.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-boscblenderopensoundcontrol431ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-boscblenderopensoundcontrol431ogv.html</guid></item><item><title>Gloriajw-BuildingScalableWebsitesAndAPIsWithBrubeck523.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-buildingscalablewebsitesandapiswithbrube.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-buildingscalablewebsitesandapiswithbrube.html</guid></item><item><title>Gloriajw-DanCrosta393.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-dancrosta393m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-dancrosta393m4v.html</guid></item><item><title>Gloriajw-DataAnalysisInPythonWithPandas105.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-dataanalysisinpythonwithpandas105m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-dataanalysisinpythonwithpandas105m4v.html</guid></item><item><title>Gloriajw-DeclarativeUIsWithEnami607.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-declarativeuiswithenami607m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-declarativeuiswithenami607m4v.html</guid></item><item><title>Gloriajw-EfficientProgrammingForParallelPython502.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-efficientprogrammingforparallelpython502.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-efficientprogrammingforparallelpython502.html</guid></item><item><title>Gloriajw-EvolutionWithoutMigrationDanCrosta10gen869.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-evolutionwithoutmigrationdancrosta10gen8.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-evolutionwithoutmigrationdancrosta10gen8.html</guid></item><item><title>Gloriajw-GoGoGadgetPython890.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-gogogadgetpython890ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-gogogadgetpython890ogv.html</guid></item><item><title>Gloriajw-InforMobility409.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-informobility409m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-informobility409m4v.html</guid></item><item><title>Gloriajw-IntroToDataVisualization281.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-introtodatavisualization281ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-introtodatavisualization281ogv.html</guid></item><item><title>Gloriajw-Keynote292.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-keynote292m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-keynote292m4v.html</guid></item><item><title>Gloriajw-Keynote836.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-keynote836m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-keynote836m4v.html</guid></item><item><title>Gloriajw-Machine_Learning_for_Web_Developersogv947.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-machine_learning_for_web_developersogv94.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-machine_learning_for_web_developersogv94.html</guid></item><item><title>Gloriajw-MarkovInPython189.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-markovinpython189ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-markovinpython189ogv.html</guid></item><item><title>Gloriajw-MetaclassesGoneWild824.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-metaclassesgonewild824m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-metaclassesgonewild824m4v.html</guid></item><item><title>Gloriajw-MongoDBAndPythonMathiasStern10gen267.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-mongodbandpythonmathiasstern10gen267m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-mongodbandpythonmathiasstern10gen267m4v.html</guid></item><item><title>Gloriajw-MongoDBSchemaDesignKyleBanker10gen849.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-mongodbschemadesignkylebanker10gen849m4.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-mongodbschemadesignkylebanker10gen849m4.html</guid></item><item><title>Gloriajw-MotorOrAsynchronizingASynchronousLibraryWithTornadoAndG923.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-motororasynchronizingasynchronouslibrary.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-motororasynchronizingasynchronouslibrary.html</guid></item><item><title>Gloriajw-NotableFeaturesOfPython650.mp4</title><link>http://pyvideo.org/pygotham-2012/gloriajw-notablefeaturesofpython650mp4.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-notablefeaturesofpython650mp4.html</guid></item><item><title>Gloriajw-OpenBlockHyperlocalDjango521.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-openblockhyperlocaldjango521ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-openblockhyperlocaldjango521ogv.html</guid></item><item><title>Gloriajw-PloverThoughtToTextAt240WPM591.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-ploverthoughttotextat240wpm591ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-ploverthoughttotextat240wpm591ogv.html</guid></item><item><title>Gloriajw-PowerfulPythonicDataAnalysisUsingPandas989.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-powerfulpythonicdataanalysisusingpandas9.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-powerfulpythonicdataanalysisusingpandas9.html</guid></item><item><title>Gloriajw-PythonPettingZoo442.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-pythonpettingzoo442m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-pythonpettingzoo442m4v.html</guid></item><item><title>Gloriajw-QA617.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-qa617m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-qa617m4v.html</guid></item><item><title>Gloriajw-RapidAndScalableDevelopmentWithMongoDBPyMongoAndMing472.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-rapidandscalabledevelopmentwithmongodbpy.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-rapidandscalabledevelopmentwithmongodbpy.html</guid></item><item><title>Gloriajw-RealtimeWebGeventAndSocketio486.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-realtimewebgeventandsocketio486ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-realtimewebgeventandsocketio486ogv.html</guid></item><item><title>Gloriajw-ReplicationInMongoDBTonyHannan10gen406.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-replicationinmongodbtonyhannan10gen406m.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-replicationinmongodbtonyhannan10gen406m.html</guid></item><item><title>Gloriajw-ScalingAndShardingEliotHororwitz10gen303.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-scalingandshardingeliothororwitz10gen303.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-scalingandshardingeliothororwitz10gen303.html</guid></item><item><title>Gloriajw-SpamControlOnTheWeb469.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-spamcontrolontheweb469m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-spamcontrolontheweb469m4v.html</guid></item><item><title>Gloriajw-SpotifyWithErikBernhardsson182.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-spotifywitherikbernhardsson182m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-spotifywitherikbernhardsson182m4v.html</guid></item><item><title>Gloriajw-SpotifyWithJonAslund395.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-spotifywithjonaslund395m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-spotifywithjonaslund395m4v.html</guid></item><item><title>Gloriajw-SQLAlchemyAnArchitecturalRetrospective545.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-sqlalchemyanarchitecturalretrospective54.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-sqlalchemyanarchitecturalretrospective54.html</guid></item><item><title>Gloriajw-STEMComingToAStopNearYou498.ogv</title><link>http://pyvideo.org/pygotham-2012/gloriajw-stemcomingtoastopnearyou498ogv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-stemcomingtoastopnearyou498ogv.html</guid></item><item><title>Gloriajw-TheProcessingLanguage455.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-theprocessinglanguage455m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-theprocessinglanguage455m4v.html</guid></item><item><title>Gloriajw-TimeSeriesDataProcessingWithPandas369.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-timeseriesdataprocessingwithpandas369m4.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-timeseriesdataprocessingwithpandas369m4.html</guid></item><item><title>Gloriajw-TmuxIPythonAwesome610.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-tmuxipythonawesome610m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-tmuxipythonawesome610m4v.html</guid></item><item><title>Gloriajw-Xtify215.m4v</title><link>http://pyvideo.org/pygotham-2012/gloriajw-xtify215m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-06-08:pygotham-2012/gloriajw-xtify215m4v.html</guid></item><item><title>PyOhio 2010: Python and Entrepreneurship</title><link>http://pyvideo.org/pyohio-2010/pyohio-2010--python-and-entrepreneurship.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python and Entrepeneurship&lt;/p&gt;
+&lt;p&gt;Featuring Eric Floehr, Nick Albright, Matt Wilson, Austin Godber, James
+Bonanno&lt;/p&gt;
+&lt;p&gt;One of the strengths of dynamic languages is rapid development and quick
+results. Python has been used by a number of Ohio small businesses, from
+supporting back-office operations to being the language the company's
+products are built on. This panel discussion will talk about the
+opportunities and challenges in using Python to build a business on, as
+well as a discussion on starting, running, and growing a
+technology-based business.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 31 Jul 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-07-31:pyohio-2010/pyohio-2010--python-and-entrepreneurship.html</guid><category>business</category><category>entrepeneur</category><category>pyohio</category><category>pyohio2010</category></item><item><title>PyOhio 2011: Python and Entrepreneurship</title><link>http://pyvideo.org/pyohio-2011/pyohio-2011--python-and-entrepreneurship.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python and Entrepeneurship&lt;/p&gt;
+&lt;p&gt;Panel: Eric Floehr, Matt Wilson, Isaac, Kelly, Carl Karsten&lt;/p&gt;
+&lt;p&gt;This will be an audience-led discussion with a number of Midwest
+entrepreneurs who do Python consulting, sell products built on Python,
+or who use Python as an integral part of their business operations.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 30 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-30:pyohio-2011/pyohio-2011--python-and-entrepreneurship.html</guid><category>casestudy</category><category>entrepeneurship</category><category>pyohio</category><category>pyohio2011</category></item><item><title>About Python Namespaces (and Code Objects)</title><link>http://pyvideo.org/pytexas-2011/about-python-namespaces--and-code-objects.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;An explanation of some of the underlying concepts of Python, come learn
+about names and values placed in namespaces, modified by code objects
+and collected into modules.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We'll explore namespaces using the Python interactive prompt, with
+graphical display of object trees using Graphviz. Also explained will be
+the namespace concepts of closures and early binding; how to define new
+objects without subclassing via use of default/curried arguments and
+closures.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 10 Sep 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-09-10:pytexas-2011/about-python-namespaces--and-code-objects.html</guid></item><item><title>Packaging</title><link>http://pyvideo.org/pytexas-2011/packaging.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Voted on by the PyTexas community, this talk is guaranteed to be
+insightful and informative. We just don't know what it is yet.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 10 Sep 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-09-10:pytexas-2011/packaging.html</guid></item><item><title>Lightning Talks - Thursday</title><link>http://pyvideo.org/scipy-2012/lightning-talks-thursday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Scalable Python, Travis Oliphant.&lt;/li&gt;
+&lt;li&gt;Big Data in the Cloud with Python, Chris Cope.&lt;/li&gt;
+&lt;li&gt;CMake and Cython, Matt McCormick.&lt;/li&gt;
+&lt;li&gt;Psychometric Python, Mark Moulton.&lt;/li&gt;
+&lt;li&gt;Evolutionary Comp. in Python, Alan Lockett.&lt;/li&gt;
+&lt;li&gt;Generative Art with Neural Networks, Byron Galbraith.&lt;/li&gt;
+&lt;li&gt;Cellulose Based Serialization, Matt Terry.&lt;/li&gt;
+&lt;li&gt;NumFocus, Fernando Perez.&lt;/li&gt;
+&lt;li&gt;Software Carpentry, Matt Davis.&lt;/li&gt;
+&lt;/ol&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/lightning-talks-thursday.html</guid><category>Plenary</category></item><item><title>A Rapidly-Adaptable Imaging &amp; Measurement Platform for Cancer Research; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/a-rapidly-adaptable-imaging-measurement-platfor.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A Rapidly-Adaptable Analytical Imaging &amp;amp; Measurement Standardization
+Platform for Cancer Diagnostics Research&lt;/p&gt;
+&lt;p&gt;Authors: Garsha, Karl, Ventana Medical Systems Inc.; Ventura, Franklin,
+Ventana Medical Systems Inc.;&lt;/p&gt;
+&lt;p&gt;Track: Medical Imaging&lt;/p&gt;
+&lt;p&gt;The focus of personalized medicine is to develop rationally-designed
+therapeutics targeting specific molecular mechanisms of diseases such as
+cancer. For targeted therapeutics to be of value in complex disease
+states, such as cancer, patient-specific mechanism(s) of disease must be
+identified by physicians such that the appropriate targeted
+therapeutic(s) may be identified and administered. The ability to
+evaluate phenotype and genotype for multiplexed biomarkers at the
+cellular level, in the context of preserved tissue, provides important
+information for advancing the science of personalized medicine.&lt;/p&gt;
+&lt;p&gt;Classical cancer diagnostic methods are based on direct inspection of
+prepared slides. In the classical approach, measurement and measurement
+standardization are limited by the constraints of human perception,
+established tradition and training. Our research seeks to empower
+physicians with new tools that diminish these existing limitations.
+Through Python, we bring together sophisticated nano-reporter
+technology, advanced microscopies, computational analysis and databasing
+technologies to establish feasibility of analytical tissue assay
+technology. Advancement of this technology is hoped eventually to enable
+powerful new opportunities for treatment of cancer.&lt;/p&gt;
+&lt;p&gt;Our work is greatly accelerated through the collective efforts of the
+Python community. The ability to leverage and combine rich scientific
+Open Source projects including SciPy, VTK, ITK, PIL, wxPython,
+Matplotlib, ÂµManager, and OMERO are central to enabling this ambitious
+effort. Python allows us the synergy of sophisticated high-level
+language interfaced with rich natively-compiled libraries. This
+capability allows us to maintain a remarkable level of plasticity
+necessary to adapt to fast-moving and diverse research problems, and
+scalability to visualize large and complex n-dimensional datasets. Rich
+GUI capabilities allow us to rapidly put powerful tools in the hands of
+medical researchers.&lt;/p&gt;
+&lt;p&gt;Challenges include mechanisms to pass high-level data structures between
+native-compiled libraries, combining widgets from different GUI
+toolkits, memory limits, and the complexity of building self-contained
+installers/uninstallers for deployment to collaborator sites.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/a-rapidly-adaptable-imaging-measurement-platfor.html</guid><category>Tech</category></item><item><title>Accessing the Virtual Observatory from Python; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/accessing-the-virtual-observatory-from-python-sc.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Plante, Raymond, NCSA/UofIL; Fitzpatrick, Mike, NOAO; Graham,
+Matthew, Caltech; Tody, Doug, NRAO&lt;/p&gt;
+&lt;p&gt;Track: Astronomy and Astrophysics&lt;/p&gt;
+&lt;p&gt;One of the goals of the Virtual Astronomical Observatory (VAO) project
+is to enable developers to integrate access to astronomical archives and
+services into applications through standardized interfaces. As part of
+this effort, we have developed two packages for accessing the Virtual
+Observatory through Python. The first tool, VAOpy, is a package built on
+AstroPy which provides enables discovery of data archive services
+through the VAO registry service as well as the searching of the
+archives for individual datasets such as images, spectra, and source
+catalogs. The purpose of this module is to provide the developer an easy
+to use interface that reflects knowledge of the standards upon which
+services are based. The second tool, VOClient, supports the same
+low-level API provided by VAOpy but adds additional higher-level
+capabilities and &amp;quot;book-keeping&amp;quot; that make it easier to develop
+sophisticated applications. This includes support for searching multiple
+archives, finding data for a list of sources, and collaborating with
+other desktop tools. Long running tasks are supported through
+asynchronous access to the underlying services and data caching.
+VOClient can send retrieved data records and datasets to other
+applications on the desktop through VO standard protocol known as SAMP.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/accessing-the-virtual-observatory-from-python-sc.html</guid><category>Tech</category></item><item><title>Advances in delivery and access tools for coastal ocean model data; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/advances-in-delivery-and-access-tools-for-coastal.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Signell, Richard, US Geological Survey&lt;/p&gt;
+&lt;p&gt;Track: Meteorology, Climatology, Atmospheric and Oceanic Science&lt;/p&gt;
+&lt;p&gt;Coastal ocean modelers are producers and consumers of vast and varied
+data, and spend significant effort on tasks that could be eliminated by
+better tools. In the last several years, standardization led by the US
+Integrated Ocean Observing System Program to use OPeNDAP for delivery of
+gridded data (e.g. model fields, remote sensing) and OGC Sensor
+Observation Services (SOS) for delivery of in situ data (e.g. time
+series sensors, profilers, ADCPs, drifters, gliders) has resulted in
+significant advancements, making it easier to deliver, find, access and
+analyze data. For distributing model results, the Unidata THREDDS Data
+Server and PyDAP deliver aggregated data via OPeNDAP and other web
+services with low impact on providers. For accessing data,
+NetCDF4-Python and PyDAP both allow efficient access to OPeNDAP data
+sources, but do not take advantage of common data models for structured
+and unstructured grids enabled by community-developed CF and UGRID
+conventions. This is starting to change with CF-data model based
+projects like the UK Met Office Iris project. Examples of accessing and
+visualizing both curvilinear and unstructured grid model output in
+Python will be presented, including both the IPython Notebook and ArcGIS
+10.1.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/advances-in-delivery-and-access-tools-for-coastal.html</guid><category>Tech</category></item><item><title>An Open Source System for De-identification and Use of Medical Images; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/an-open-source-system-for-de-identification-and-u.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;An Open Source System for De-identification and Use of Medical Images
+for Research&lt;/p&gt;
+&lt;p&gt;Authors: Miller, Jeffrey, Center for Biomedical Informatics, The
+Children's Hospital of Philadelphia&lt;/p&gt;
+&lt;p&gt;Track: Medical Imaging&lt;/p&gt;
+&lt;p&gt;Medical images captured from X-ray, MRI, CT, and ultrasound modalities
+represent a wealth of data for clinical researchers. Direct access to
+imaging studies establishes a greater opportunity for research purposes
+than a text-only system. However, imaging data can be difficult to work
+with outside of clinical systems and can contain Protected Health
+Information (PHI) in diverse and unexpected locations, presenting a
+barrier for multi-institutional, collaborative research. While there are
+existing integration solutions, such as the Clinical Trials Processor,
+they do not provide for manual curation of images to screen for
+relevancy and PHI, a crucial step for using images within a research
+application. To address these issues, we developed a system for the
+end-to-end provisioning of de-identified image studies. This includes a
+Django app for users to review and record metadata for each study, a
+pipeline for anonymizing and provisioning images to a production image
+archive, and finally an application for viewing images in the browser as
+part of a research application. We take advantage of the Python Ruffus
+pipeline framework and the PyDICOM library to orchestrate the work of
+moving, anonymizing, and annotating millions of files in a repeatable
+and auditable manner. This workflow has been used to integrate images
+into AudGenDB (&lt;a class="reference external" href="http://audgendb.chop.edu"&gt;http://audgendb.chop.edu&lt;/a&gt;), a publicly available hearing
+impairment research database. The results of the AudGenDB image
+integration enables researchers to visualize and assess images in direct
+context with clinical and genetic variables for research subjects. The
+source code is available under a BSD license at
+&lt;a class="reference external" href="http://github.com/cbmi/dicom-pipeline"&gt;http://github.com/cbmi/dicom-pipeline&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/an-open-source-system-for-de-identification-and-u.html</guid><category>Tech</category></item><item><title>Analyzing IBM Watson experiments with IPython Notebook; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/analyzing-ibm-watson-experiments-with-ipython-not.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Bittner, Torsten, IBM&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;IBM's Emerging Technologies team was tasked with migrating the IBM
+Watson system that won the Jeopardy!-like game to a domain-independent
+codebase. This task started as a software engineering exercise and later
+became an information engineering exercise as we worked to optimize the
+system's question-answering ability for new domains. In this new
+paradigm the team would observe and measure a system behavior, such as
+its accuracy in generating candidate answers to a particular type of
+question, and then hypothesize what (software) change to the system
+would improve the behavior and how it would impact the original
+measurement. The team would then implement the change, re-run the system
+against a test dataset, analyze the gigabyte-sized test results to
+evaluate the difference in system behavior. By conducting many series of
+these experimental iterations, the team was able to significantly
+improve IBM Watson's question-answering performance.&lt;/p&gt;
+&lt;p&gt;Our initial attempts at information engineering used Java and the D3
+JavaScript library to extract, analyze and visualize metrics of the
+system's behavior. Wiki pages were used to document the many experiments
+and their configurations. However, this arrangement proved overly
+cumbersome for handling the large numbers of experiments we ran, and our
+need to share experimental details, visualizations and results with
+other teams. Furthermore, we also needed to enable a broader skill set
+of people -- beyond expert Java programmers -- to conduct analyses,
+create visualizations, and share findings.&lt;/p&gt;
+&lt;p&gt;This talk describes how we used the IPython notebook environment and the
+rich set of Python data science libraries (e.g. Pandas, NumPy/SciPy) to
+perform reproducible science, which resulted in improvements to IBM
+Watson's accuracy.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/analyzing-ibm-watson-experiments-with-ipython-not.html</guid><category>Tech</category></item><item><title>Automating Quantitative Confocal Microscopy Analysis; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/automating-quantitative-confocal-microscopy-analy.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Fenner, Mark; Fenner, Barbara, King's College, Wilkes-Barre, PA&lt;/p&gt;
+&lt;p&gt;Track: Medical Imaging&lt;/p&gt;
+&lt;p&gt;Confocal microscopy is a qualitative analytical tool used to visualize
+the associations between cellular processes and anatomical structures.
+Quantitative analysis of confocal images uses domain expertise, in the
+form of background correction, and statistical calculations to give
+semi-quantitative comparisons among experimental conditions. Extended
+automation of quantitative confocal methods will (1) reduce the time
+consuming effort of manual background correction and (2) give a fully
+quantitative method to associate cellular process with structure.&lt;/p&gt;
+&lt;p&gt;The purpose of this project is: (1) to develop automated methods to
+quantitatively assess colocalization of multiple fluorescent labels
+within confocal images and (2) to apply these methods to assess
+colocalization of trkB.t1 and BDNF to three types of organelles:
+endosomes, lysosomes, and transport organelles. Computing quantitative
+colocalization values requires image correction for background noise. We
+perform background correction in three ways: (1) manual, (2) automated
+heuristic analysis of the label intensity histograms, and (3)
+application of a regression model developed from a subset of manually
+corrected images. Using the corrected images, we compute a set of domain
+specific correlations: Pearson's and Mander's coefficients, the
+'colocalization coefficients' (M1, M2, m1, and m2), and the 'overlap
+coefficients' (k1 and k2).&lt;/p&gt;
+&lt;p&gt;The project is implemented, end-to-end, in Python. Pure Python is used
+for managing file access, input parameters, and initial processing of
+the repository of 933 images. NumPy is used to apply manual background
+correction, compute the automated background corrections (reducing false
+positive results and manual labor), and to calculate the domain specific
+coefficients. We visualize the raw intensity values and computed
+coefficient values with Tufte-style panel plots created in matplotlib. A
+longer term goal of this work is to explore plausible extensions of
+dual-label coefficients to triple-label coefficients.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/automating-quantitative-confocal-microscopy-analy.html</guid><category>Tech</category></item><item><title>Breaking the diffraction limit with python and scipy; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/breaking-the-diffraction-limit-with-python-and-sc.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Baddeley, David, Nanobiology Institute, Yale University&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;Textbook physics tells us that the resolution of a microsope is limited
+to half the wavelength of the radiation used. This means that structures
+smaller than ~250 nm cannot be resolved in an optical microscope, and
+that electron microscopy was required to study cellular nanostructures.
+Recent advances based on imaging stochastically switching fluorescent
+probes have allowed the diffraction limit to be circumvented and optical
+imaging to be performed with a resolution of 10-20 nm. These new
+methods, known as PALM (Photo-Activated Localisation Microscopy), STORM
+(STochastic Optical Reconstruction Microscopy), and a number of related
+acronyms are computationally intensive and involve detailed control of
+the microscope hardware.&lt;/p&gt;
+&lt;p&gt;I will present a comprehensive package for PALM/STORM microscope control
+and image analysis written in python and scipy. The package is modular,
+and comes complete with a facility for distributed data analysis. In
+addition to the specialised localisation microscopy components, there
+are many aspects of the project which are likely to be interesting to
+the broader microscopy and image processing community. These include a
+generic microscope control package, an extensible 3D image viewer
+supporting many basic image processing tasks, a 3D deconvolution
+software (Richardson-Lucy and ICTM), as well as PSF simulation and pupil
+phase extraction code.&lt;/p&gt;
+&lt;p&gt;My knowledge of python has grown alongside the project, and In addition
+to giving an overview of the package, I will discuss some of the design
+choices and mistakes I've made along the way.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/breaking-the-diffraction-limit-with-python-and-sc.html</guid><category>Tech</category></item><item><title>Bringing astronomical tools down to earth; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/bringing-astronomical-tools-down-to-earth-scipy.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Droettboom, Michael, STScI; Dencheva, Nadia, STScI; Aldcroft,
+Tom, Harvard-Smithsonian Center for As&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;In the process of developing the core tools in astropy, some modules
+have been developed that have wider applicability than just for
+astronomy. This talk will describe these tools and the approach taken by
+astropy towards these. These include general tools for handling units,
+and quantities with units, with capabilities not found in other unit
+packages, such as equivalency mappings. We have also developed a generic
+system for defining models and interfacing models with generic fitting
+algorithms in an easily extensible way. This system underlies our
+approach for mapping array coordinates to general world coordinate
+systems. Finally, a powerful table interface has been developed that
+handles many different data formats (currently focused mostly on
+astronomical varieties, but extensible to other fields as well).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/bringing-astronomical-tools-down-to-earth-scipy.html</guid><category>Tech</category></item><item><title>Climate Observations from ACIS in pandas; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/climate-observations-from-acis-in-pandas-scipy-2.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Noon, William: Northeast Regional Climate Center&lt;/p&gt;
+&lt;p&gt;Track: Meteorology, Climatology, Atmospheric and Oceanic Science&lt;/p&gt;
+&lt;p&gt;The Applied Climate Information System (ACIS) has been developed by the
+Regional Climate Centers (RCCs) and has been providing relevant climate
+data and products for over a decade. Last year (2012) we release version
+2 of our data access protocol and made the system open to general use.
+&lt;a class="reference external" href="http://data.rcc-acis.org"&gt;http://data.rcc-acis.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ACIS aggregates weather observations reported at over 20,000 stations in
+North America over the last 100 years. These observations are collected
+from a number of sources and updated multiple times a day. At any point
+in time, the system will select the best available data and merge them
+into a coherent record. The daily/hourly observations are available as
+well as climate products summarized over various time intervals.
+&lt;a class="reference external" href="http://www.rcc-acis.org"&gt;http://www.rcc-acis.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The ACIS Web Services use standard web requests and formats to defined
+the requested data product and return the results. This data can be
+further refined by the user in their prefered analysis environment.&lt;/p&gt;
+&lt;p&gt;This talk introduces a pandas data loader for the ACIS Web Services.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/climate-observations-from-acis-in-pandas-scipy-2.html</guid><category>Tech</category></item><item><title>Data Agnosticism: Feature Engineering Without Domain Expertise; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/data-agnosticism-feature-engineering-without-dom.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Kridler, Nicholas, Accretive Health&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;Bits are bits. Whether you are searching for whales in audio clips or
+trying to predicit hospitalization rates based on insurance claims, the
+pro- cess is the same: clean the data, generate features, build a model,
+and iter- ate. Better features lead to a better model, but without
+domain expertise it is often difficult to extract those features.
+Numpy/Scipy, Matplotlib, Pandas, and Sci-kit Learn provide an excellent
+framework for data anal- ysis and feature discovery. This is evidenced
+by high performing models in the Heritage Health Prize and the
+Marinexplore Right Whale Detec- tion challenge. In both competitions,
+the largest performance gains came from identifying better features.
+This required being able to repeatedly visualize and characterize model
+successes and failures. Python provides this capability as well as the
+ability to rapidly implement and test new features. This talk will
+discuss how Python was used to develop competi- tive predictive models
+based on derived features discovered through data analysis.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/data-agnosticism-feature-engineering-without-dom.html</guid><category>Tech</category></item><item><title>DMTCP: Bringing Checkpoint-Restart to Python; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/dmtcp-bringing-checkpoint-restart-to-python-sci.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Arya, Kapil, Northeastern University; Cooperman, Gene,
+Northeastern University&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;DMTCP[1] is a mature user-space checkpoint-restart package. One can
+think of checkpoint-restart as a generalization of pickling. Instead of
+saving an object to a file, one saves the entire Python session to a
+file. Checkpointing Python visualization software is as easy as
+checkpointing a VNC session with Python running inside.&lt;/p&gt;
+&lt;p&gt;A DMTCP plugin can be built in the form of a Python module. This Python
+module provides functions by which a Python session can checkpoint
+itself to disk. The same ideas extend to IPython.&lt;/p&gt;
+&lt;p&gt;Two classical uses of this feature are a saveWorkspace function
+(including visualization and the distributed processes of IPython). In
+addition, at least three novel uses of DMTCP for helping debug Python
+are demonstrated.&lt;/p&gt;
+&lt;p&gt;FReD[2] --- a Fast Reversible Debugger that works closely with the
+Python pdb debugger, as well as other Python debuggers.&lt;/p&gt;
+&lt;p&gt;Reverse Expression Watchpoint --- A bug occurred in the past. It is
+associated with the point in time when a certain expression changed.
+Bring the user back to a pdb session at the step before the bug
+occurred.&lt;/p&gt;
+&lt;p&gt;Fast/Slow Computation[3] --- Cython provides both traditional
+interpreted functions and compiled C functions. Interpreted functions
+are slow, but correct. Compiled functions are fast, but users sometimes
+define them incorrectly, whereupon the compiled function silently
+returns a wrong answer. The idea of fast/slow computation is to run the
+compiled version on one core, with checkpoints at frequent intervals,
+and to copy a checkpoint to another core. The second core re-runs the
+computation over that interval, but in interpreted mode.&lt;/p&gt;
+&lt;p&gt;[1]DMTCP: Transparent Checkpointing for Cluster Computations and the
+Desktop. Ansel, Arya, Cooperman. IPDPS-2009
+&lt;a class="reference external" href="http://dmtcp.sourceforge.net/"&gt;http://dmtcp.sourceforge.net/&lt;/a&gt; [2]FReD: Automated Debugging via Binary
+Search through a Process Lifetime &lt;a class="reference external" href="http://arxiv.org/abs/1212.5204"&gt;http://arxiv.org/abs/1212.5204&lt;/a&gt;
+[3]Distributed Speculative Parallelization using Checkpoint Restart,
+Ghoshal et al. Procedia Computer Science, 2011.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/dmtcp-bringing-checkpoint-restart-to-python-sci.html</guid><category>Tech</category></item><item><title>Dynamics with SymPy Mechanics; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/dynamics-with-sympy-mechanics-scipy-2013-present.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Moore, Jason, University of California at Davis&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;The SymPy Mechanics package was created to automate the derivation of
+the equations of motion for rigid body dynamics problems. It has been
+developed primarily through several Google Summer of Code grants over
+three years and is capable of deriving Newton's Second Law for
+non-trivial multi-body systems using a variety of methods: from
+Newton-Euler, to Lagrange, to Kane. The software provides essential
+classes based around the concepts of a three dimensional vector in a
+reference frame which ease the setup and bookkeeping of the tedious
+kinematics including both kinematic and motion constraints. There are
+also classes for the automated formulation of the equations of motion
+based on the bodies and forces in a system. It also includes automated
+linearization of the resulting non-linear models. The software can be
+used to solve basic physics problems or very complicated many-body and
+many-constraint systems all with symbolic results. I will go over the
+basic software design, demonstrate its use through the API along with
+several classic physics problems and some not-so-trivial three
+dimensional multi-body problems.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/dynamics-with-sympy-mechanics-scipy-2013-present.html</guid><category>Tech</category></item><item><title>Estimating and Visualizing the Inertia of the Human Body with Python; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/estimating-and-visualizing-the-inertia-of-the-hum.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Moore, Jason, University of California at Davis; Dembia,
+Christopher, Stanford&lt;/p&gt;
+&lt;p&gt;Track: Medical Imaging&lt;/p&gt;
+&lt;p&gt;The Yeadon human body segment inertia model is a widely used method in
+the biomechanical field that allows scientists to get quick and reliable
+estimations of mass, mass location, and inertia estimates of any human
+body. The model is formulated around a collection of stadia solids that
+are defined by a series of width, perimeter, and circumference
+measurements. This talk will detail a Python software package that
+implements the method and exposes a basic API for its use within other
+code bases. The package also includes a text based user interface and a
+graphical based user interface, both of which will be demonstrated. The
+GUI is implemented with MayaVi and allows the user to manipulate the
+joint angles of the human and instantaneously get inertia estimates for
+various poses. Researchers that readily need body segment and human
+inertial parameters for dynamical model development or other uses,
+should find this package useful for quick interactive results. We will
+demonstrate the three methods of using the package, cover the software
+design, show how the software can be integrated into other packages, and
+demonstrate a non-trivial example of computing the inertial properties
+of a human seated on a bicycle.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/estimating-and-visualizing-the-inertia-of-the-hum.html</guid><category>Tech</category></item><item><title>Experiences in Python for Medical Image Analysis; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/experiences-in-python-for-medical-image-analysis.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Warner, Joshua, Mayo Clinic Department of Biomedical
+Engineering&lt;/p&gt;
+&lt;p&gt;Track: Medical Imaging&lt;/p&gt;
+&lt;p&gt;Upon entering graduate school and selecting radiology informatics as my
+topic of study, a broad survey of open source options for scientific
+work was conducted. There were three main criteria:&lt;/p&gt;
+&lt;p&gt;robust numerical and scientific capability, strong user community with
+continuing updates and long term support, and ease of use for students
+transitioning from other languages. Among several strong options that
+satisfied criteria #1, Python with NumPy and SciPy was the clear winner
+due to the latter two criteria.&lt;/p&gt;
+&lt;p&gt;My work focuses on supervised segmentation of soft-tissue abdominal MRI
+images, extracting novel image features from these segmented regions of
+interest, and applying machine learning techniques to evaluate features
+for predictive ability. This presentation will provide an overview of
+the key computational tasks required for this work, and outline the
+challenges facing a medical image researcher using Python. Most notably,
+medical image volumes are rarely isotropic, yet often algorithms for 3-D
+NumPy arrays inherently assume isotropic sampling. Thus, generalizing or
+extending various algorithms to handle anisotropic rectangular sampled
+data is necessary. Our improvements to one such algorithm were recently
+contributed back to the community, and are presently incorporated in the
+random walker segmentation algorithm in Scikit-Image.&lt;/p&gt;
+&lt;p&gt;Another significant challenge is visualization of algorithm output for
+large volumetric datasets. An extensible tool we call volview was
+developed, allowing fast visualization of an entire volume and an
+arbitrary number of colored, alpha-blended overlays, combining the
+abilities of NumPy, Pyglet, and PygArrayImage. This improved speed and
+quality of algorithm development, and facilitated review of our results
+by clinicians.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/experiences-in-python-for-medical-image-analysis.html</guid><category>Tech</category></item><item><title>Exploring Collaborative HPC Visualization Workflows using VisIt and Python; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/exploring-collaborative-hpc-visualization-workflo.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Krishnan, Harinarayan, Lawrence Berkeley National Labs;
+Harrison, Cyrus, Lawrence Livermore National&lt;/p&gt;
+&lt;p&gt;Track: Reproducible Science&lt;/p&gt;
+&lt;p&gt;As High Performance Computing (HPC) environments expand to address the
+larger computational needs of massive simulations and specialized data
+analysis and visualization routines, the complexity of these
+environments brings many challenges for scientists hoping to capture and
+publish their work in a reproducible manner. Collaboration using HPC
+resources is a particularly difficult aspect of the research process to
+capture. This is also the case for HPC visualization, even though there
+has been an explosion of technologies and tools for sharing in other
+contexts.&lt;/p&gt;
+&lt;p&gt;Practitioners aiming for reproducibility would benefit from
+collaboration tools in this space that support the ability to
+automatically capture multi-user collaborative interactions. For this
+work, we modified VisIt, an open source scientific visualization
+platform, to provide an environment aimed at addressing these
+shortcomings. The talk will focus on two exploratory features added to
+VisIt:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;We enhanced VisIt's infrastructure expose a JSON API to clients over
+WebSockets. The new JSON API enables VisIt clients on web-based and
+mobile platforms. This API also enables multi-user collaborative
+visualization sessions. These collaborative visualization sessions
+can record annotated user interactions to Python scripts that can be
+replayed to reproduce the session in the future, thus capturing not
+only the end product but the step-by-step process used to create the
+visualization.&lt;/li&gt;
+&lt;li&gt;We have also added support for new Python &amp;amp; R programmable pipelines
+which allow users to easily execute their analysis scripts within
+VisIt's parallel infrastructure. The goal of this new functionality
+is to provide users familiar with of Python and R with an easier path
+to embed their analysis within VisIt.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To showcase how these new features enable reproducible science, we will
+present a workflow that demonstrates a Climate Science use case.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/exploring-collaborative-hpc-visualization-workflo.html</guid><category>Tech</category></item><item><title>High Performance Reproducible Computing; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/high-performance-reproducible-computing-scipy-20.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Zhang, Zhang, Intel Corporation; Rosenquist, Todd, Intel
+Corporation; Moffat, Kent, Intel Corporation&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;The call for reproducible computational results in scientific research
+areas has increasingly resonated in recent years. Given that a lot of
+research work uses mathematical tools and relies on modern high
+performance computers for numerical computation, obtaining reproducible
+floating-point computation results becomes fundamentally important in
+ensuring that research work is reproducible.&lt;/p&gt;
+&lt;p&gt;It is well understood that, generally, operations involving IEEE
+floating-point numbers are not associative. For example, (a+b)+c may not
+equal a+(b+c). Different orders of operations may lead to different
+results. But exploiting parallelism in modern performance-oriented
+computer systems has typically implied out-of-order execution. This
+poses a great challenge to researchers who need exactly the same
+numerical results from run to run, and across different systems.&lt;/p&gt;
+&lt;p&gt;This talk describes how to use tools such as Intel® Math Kernel Library
+(Intel® MKL) and Intel® compilers to build numerical reproducibility
+into Python based tools. Intel® MKL includes a feature called
+Conditional Numerical Reproducibility that allows users to get
+reproducible floating-point results when calling functions from the
+library. Intel® compilers provide broader solutions to ensure the
+compiler-generated code produces reproducible results. We demonstrate
+that scientific computing with Python can be numerically reproducible
+without losing much of the performance offered by modern computers. Our
+discussion focuses on providing different levels of controls to obtain
+reproducibility on the same system, across multiple generations of Intel
+architectures, and across Intel architectures and Intel-compatible
+architectures. Performance impact of each level of controls is discussed
+in detail. Our conclusion is that, there is usually a certain degree of
+trade-off between reproducibility and performance. The approach we take
+gives the end users many choices of balancing the requirement of
+reproducible results with the speed of computing.&lt;/p&gt;
+&lt;p&gt;This talk uses NumPy/SciPy as an example, but the principles and the
+methodologies presented apply to any Python tools for scientific
+computing.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/high-performance-reproducible-computing-scipy-20.html</guid><category>Tech</category></item><item><title>Iris &amp; Cartopy: Python packages for Atmospheric and Oceanographic science; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/iris-cartopy-python-packages-for-atmospheric-a.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Iris &amp;amp; Cartopy: Open source Python packages for Atmospheric and
+Oceanographic science&lt;/p&gt;
+&lt;p&gt;Authors: Elson, Philip, UK Met Office;&lt;/p&gt;
+&lt;p&gt;Track: Meteorology, Climatology, Atmospheric and Oceanic Science&lt;/p&gt;
+&lt;p&gt;As the capabilities of Python packages valuable to the Atmospheric and
+Oceanographic Sciences (AOS) such as matplotlib, scipy and numpy have
+developed, so the UK Met Office's use of Python has expanded. The open
+source scientific Python stack is strategically important to the Met
+Office as it strives to meet the increasing need to collaborate freely
+and openly in academic and commercial partnerships. Python's easy to
+develop, dynamically typed syntax is ideally suited for data
+assimilation and model post-processing type tasks, and in recent years
+the Met Office has sustained funding for a team of software engineers to
+simplify, develop and improve its scientific capabilities by
+contributing to the the open source AOS community.&lt;/p&gt;
+&lt;p&gt;The focus of much of this effort has been on a new open source Python
+package, Iris 1, which implements a generalised n-dimensional gridded
+data model to isolate analysis and visualisation code from file format
+specifics. The Iris data model is a result of close collaboration with
+the CF Data Model community and currently has read/write support for a
+variety of file formats including NetCDF and GRIB. In order to deliver a
+component of the core visualisation functionality, a new mapping library
+called Cartopy 2 has also been developed on top of matplotlib. Cartopy
+exposes an intuitive interface for the transformation and visualisation
+of geospatial vector and raster data.&lt;/p&gt;
+&lt;p&gt;This talk will outline some of the Met Office's involvement in the open
+source community, including demonstrations of Iris and Cartopy;
+highlights of recent matplotlib contributions; and an outline of future
+developments.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/iris-cartopy-python-packages-for-atmospheric-a.html</guid><category>Tech</category></item><item><title>lmonade: a platform for development and distribution of scientific software; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/lmonade-a-platform-for-development-and-distribut.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Erocal, Burcin, TU Kaiserslautern&lt;/p&gt;
+&lt;p&gt;Track: Reproducible Science&lt;/p&gt;
+&lt;p&gt;Most results in experimental mathematics are accompanied by software
+implementations which often push the boundaries of what can be computed
+in terms of mathematical theory and efficiency. Since new algorithms are
+built on existing ones, just as theorems are derived from existing
+results, it would be natural to expect that the code produced for one
+project will be useful later on, to both the same researcher and others.&lt;/p&gt;
+&lt;p&gt;While theorems blissfully stay intact over time, software deteriorates
+and ages. Implementations need to be updated with respect to changes in
+underlying libraries and hardware architectures. Even if up to date,
+software developed for a specific application area often needs to be
+adapted to new situations. Like proofs can be reused by taking some
+components intact and modifying certain parts, software needs similar
+adaptations to be reusable.&lt;/p&gt;
+&lt;p&gt;It is natural that researchers cannot commit any more time than
+absolutely necessary for distributing and maintaining their software.
+The lmonade project aims to provide infrastructure and tools to foster
+code sharing and openness in scientific software development by&lt;/p&gt;
+&lt;p&gt;simplifying the tasks of distributing software with its dependencies,
+ensuring that it can be built on different platforms, and making sure
+the software is compatible across new releases of its dependencies. This
+is achieved through&lt;/p&gt;
+&lt;p&gt;a light-weight meta distribution which can be installed by a user
+without administrative rights. Building on the Gentoo Linux distribution
+and the Gentoo Prefix project, lmonade creates a uniform environment for
+software development where latest versions of scientific libraries can
+be found easily. access to a continuous integration infrastructure to
+detect compatibility problems between new versions of packages
+automatically and warn authors. By simplifying code sharing and
+distribution, especially when complex dependencies are involved, this
+platform enables researchers to build on existing tools without fear of
+losing users to baffling installation instructions.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/lmonade-a-platform-for-development-and-distribut.html</guid><category>Tech</category></item><item><title>Massive Online Collaborative Research and Modeling using Synapse and Python; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/massive-online-collaborative-research-and-modelin.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Omberg, Larsson, Sage Bionetworks&lt;/p&gt;
+&lt;p&gt;Track: Bioinformatics&lt;/p&gt;
+&lt;p&gt;Synapse is an open source software as a service (SaaS) platform built by
+Sage Bionetworks to enable collaborative and reproducible science.
+Having RESTful APIs at its base, Synapse is able to easily link to
+analytical software such as Python. In this talk I will present the
+Python bindings to this platform and, more specifically, how it fostered
+a collaborative environment for over 140 individual researchers spread
+across 25 institutions in The Cancer Genome Atlas (TCGA) consortium.
+Synapse enables tracking of provenance of data from individual genome
+sequencing centers, processing and quality control, and all the way
+through results generated from models of cancer genomics. Synapse is
+designed as an information commons. Allowing any user not only to access
+data but also contribute results and models. This allows the TCGA
+collaboration to accelerate discovery by using partial contributed
+results as starting points for downstream analyses. One sub-project that
+has emerged from the collaboration is an online machine learning
+competition to predict expected survival time of cancer patients given
+molecular phenotype. All submitted models are immediately open sourced
+allowing derivative models to be built. These collaborative competitions
+provide an alternative approach to performing computational science
+which tools like Python and Synapse can greatly accelerate.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/massive-online-collaborative-research-and-modelin.html</guid><category>Tech</category></item><item><title>Matplotlib: past, present and future; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/matplotlib-past-present-and-future-scipy-2013.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Michael Droettboom&lt;/p&gt;
+&lt;p&gt;Track: Reproducible Science&lt;/p&gt;
+&lt;p&gt;This talk will be a general &amp;quot;state of the project address&amp;quot; for
+matplotlib, the popular plotting library in the scientific Python stack.
+It will provide an update about new features added to matplotlib over
+the course of the last year, outline some ongoing planned work, and
+describe some challenges to move into the future. The new features
+include a web browser backend, &amp;quot;sketch&amp;quot; style, and numerous other
+bugfixes and improvements. Also discussed will be the challenges and
+lessons learned moving to Python 3. Our new &amp;quot;MEP&amp;quot; (matplotlib
+enhancement proposal) method will be introduced, and the ongoing MEPs
+will be discussed, such as moving to properties, updating the
+docstrings, etc. Some of the more pie-in-the-sky plans (such as styling
+and serializing) will be discussed. It is hoped that this overview will
+be useful for those who use matplotlib, but don't necessarily follow its
+mailing list in detail, and also serve as a call to arms for assistance
+for the project.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/matplotlib-past-present-and-future-scipy-2013.html</guid><category>Tech</category></item><item><title>Matrix Expressions and BLAS/LAPACK; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/matrix-expressions-and-blaslapack-scipy-2013-pr.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Rocklin, Matthew, University of Chicago Computer Science&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;Numeric linear algebra is important ubiquitous. The BLAS/LAPACK
+libraries include high performance implementations of DLA algorithms in
+a variety of mathematical situations. They are underused because&lt;/p&gt;
+&lt;p&gt;The interface is challenging to scientific users The number of routines
+is huge, pressuring users to select general routines rather than finding
+the one that best fits their situation. I demonstrate a small DSL for
+Matrix Algebra[1] embedded in the SymPy project [2]. I use logic
+programming to infer attributes about larger matrix expressions [3]. I
+describe the BLAS and LAPACK libraries programmatically [4] and use
+strategic programming [5] to automatically build directed acyclic graphs
+of BLAS/LAPACK operations to compute complex expressions [6]. From these
+I generate readable Fortran code [7]. I then use f2py to bring this back
+into Python. The result is a clean mathematical interface that
+efficiently generates mathematically informed numeric code. I compare
+these results against other popular numeric packages like NumPy and
+Theano.&lt;/p&gt;
+&lt;p&gt;Philosophically I'll plug the following ideas&lt;/p&gt;
+&lt;p&gt;Multiple clean intermediate representations - Aside from a runnable
+Python function this project also generates perfectly readable Fortran90
+code and a directed acyclic graph. I'll briefly show that the
+availability of the DAG representation opens up the possibility of
+static scheduling. Declarative programming - All of the math in this
+project is defined separately from the algorithms, increasing
+opportunities for independent development. I'll probably talk about
+separating what code from how code. I may evangelize a bit about small,
+modular and generally applicable projects.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/matrix-expressions-and-blaslapack-scipy-2013-pr.html</guid><category>Tech</category></item><item><title>NeuroTrends: Large-scale automated analysis of the neuroimaging literature; SciPy 2013 Presentation</title><link>http://pyvideo.org/scipy-2013/neurotrends-large-scale-automated-analysis-of-th.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Authors: Carp, Joshua, University of Michigan&lt;/p&gt;
+&lt;p&gt;Track: Medical Imaging&lt;/p&gt;
+&lt;p&gt;How do researchers design and analyze experiments? How should they? And
+how likely are their results to be reproducible? To investigate these
+questions, we developed NeuroTrends, a platform for large-scale analysis
+of research methods in the neuroimaging literature. Neurotrends
+identifies relevant research reports using the PubMed API, downloads and
+parses full-text HTML and PDF documents, and extracts hundreds of
+methodological details from this unstructured text.&lt;/p&gt;
+&lt;p&gt;In the present study, NeuroTrends was evaluated using a corpus of over
+16,000 journal articles. Automatically extracted methodological
+meta-data were validated against a hand-coded database. Overall,
+methodological details were extracted accurately, with a mean d-prime
+value of 3.53 (range: 1.12 to 6.18). Results revealed both variability
+and stability in methodological practices over time, with some methods
+increasing in prevalence, some decreasing, and others remaining
+consistent. Results also showed that design and analysis pipelines were
+highly variable across studies and have grown more variable over time.&lt;/p&gt;
+&lt;p&gt;In sum, the present study confirms the feasibility of accurately
+extracting methodological meta-data from unstructured text. We also
+contend that variability in research methods across time and from study
+to study poses a challenge to reproducibility in the neuroimaging
+literature--and likely in many other fields as well. Future directions
+include improving the accuracy and coverage of the NeuroTrends platform,
+integrating with additional databases, and extending to research domains
+beyond neuroimaging.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Tue, 02 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-02:scipy-2013/neurotrends-large-scale-automated-analysis-of-th.html</guid><category>Tech</category></item></channel></rss>

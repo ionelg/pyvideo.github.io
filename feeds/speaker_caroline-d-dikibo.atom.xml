@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_caroline-d-dikibo.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-11-18T00:00:00+00:00</updated><entry><title>Lightning Talks</title><link href="http://pyvideo.org/pytexas-2017/lightning-talks.html" rel="alternate"></link><published>2017-11-18T00:00:00+00:00</published><updated>2017-11-18T00:00:00+00:00</updated><author><name>Walker Hale</name></author><id>tag:pyvideo.org,2017-11-18:pytexas-2017/lightning-talks.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Walker Hale - Conda packages for bash scripts
+Ricky Whitaker - Becoming Comfortable in Discomfort: A few life lessons from quitting my job
+Moshe Zadka - Introducing NColony
+Peter Graham - Safely using read replica with postgres
+John Arbelaez - The pyslackers community
+Caroline D Dikibo - OSS Project Awareness: Zulip
+Dustin Ingram - Good Hacker; Bad Hacker&lt;/p&gt;
+</summary><category term="lightning talks"></category></entry></feed>

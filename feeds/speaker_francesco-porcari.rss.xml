@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Analisi dati e grafici con Genropy e Pandas</title><link>http://pyvideo.org/pycon-italia-2017/analisi-dati-e-grafici-con-genropy-e-pandas.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Genropy è un framework per la creazione di Single Page Applications che
+offre ad utenti e sviluppatori un ambiente di lavoro molto comodo per il
+caricamento e la gestione dei dati. In questo talk parleremo degli
+strumenti messi a disposizione per l’analisi dei dati e la
+rappresentazione grafica, tabellare e in dashboard. Parleremo in
+particolare dell’integrazione con Pandas e di come sia facile anche per
+un utente non particolarmente esperto generare pivot table, e creare
+colonne calcolate e mostrare i risultati come grafici.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Porcari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/analisi-dati-e-grafici-con-genropy-e-pandas.html</guid><category>genropy</category><category>webapp</category><category>pandas</category><category>web-development</category><category>graph</category></item><item><title>La GUI di Genropy</title><link>http://pyvideo.org/pycon-italia-2017/la-gui-di-genropy.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lo scopo di quersto talk è di offrire una panoramica della GUI di
+Genropy e del suo meccanismo di funzionamento. In particolare verra
+mostrato come sia possibile, scrivendo solo codice python, usare genropy
+come interfaccia grafica al di fuori del classico uso del gestionale&lt;/p&gt;
+&lt;p&gt;Proveremo a vedere come dare un’ interfaccia grafica ad alcuni comandi
+di shell e a mostrare come tramite i widget di genropy sia possibile
+gestire con poche righe di codice python widget complessi come griglie,
+griglie editabili e alberi.&lt;/p&gt;
+&lt;p&gt;Vi mostreremo l’utilizzo sia in versione classica nel browser, che con
+electron.&lt;/p&gt;
+&lt;p&gt;Mostreremo anche l’uso di RPC classiche e di websocket.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Porcari</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/la-gui-di-genropy.html</guid><category>genropy</category><category>gui</category><category>websockets</category></item><item><title>Le applicazioni GenroPy</title><link>http://pyvideo.org/pycon-italia-2014/le-applicazioni-genropy.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Scrivere applicazioni web molto complesse può essere un lavoro estremamente faticoso e poco remunerativo. Con il framework GenroPy è possibile produrre in tempi rapidissimi applicazioni gestionali estremamente complete e complesse.&lt;/p&gt;
+&lt;p&gt;Nel talk saranno mostrate alcune applicazioni realizzate enfatizzando tutte le feature immediatamente disponibili per il cliente finale.&lt;/p&gt;
+&lt;p&gt;Il talk è finalizzato a mostrare l'aspetto utente delle applicazioni prodotte con GenroPy mentre nel training talk &amp;quot;COSTRUIRE UN'APPLICAZIONE COMPLETA CON GENROPY&amp;quot; sarà possibile realizzare l'applicazione dimostrativa che vedrete a questo link.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Porcari</dc:creator><pubDate>Fri, 23 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-23:pycon-italia-2014/le-applicazioni-genropy.html</guid></item><item><title>Genropy: non solo gestionali</title><link>http://pyvideo.org/pycon-italia-2016/genropy-non-solo-gestionali.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Porcari</dc:creator><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-20:pycon-italia-2016/genropy-non-solo-gestionali.html</guid></item></channel></rss>

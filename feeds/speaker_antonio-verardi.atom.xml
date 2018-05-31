@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_antonio-verardi.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-07-11T00:00:00+00:00</updated><entry><title>Write more decorators (and fewer classes)</title><link href="http://pyvideo.org/europython-2017/write-more-decorators-and-fewer-classes.html" rel="alternate"></link><published>2017-07-11T00:00:00+00:00</published><updated>2017-07-11T00:00:00+00:00</updated><author><name>Antonio Verardi</name></author><id>tag:pyvideo.org,2017-07-11:europython-2017/write-more-decorators-and-fewer-classes.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In the wake of famous talk “Stop Writing Classes” by Jack Diederich
+(&lt;a class="reference external" href="https://www.youtube.com/watch?v=o9pEzgHorH0"&gt;https://www.youtube.com/watch?v=o9pEzgHorH0&lt;/a&gt;), I’d like to present a
+pattern that can be used to design clean and pythonic interfaces for
+programmers based on replacing single-method classes with decorated
+functions.&lt;/p&gt;
+&lt;p&gt;This pattern is already used by some famous frameworks and libraries,
+like Pyramid (&lt;a class="reference external" href="https://trypyramid.com/"&gt;https://trypyramid.com/&lt;/a&gt;), but I believe it isn’t that
+well-known to many (even experienced) Python developers and is not as
+widely used as it deserves.&lt;/p&gt;
+&lt;p&gt;I’ll show how this pattern can be employed to improve a programming
+interface which is used by an internal log processing framework at
+Yelp. This will demonstrate how a more functional approach,
+leveraging the power of Python decorators, can lead to simpler, more
+beautiful and easier to understand code.&lt;/p&gt;
+&lt;p&gt;However, this talk doesn’t suggest giving up classes altogether, but
+making use of them only when they are truly useful. In fact, the
+use-case I’m going to analyze will combine classes, functions, and
+decorators to make the best out of these tools.&lt;/p&gt;
+&lt;p&gt;Given that the presentation is going to be very code-oriented, the
+talk is intended for an audience of developers who are already
+familiar with most Python constructs, including decorators, even
+though the concept will be briefly introduced at the beginning of the
+talk. But, if you are one of these people, I promise you that the
+code will speak for itself.&lt;/p&gt;
+</summary></entry></feed>

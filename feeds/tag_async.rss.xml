@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate><item><title>Taking Django Async</title><link>http://pyvideo.org/pycon-us-2018/taking-django-async.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Django Channels project has taken a major turn with version 2.0, embracing Python's async functionality and building applications around an async event loop rather than worker processes.&lt;/p&gt;
+&lt;p&gt;Doing this, however, wasn't easy. We'll look through some of the techniques used to make Django coexist in this async world, including handing off between async and sync code, writing fully asynchronous HTTP and WebSocket handling, and what this means for the future of Django, and maybe Python web frameworks in general.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2018-05-11:pycon-us-2018/taking-django-async.html</guid><category>django</category><category>async</category><category>django channels</category></item><item><title>Trio: Async concurrency for mere mortals</title><link>http://pyvideo.org/pycon-us-2018/trio-async-concurrency-for-mere-mortals.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Concurrent programs are super useful: think of web apps juggling lots of
+simultaneous downloads and websocket connections, chat bots tracking
+multiple concurrent conversations, or web spiders fetching pages in
+parallel. But &lt;em&gt;writing&lt;/em&gt; concurrent programs is complicated, intimidating
+to newcomers, and often challenging even for experts.&lt;/p&gt;
+&lt;p&gt;Does it have to be? Python is famous for being simple and
+straightforward; can Python make concurrent programming simple and
+straightforward too? I think so. By carefully analyzing usability
+pitfalls in other libraries, and taking advantage of new Python 3
+features, I’ve come up with a new set of primitives that make it
+dramatically easier to write correct concurrent programs, and
+implemented them in a new library called &lt;a class="reference external" href="https://trio.readthedocs.io"&gt;Trio&lt;/a&gt;. In this talk, I’ll
+describe these primitives, and demonstrate how to use them to implement
+a basic algorithm for speeding up TCP connections. Compared to the best
+previous Python implementation, our version turns out to be easier to
+understand, more correct, and dramatically shorter.&lt;/p&gt;
+&lt;p&gt;This talk assumes basic familiarity with Python, but does &lt;em&gt;not&lt;/em&gt; require
+any prior experience with concurrency, async/await, or networking.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nathaniel J. Smith</dc:creator><pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2018-05-11:pycon-us-2018/trio-async-concurrency-for-mere-mortals.html</guid><category>trio</category><category>async</category><category>concurrency</category></item><item><title>Desenvolvendo APIs REST com Python 3 e Asyncio</title><link>http://pyvideo.org/caipyra-2016/desenvolvendo-apis-rest-com-python-3-e-asyncio.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Palestra do Renato Garcia no Caipyra 2016:&lt;/p&gt;
+&lt;p&gt;Desenvolvendo APIs REST com Python 3 e Asyncio&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Renato Garcia</dc:creator><pubDate>Sun, 26 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-26:caipyra-2016/desenvolvendo-apis-rest-com-python-3-e-asyncio.html</guid><category>api</category><category>apis</category><category>rest</category><category>rest api</category><category>asyncio</category><category>async</category></item><item><title>Practical Python Async for Dummies</title><link>http://pyvideo.org/kiwi-pycon-2016/practical-python-async-for-dummies.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Grant Paton-Simpson
+&lt;a class="reference external" href="https://kiwi.pycon.org/schedule/presentation/121/"&gt;https://kiwi.pycon.org/schedule/presentation/121/&lt;/a&gt;
+What's the point of faster computers if our code spends most of its time waiting for slower processes to complete. Shouldn't we be using asynchronous code to make lots of things happen simultaneously? Probably, but isn't that really tricky to do? The goal of this talk is to work through some very simple snippets of Python code that make common tasks much, much faster with minimal fuss.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grant Paton-Simpson</dc:creator><pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-11:kiwi-pycon-2016/practical-python-async-for-dummies.html</guid><category>async</category><category>for dummies</category></item><item><title>Building real-world applications with `asyncio`</title><link>http://pyvideo.org/pytexas-2015/building-real-world-applications-with-asyncio.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this tutorial, Eloy Zuñiga, Jr. and Joel Watts will work through the
+process of building an event-driven application using
+&lt;tt class="docutils literal"&gt;`asyncio&lt;/tt&gt; &amp;lt;&lt;a class="reference external" href="https://docs.python.org/3/library/asyncio.html"&gt;https://docs.python.org/3/library/asyncio.html&lt;/a&gt;&amp;gt;`__ and web
+technologies. By the end, we hope you'll be able to answer the following
+questions:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why should I care about async programming at all?&lt;/li&gt;
+&lt;li&gt;What is &lt;tt class="docutils literal"&gt;asyncio&lt;/tt&gt; and how is it used?&lt;/li&gt;
+&lt;li&gt;How do I use this stuff to solve real-world problems?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We'll assume some familiarity with Python, but no prior experience with
+async programming is required. Please come with Python 3.4+ installed.&lt;/p&gt;
+&lt;p&gt;All the codez can be found in these 2 repos&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/eloyz/aioui"&gt;https://github.com/eloyz/aioui&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/jpwatts/aioserver"&gt;https://github.com/jpwatts/aioserver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joel Watts</dc:creator><pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-15:pytexas-2015/building-real-world-applications-with-asyncio.html</guid><category>Asyncio</category><category>async</category></item><item><title>Why should I care about asyncio?</title><link>http://pyvideo.org/pytexas-2015/why-should-i-care-about-asyncio.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python 3.3 added &lt;tt class="docutils literal"&gt;yield from&lt;/tt&gt; and 3.4 added
+&lt;tt class="docutils literal"&gt;`asyncio&lt;/tt&gt; &amp;lt;&lt;a class="reference external" href="https://docs.python.org/3/library/asyncio.html"&gt;https://docs.python.org/3/library/asyncio.html&lt;/a&gt;&amp;gt;`__. Python
+3.5 adds &lt;tt class="docutils literal"&gt;async&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;await&lt;/tt&gt; from &lt;a class="reference external" href="https://www.python.org/dev/peps/pep-0492/"&gt;PEP
+492&lt;/a&gt;. What is all this
+stuff? Why do we need new syntax? And why should I care?&lt;/p&gt;
+&lt;p&gt;This talk is about why async programming is worth caring about and why
+Python's approach has me so excited.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joel Watts</dc:creator><pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-15:pytexas-2015/why-should-i-care-about-asyncio.html</guid><category>Asyncio</category><category>async</category></item></channel></rss>

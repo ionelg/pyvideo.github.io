@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_games.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-08T00:00:00+00:00</updated><entry><title>How to turn Wikipedia into a Quiz Game</title><link href="http://pyvideo.org/pycon-italia-2017/how-to-turn-wikipedia-into-a-quiz-game.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Andrea Cappelli</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/how-to-turn-wikipedia-into-a-quiz-game.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Quiz games let people test their knowledge through multi-choice
+questions. Unfortunately, generating such questions can be very
+time-consuming and it is typically done manually. In this talk we
+will present a pipeline to automatically generate quiz games starting
+from generic knowledge (e.g. Wikipedia). The pipeline consists of the
+following components: (i) a parser to retrieve text from Wikipedia
+pages, (ii) a Natural Language Processing module (based on the Google
+Natural Language API) to extract information about syntax, entities
+and relations, (iii) a Natural Language Generation module to generate
+test questions and correct answers, and finally (iv) a domain-aware
+module that uses domain-specific knowledge to generate wrong answers
+(i.e. distractors). Every module is written in Python and it is based
+on either available libraries or Cloud services (e.g., Google Natural
+Language).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: basic knowledge of python, minimal understanding
+of text syntactic analysis.&lt;/p&gt;
+</summary><category term="nlp"></category><category term="AI"></category><category term="games"></category><category term="computational-linguistics"></category><category term="data-analysis"></category><category term="text-analysis"></category><category term="google-cloud"></category><category term="Artificial Intelligence"></category><category term="linked-data"></category></entry><entry><title>Making Games</title><link href="http://pyvideo.org/pygotham-2016/making-games.html" rel="alternate"></link><published>2016-07-16T00:00:00+00:00</published><updated>2016-07-16T00:00:00+00:00</updated><author><name>Piper Thunstrom</name></author><id>tag:pyvideo.org,2016-07-16:pygotham-2016/making-games.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;From your first 'while True:' to your first framework.&lt;/p&gt;
+</summary><category term="Games"></category></entry><entry><title>PyConAU 2010: Python in Video Games and Multimedia Projects</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--python-in-video-games-and-multimedi.html" rel="alternate"></link><published>2010-06-26T00:00:00+00:00</published><updated>2010-06-26T00:00:00+00:00</updated><author><name>Chris McCormick</name></author><id>tag:pyvideo.org,2010-06-26:pycon-au-2010/pyconau-2010--python-in-video-games-and-multimedi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python in Video Games and Multimedia Projects&lt;/p&gt;
+&lt;p&gt;Presented by Mr. Chris McCormick&lt;/p&gt;
+&lt;p&gt;This talk will cover several real-world uses of Python in cross platform
+video game and multimedia projects, and the tips, tricks, and techniques
+I learned along the way whilst working on those projects. I'll speak
+about the issues involved in cross platform desktop dev with wxPython,
+interfacing with multimedia programs using subprocess, spreading load
+with multiprocessing, developing for the web on small devices with
+Django, and when and how to write custom network servers using asyncore.&lt;/p&gt;
+</summary><category term="games"></category><category term="handheld"></category><category term="multimedia"></category><category term="network"></category><category term="pyconau"></category><category term="pyconau2010"></category><category term="web"></category></entry></feed>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 09 May 2018 00:00:00 +0000</lastBuildDate><item><title>Lights Camera Action! Scrape, explore, and model to predict Oscar winners &amp; box office hits</title><link>http://pyvideo.org/pycon-us-2018/lights-camera-action-scrape-explore-and-model-to-predict-oscar-winners-box-office-hits.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Using Jupyter notebooks, HTTP requests, BeautifulSoup, NumPy, Pandas,
+scikit learn, and matplotlib, you’ll predict whether a movie is likely
+to &lt;a class="reference external" href="http://oscarpredictor.github.io/"&gt;win an Oscar&lt;/a&gt; or be a box office hit. We’ll step through the
+creation of an effective dataset: asking a question your data can
+answer, writing a web scraper, and answering those questions using
+nothing but Python libraries and data from the Internet.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Deborah Hanus</dc:creator><pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2018-05-09:pycon-us-2018/lights-camera-action-scrape-explore-and-model-to-predict-oscar-winners-box-office-hits.html</guid></item></channel></rss>

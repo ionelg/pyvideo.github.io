@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 25 Oct 2017 00:00:00 +0000</lastBuildDate><item><title>Rasa: open source conversational AI to build next generation chatbots</title><link>http://pyvideo.org/pycon-de-2017/rasa-open-source-conversational-ai-to-build-next-generation-chatbots.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Joey Faulkner&lt;/strong&gt; (&amp;#64;JoeyMFaulkner)&lt;/p&gt;
+&lt;p&gt;I am a PhD student in machine learning/astronomy, and an AI researcher at Rasa. We make open source libraries for conversational AI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Soon you will primarily communicate with your computer through conversation. At Rasa, we believe that this revolution in user experience should be available to everyone. In this spirit we have developed open source tools that use machine learning to make chatbots in a developer-friendly interface.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The revolution-in-waiting for user experience is conversational AI, and this revolution should be available to everyone. The ability to communicate with your computer via a fulfilling and useful conversation will change the way we approach user interaction. Recent advances in machine learning have made this goal not only possible to reach, but possible to bring to the developer community at large. At Rasa we have developed a set of open-source Python libraries which can comprehend natural language and handle complex, interesting conversations. We utilise deep learning to bypass existing rigid conversational norms (state machines, if/else statements, etc.) and allow developers to make awesome bots simply by talking to them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joey Faulkner</dc:creator><pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-25:pycon-de-2017/rasa-open-source-conversational-ai-to-build-next-generation-chatbots.html</guid><category>python</category><category>machine learning</category><category>deep learning</category><category>open source</category><category>chatbot</category><category>natural language</category><category>ai</category><category>business</category></item><item><title>Keeping up with the pace of a fast growing community without dying</title><link>http://pyvideo.org/pycon-italia-2017/keeping-up-with-the-pace-of-a-fast-growing-community-without-dying.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;New open source communities are born everyday. Some of them are meant to
+last long and some others aren’t. There’s a moment in every community
+where it needs to outgrow itself, expand its limits and aim way higher
+than ever. This is no necesarily related to its goals but the ecosystem
+it needs to stay alive.&lt;/p&gt;
+&lt;p&gt;Once a community has gone beyond its limits, the community members,
+consumers and leaders will have to keep up with its pace. How do we help
+it to remain sane? How do we keep our goals on track while allowing for
+further growth? How do we allow it to keep expanding without further
+damaging the community?&lt;/p&gt;
+&lt;p&gt;These are all questions we ask ourselves everyday in the OpenStack
+community and that we’ve managed to work on without killing ourselves on
+the way.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Flavio Percoco</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pycon-italia-2017/keeping-up-with-the-pace-of-a-fast-growing-community-without-dying.html</guid><category>Python</category><category>open-source</category><category>community</category></item><item><title>ENVIFATE: plugin per QGIS per la valutazione del rischio di inquinamento ambientale</title><link>http://pyvideo.org/pycon-italia-2017/envifate-plugin-per-qgis-per-la-valutazione-del-rischio-di-inquinamento-ambientale.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Negli ultimi anni è cresciuto in maniera considerevole l’interesse per i
+fenomeni di inquinamento ambientale causati da sostanze tossiche e altre
+fonti di disturbo. La pericolosità di ciascuna di tali sostanze si
+manifesta laddove sia superata una certa soglia di concentrazione che la
+rende tossica. Per proteggere la salute pubblica e gli ecosistemi
+occorre mantenere le concentrazioni di tali inquinanti al di sotto di
+una soglia di sicurezza e risulta di particolare importanza essere in
+grado di prevedere in maniera sufficientemente attendibile le
+concentrazioni che si vengono a stabilire nei diversi comparti
+ambientali. In questo contesto, sia per le PA che per gli operatori
+privati, sta diventando sempre più importante poter disporre di
+strumenti semplici ma efficaci che consentano di effettuare analisi di
+screening tali da individuare le possibili criticità in quest’ambito. Il
+software ENVIFATE viene sviluppato nell’ambito di un progetto di ricerca
+ancora in corso finanziato al DICAM (Università di Trento) dalla Regione
+Veneto proprio per operare analisi di screening per valutare la
+possibilità di rischi di inquinamento ambientale nelle aree protette a
+seguito di pianificazione di potenziali sorgenti inquinanti. Il progetto
+ha previsto lo sviluppo di un’applicazione con i seguenti requisiti: i)
+open-source ii) multipiattaforma iii) user friendly iv) GIS oriented. Si
+è scelto di sviluppare una famiglia di plugin di QGIS, utilizzando un
+linguaggio python multipiattaforma e realizzando un modulo per ciascuna
+matrice ambientale considerata: fiumi, laghi, dispersione atmosferica,
+dispersione in falda, rumore. I plugin sono stati sviluppati a partire
+da una libreria di moduli lanciabili da linea di comando o da
+applicazioni di terze parti con un elevato livello di modularità e
+scalabilità. E’ così anche possibile concatenare i diversi moduli in
+flussi di dati personalizzati. Tutti i plugin forniscono risultati di
+tipo numerico e cartografico. In particolare i tool da linea di comando
+forniscono un risultato “statico”, ovvero collegato ad un particolare
+stato spaziale e temporale, mentre all’interno dei plugin il modulo
+viene reiterato nello spazio e nel tempo allo scopo di fornire mappe
+georiferite e risultati relazionati temporalmente, propedeutici alle
+diverse valutazioni ambientali. I futuri sviluppi del plugin ne
+estenderanno le funzionalità affinché verifichi quando gli effetti
+calcolati causino scostamenti significativi e misurabili dello status
+delle matrici ambientali in relazione a ciò che è tutelato. Questo in
+prima istanza rispetto agli habitat e alle specie della rete Natura 2000
+all’interno di valutazioni di incidenza, ma anche con la prospettiva di
+estendere tali analisi a VIA e VAS o ad una integrazione con i Life
+Cycle Inventories (LCI).&lt;/p&gt;
+&lt;p&gt;Autori: Francesco Geri, Oscar Cainelli, Paolo Zatelli, Gianluca Salogni,
+Marco Ciolli&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesco Geri</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/envifate-plugin-per-qgis-per-la-valutazione-del-rischio-di-inquinamento-ambientale.html</guid><category>risk-management</category><category>open-source</category><category>Python</category><category>matplotlib</category><category>environment</category><category>Qgis</category><category>gis</category><category>impact-assessment</category><category>gdal</category><category>pollution</category></item><item><title>A Year of Pyxley: My First Open Source Adventure</title><link>http://pyvideo.org/pydata-chicago-2016/a-year-of-pyxley-my-first-open-source-adventure.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;Last year, I created my first Flask-powered web application utilizing React.js and D3. I refactored it into reusable components and released it as Pyxley. In this talk, I’ll introduce the basics of Pyxley and discuss what has and hasn’t worked. More importantly, I’ll talk about what it’s like to maintain an open-source project for the first time.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicholas Kridler</dc:creator><pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-28:pydata-chicago-2016/a-year-of-pyxley-my-first-open-source-adventure.html</guid><category>adventure</category><category>Open Source</category></item><item><title>When Dependencies between Test Cases are Inevitable</title><link>http://pyvideo.org/pycon-israel-2016/when-dependencies-between-test-cases-are-inevitable.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You need to test your images on various instance types in the cloud, but which tools do you use? How to run dozens of thousands of test cases on hundreds of machines in the cloud in parallel? Is it OK to have dependencies between test cases to make this task less expensive?&lt;/p&gt;
+&lt;p&gt;Dva is an open source validation tool which is applicable to various images and instance types. Using your image, it will launch instances of different types in defined regions and will execute test cases in parallel. How?&lt;/p&gt;
+&lt;p&gt;All test cases are represented as a Directed Acyclic Graph structure – parents and children. Then these test cases are assigned to workers by a modified BFS algorithm that allows processing of sibling test cases in parallel. It includes test result processing tools such as a Bugzilla module to report bugs for you. 3rd-party test case modules are supported too.&lt;/p&gt;
+&lt;p&gt;This tool is used by Red Hat QE for RHEL image release sanity testing in EC2, however Fedora images and OpenStack cloud are supported too. To test a RHEL release, Dva launches hundreds of machines of various types in all EC2 regions and executes a set of nearly 70 test cases with dependencies on every machine in parallel.&lt;/p&gt;
+&lt;p&gt;Source Code/Home page: &lt;a class="reference external" href="https://github.com/RedHatQE/dva/"&gt;https://github.com/RedHatQE/dva/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Topics: Open Source, Cloud, QA/QE, Automation, Python&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://il.pycon.org/2016/static/sessions/irina-igulina.pdf"&gt;http://il.pycon.org/2016/static/sessions/irina-igulina.pdf&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Irina Gulina</dc:creator><pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-21:pycon-israel-2016/when-dependencies-between-test-cases-are-inevitable.html</guid><category>Open Source</category><category>Cloud</category><category>QA/QE</category><category>Automation</category></item><item><title>eGenix PyRun - Python Laufzeitumgebung in einer Datei</title><link>http://pyvideo.org/pycon-de-2012/egenix-pyrun-python-laufzeitumgebung-in-einer.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;eGenix PyRun kondensiert eine komplette Python Laufzeitumgebung mit
+Interpreter und Standardbibliothek in eine einzige sehr kompakte
+ausführbare pyrun Programmdatei.&lt;/p&gt;
+&lt;p&gt;Da PyRun keine Installation benötigt und unabhängig von einer Python
+System Installation arbeitet, bietet es sich damit als portable Lösung
+für Skripte, Applikationen und in der Entwicklung als virtualenv Ersatz
+an.&lt;/p&gt;
+&lt;p&gt;PyRun ist nur 12-13MB groß, enthält aber den größten Teil einer
+üblicherweise ca. 100MB großen Python Installation. Die Größe kann per
+gzexe oder upx auf unter 4MB reduziert werden.&lt;/p&gt;
+&lt;p&gt;Es bietet damit eine ganze Reihe von Vorteilen gegenüber einer regulären
+Python Installation. Hier die wichtigsten Aspekte:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sehr kompakt&lt;/li&gt;
+&lt;li&gt;Keine Installation oder Root Rechte notwendig&lt;/li&gt;
+&lt;li&gt;Kann unabhängig von einer System Python Installation verwendet werden&lt;/li&gt;
+&lt;li&gt;Bessere Startzeit als reguläres Python&lt;/li&gt;
+&lt;li&gt;Kompatibel mit distutils/setuptools/pip/etc.&lt;/li&gt;
+&lt;li&gt;virtualenv Ersatz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Derzeit unterstützte Systeme sind Linux, Mac OS X und FreeBSD. Es sollte
+aber auch auf anderen Unix Systemen verwendbar sein. PyRun wird von
+eGenix unter einer Open Source Lizenz verfügbar gemacht.&lt;/p&gt;
+&lt;p&gt;Der Vortrag wird das Projekt vorstellen, eine Anwendungsdemo zeigen und
+je nach verfügbarer Zeit auch die Übersetzung demonstrieren.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marc-André Lemburg</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-31:pycon-de-2012/egenix-pyrun-python-laufzeitumgebung-in-einer.html</guid><category>interpreter</category><category>kompakt</category><category>laufzeitumgebung</category><category>open-source</category><category>python</category><category>virtualenv</category></item><item><title>Practical DevOps</title><link>http://pyvideo.org/pycon-de-2012/practical-devops.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht,
+ein Umdenken in den klassischen Lagern Entwicklung und Betrieb
+einzuleiten. Der Vortrag wirft einen Blick auf die noch junge Bewegung
+und zeigt mit Geschichten aus dem wahren Leben, wie sich die agile
+Denkweise fortschreiben lässt, die mit SCRUM ins allgemeine Bewusstsein
+getreten ist.&lt;/p&gt;
+&lt;p&gt;Schlomo gibt einen Überblick über das Thema und berichtet über die
+DevOps Erfolge bei der
+&lt;a class="reference external" href="http://www.immobilienscout24.de"&gt;ImmobilienScout24&lt;/a&gt;. Nach 2 Jahren
+agilem Umdenken in der Entwicklung zeigte sich, dass die klassische
+Gewaltenteilung Plan - Build - Run einfach nicht mehr gut funktioniert
+weil sich die Anforderungen und Erwartungen sowohl in der Entwicklung
+als auch im Betrieb ändern und daher auch eine neue Form der
+Zusammenarbeit nahe legen.&lt;/p&gt;
+&lt;p&gt;Die Ideen aus der DevOps Bewegung lassen sich fast überall einsetzen, wo
+bisher ein &amp;quot;über den Zaun werfen&amp;quot; gespielt wird und haben das primäre
+Ziel, alle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit
+den Ideen und Erfahrungen aus dem Vortrag lassen sich sicher die ersten
+Schritte in die richtige Richtung einleiten.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Schlomo Schapiro</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-31:pycon-de-2012/practical-devops.html</guid><category>agile</category><category>devops</category><category>kanban</category><category>open source</category><category>python</category><category>scrum</category><category>web</category></item><item><title>Grundlagen des Open-Source-Lizenzrechts</title><link>http://pyvideo.org/pycon-de-2012/grundlagen-des-open-source-lizenzrechts.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Ein kompakter Überblick über die rechtlichen Aspekte von
+Open-Source-Software. Neben den rechtlichen Grundlagen werden die
+wesentlichen Eigenschaften von Open-Source-Lizenzen vorgestellt.
+Außerdem werden einige verbreitete Lizenzen detaillierter erläutert.&lt;/p&gt;
+&lt;p&gt;Inhalt:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Rechtliche Grundlagen: Urheberrecht und Lizenzrecht&lt;/li&gt;
+&lt;li&gt;Open-Source-Software: Lizenzarten von Software, Definition
+Open-Source-Software, Open-Source-Lizenzmodelle, Copyleft vs.
+Non-Copyleft&lt;/li&gt;
+&lt;li&gt;Ausgewählte Open-Source-Lizenzen: Apache License, GPL, AGPL, LGPL,
+BSD License, Eclipse Public License, ...&lt;/li&gt;
+&lt;li&gt;Praktische Nutzung von Open-Source-Software: Lizenzkompatibilität,
+Nutzung von Open-Source-Software in eigenen Programmen, Auswahl einer
+Open-Source-Lizenz für eigene Programme&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andreas Schreiber</dc:creator><pubDate>Tue, 30 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-30:pycon-de-2012/grundlagen-des-open-source-lizenzrechts.html</guid><category>open-source</category><category>recht</category></item><item><title>Introduction to django CMS</title><link>http://pyvideo.org/pycon-de-2013/introduction-to-django-cms.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Wir werden das Open Source Content Management System «django CMS»
+vorstellen. Einerseits zeigen wir das Backend, aber auch das Frontend,
+geben Erfahrungen von Developern weiter und von CMS-Verwendern. Patrick
+Lauber, als Senior Web Developer geht in die Tiefe, Stefanie Weilenmann
+wir das CMS anhand einer kurzen Schulung zeigen.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Wohlwend</dc:creator><pubDate>Wed, 16 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-16:pycon-de-2013/introduction-to-django-cms.html</guid><category>django</category><category>django cms</category><category>open source</category><category>python</category><category>website</category></item><item><title>Sponsoring von Open-Source - und damit den Chef überzeugen</title><link>http://pyvideo.org/pycon-de-2013/sponsoring-von-open-source-und-damit-den-chef-u.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Nutzen Sie Open-Source-Software?&lt;/p&gt;
+&lt;p&gt;Haben Sie schon einmal eine Kleinigkeit ändern wollen?&lt;/p&gt;
+&lt;p&gt;Konnten Sie für “Einwurf kleiner Münzen” diese Änderung machen lassen?&lt;/p&gt;
+&lt;p&gt;Open-Source-Software zeichnet sich unter anderem durch die leichte
+Anpassbarkeit an die eigenen Bedürfnisse aus. Doch nicht jeder kann oder
+möchte die Software selbst ändern. Lieber würde man die Autoren oder
+andere Spezialisten damit beauftragen.&lt;/p&gt;
+&lt;p&gt;Der Vortrag gibt Einblick in die praktische Arbeit mit dem Sponsoring
+von Open-Source-Projekten und beantwortet die Frage, wie man mit Hilfe
+von Sponsoring seine eigenen Probleme schneller und günstiger lösen
+kann: Nach der Vorstellung typischer Entwicklungsmodelle von
+Open-Source-Projekten erfahren Besucher, wie sie Kontakte zu Open-Source
+Projekten knüpfen können und damit jemanden finden, der ihnen weiter
+hilft.&lt;/p&gt;
+&lt;p&gt;Weitere Themen sind&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;rechtliche Aspekte wie ein Werksvertrag, Gewährleistung und einfache
+Abwicklung&lt;/li&gt;
+&lt;li&gt;Anforderungen so formulieren, dass der Kundennutzen und die
+Nachhaltigkeit im Vordergrund steht&lt;/li&gt;
+&lt;li&gt;Abnahmekriterien für den Auftrag&lt;/li&gt;
+&lt;li&gt;Wirtschaftlichkeitsberechnung und Kosten-Nutzen-Abwägung&lt;/li&gt;
+&lt;li&gt;Nachhaltige Lösungen statt ewigen Workarounds&lt;/li&gt;
+&lt;li&gt;Mehrwert für sich und die Open-Source-Gemeinschaft schaffen&lt;/li&gt;
+&lt;li&gt;Imagepflege über Open-Source-Sponsoring&lt;/li&gt;
+&lt;li&gt;Eigene Open-Source Projekte durch Externe weiterentwickeln lassen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Als konkrete Beispiele dienen diverse in Python entwickelte Open-Source
+Projekte der ImmobilienScout24.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Schlomo Schapiro</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/sponsoring-von-open-source-und-damit-den-chef-u.html</guid><category>geld</category><category>kultur</category><category>open-source</category><category>politik</category><category>wirtschaft</category></item></channel></rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_emmanuel-leblond.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-07-10T00:00:00+00:00</updated><entry><title>Bringing Python to Godot game engine</title><link href="http://pyvideo.org/europython-2017/bringing-python-to-godot-game-engine.html" rel="alternate"></link><published>2017-07-10T00:00:00+00:00</published><updated>2017-07-10T00:00:00+00:00</updated><author><name>Emmanuel Leblond</name></author><id>tag:pyvideo.org,2017-07-10:europython-2017/bringing-python-to-godot-game-engine.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;a class="reference external" href="https://godotengine.org/"&gt;https://godotengine.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Godot is an advanced, feature-packed, multi-platform 2D and 3D open
+source game engine. The project has joined the Software Freedom
+Conservancy project and it growing community makes it hopes to become
+a real alternative to Unity &amp;amp; GameMaker.&lt;/p&gt;
+&lt;p&gt;This talk cover a year long journey of the port of Python as a
+scripting language for the engine, starting from a rant against
+Godot's Python-like proprietary language.&lt;/p&gt;
+&lt;p&gt;We will have a look at Godot's internal architecture as  is it itself
+a real interpreter with it garbage collector, dynamic typing,
+introspection and even builtin custom scripting language. All of this
+having to work next to our Python interpreter and communicate back
+and forth with it.&lt;/p&gt;
+&lt;p&gt;Finally we will see the different approaches that have been tried to
+bind Python to Godot each with there own pros &amp;amp; cons:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Using Micropython interpreter instead of CPython&lt;/li&gt;
+&lt;li&gt;Using PyBind11 to statically bind to Godot C++ API&lt;/li&gt;
+&lt;li&gt;Using CFFI and rely on a 3rd party C API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The audience should have some basic knowledge of C level computing
+(static vs dynamic language, compilation &amp;amp; linking).&lt;/p&gt;
+</summary></entry><entry><title>À la découverte du bytecode CPython !</title><link href="http://pyvideo.org/pycon-fr-2016/a-la-decouverte-du-bytecode-cpython.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Emmanuel Leblond</name></author><id>tag:pyvideo.org,2016-10-15:pycon-fr-2016/a-la-decouverte-du-bytecode-cpython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Le bytecode est au cœur de l'interpréteur CPython. Toutefois du point du vu de l'utilisateur il se limite à l'apparition (horripilante ?) de fichiers &amp;quot;.pyc&amp;quot; une fois un code exécuté.
+Dans cette présentation, nous partirons à l'aventure au cœur de la machine virtuelle CPython
+pour découvrir ce qui l'anime tout en répondant à des questions existentielles comme&amp;nbsp;:
+- d'où viennent et à quoi servent les fameux fichiers .pyc
+- à quoi ressemble le bytecode et quels sont ses instructions les plus courantes
+- comment le désassembler grâce au module &lt;cite&gt;dis&lt;/cite&gt;
+- comment tout cela fonctionne-t-il au sein du système de piles et de frames de la machine virtuelle CPython
+- et bien sûr à quoi tout cela peut-il bien servir dans la vrai vie ;-)&lt;/p&gt;
+</summary></entry></feed>

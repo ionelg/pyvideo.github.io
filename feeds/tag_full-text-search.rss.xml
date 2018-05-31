@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Indicizzare e cercare tonnellate di dati con ElasticSearch e Django</title><link>http://pyvideo.org/pycon-italia-2017/indicizzare-e-cercare-tonnellate-di-dati-con-elasticsearch-e-django.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Cercare in maniera efficente e veloce in grandi quantità di dati risulta
+essere, almeno nel mio campo e nelle mie esperienze, un problema
+abbastanza diffuso. In questo talk sarà affrontato da un punto di vista
+tecnico/sistemistico la parte di indicizzazione di grandi volumi di
+dati, le accortenze da avere quando si indicizzano dati in un engine di
+search e anlaytics e la parte di monitoring del cluster ELK. Nella
+seconda parte invece verrà mostrata l’interazione di una web interface
+(Django based) con elasticsearch. Conoscenze necessarie per il talk:
+concetti base di serializzazione, restful web services, django&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ernesto Arbitrio</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pycon-italia-2017/indicizzare-e-cercare-tonnellate-di-dati-con-elasticsearch-e-django.html</guid><category>elasticsearch</category><category>json</category><category>Full Text Search</category><category>REST</category><category>django</category></item><item><title>Ricerca full text in Django con PostgreSQL</title><link>http://pyvideo.org/pycon-italia-2017/ricerca-full-text-in-django-con-postgresql.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Dalla versione 1.10 di &lt;strong&gt;Django&lt;/strong&gt; è presente il modulo che facilita
+l’utilizzo del motore di &lt;strong&gt;ricerca full text&lt;/strong&gt; di PostgreSQL. Dal
+momento che &lt;strong&gt;PostgreSQL&lt;/strong&gt; è utilizzato in molti progetti Django,
+sfruttare il suo motore di ricerca full text permette di avere questa
+funzionalità molto facilmente, senza dover configurare prodotti esterni
+e senza doversi preoccupare di mantenere sincronizzati i dati tra
+differenti sistemi. Vedremo come abbiamo sfruttato questa funzionalità
+di ricerca full text in un &lt;strong&gt;progetto reale&lt;/strong&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paolo Melchiorre</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/ricerca-full-text-in-django-con-postgresql.html</guid><category>Full Text Search</category><category>search</category><category>postgresql</category><category>python3</category><category>django</category></item></channel></rss>

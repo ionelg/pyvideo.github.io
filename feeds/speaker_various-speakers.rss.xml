@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate><item><title>Lightning Talks Thursday 2018-05-10</title><link>http://pyvideo.org/pycon-us-2018/lightning-talks-thursday-2018-05-10.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2018-05-10:pycon-us-2018/lightning-talks-thursday-2018-05-10.html</guid><category>lightning talks</category></item><item><title>PyData NYC 2017 Lightning Talks</title><link>http://pyvideo.org/pydata-new-york-city-2017/pydata-nyc-2017-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-11-27:pydata-new-york-city-2017/pydata-nyc-2017-lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyData NYC 2017 Pop Quiz</title><link>http://pyvideo.org/pydata-new-york-city-2017/pydata-nyc-2017-pop-quiz.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-11-27:pydata-new-york-city-2017/pydata-nyc-2017-pop-quiz.html</guid><category>quiz</category></item><item><title>Lightning Talks</title><link>http://pyvideo.org/pycon-ireland-2017/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="7%" /&gt;
+&lt;col width="36%" /&gt;
+&lt;col width="57%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt;Time&lt;/th&gt;
+&lt;th class="head"&gt;Speaker&lt;/th&gt;
+&lt;th class="head"&gt;Title&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;00:00&lt;/td&gt;
+&lt;td&gt;Stephane&lt;/td&gt;
+&lt;td&gt;Python debugger&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;04:55&lt;/td&gt;
+&lt;td&gt;Larry Hastings&lt;/td&gt;
+&lt;td&gt;Pyweek&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;08:12&lt;/td&gt;
+&lt;td&gt;Jaime Buelta&lt;/td&gt;
+&lt;td&gt;ffind&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;10:12&lt;/td&gt;
+&lt;td&gt;Przemyslaw Pietrzak&lt;/td&gt;
+&lt;td&gt;Monadic Error Handling in Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;15:28&lt;/td&gt;
+&lt;td&gt;Jacobo de Vera&lt;/td&gt;
+&lt;td&gt;A surreptitious injection of Python at work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;20:38&lt;/td&gt;
+&lt;td&gt;Lilly Ryan&lt;/td&gt;
+&lt;td&gt;Towns I wish I Could Visit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;24:38&lt;/td&gt;
+&lt;td&gt;Unknown&lt;/td&gt;
+&lt;td&gt;Pycon Italy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;25:22&lt;/td&gt;
+&lt;td&gt;Unknown&lt;/td&gt;
+&lt;td&gt;NodeRed with python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;31:22&lt;/td&gt;
+&lt;td&gt;Max&lt;/td&gt;
+&lt;td&gt;pilgrim logger (in micropython)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-21:pycon-ireland-2017/lightning-talks.html</guid><category>lightning talks</category></item><item><title>Recruitment Session</title><link>http://pyvideo.org/pycon-ireland-2017/recruitment-session.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-21:pycon-ireland-2017/recruitment-session.html</guid></item><item><title>Lightning Talks 2017-09-09</title><link>http://pyvideo.org/python-sul-2017/lightning-talks-2017-09-09.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;E as lightning continuam ....&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 09 Sep 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-09:python-sul-2017/lightning-talks-2017-09-09.html</guid><category>lightning talks</category></item><item><title>Lightning Talks 2017-09-08</title><link>http://pyvideo.org/python-sul-2017/lightning-talks-2017-09-08.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Segue ai pessoal, se inscrevam no calna assim ajuda a fortalecer muito mais.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-08:python-sul-2017/lightning-talks-2017-09-08.html</guid><category>lightning talks</category></item><item><title>5-mins Lightning Talks</title><link>http://pyvideo.org/pycon-hk-2017/5-mins-lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon HK 2017 - 5-mins Lightning Talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-25:pycon-hk-2017/5-mins-lightning-talks.html</guid><category>lightning talks</category></item><item><title>Lightning Talks 2017-12-03</title><link>http://pyvideo.org/kiwi-pycon-2017/lightning-talks-2017-12-03.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 03 Dec 2017 10:40:00 +1300</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-12-03:kiwi-pycon-2017/lightning-talks-2017-12-03.html</guid><category>lightning talks</category></item><item><title>PyCon.DE 2017 Lightning Talks Friday</title><link>http://pyvideo.org/pycon-de-2017/pyconde-2017-lightning-talks-friday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-25:pycon-de-2017/pyconde-2017-lightning-talks-friday.html</guid><category>lightning talks</category></item><item><title>PyCon.DE 2017 Lightning Talks Thursday</title><link>http://pyvideo.org/pycon-de-2017/pyconde-2017-lightning-talks-thursday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-25:pycon-de-2017/pyconde-2017-lightning-talks-thursday.html</guid><category>lightning talks</category></item><item><title>PyCon.DE 2017 Lightning Talks Wednesday</title><link>http://pyvideo.org/pycon-de-2017/pyconde-2017-lightning-talks-wednesday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-25:pycon-de-2017/pyconde-2017-lightning-talks-wednesday.html</guid><category>lightning talks</category></item><item><title>PyCon UK 2017 Sunday Lightning Talks</title><link>http://pyvideo.org/pycon-uk-2017/pycon-uk-2017-sunday-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 29 Oct 2017 17:30:00 +0100</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-29:pycon-uk-2017/pycon-uk-2017-sunday-lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyCon UK 2017 Sunday Introduction</title><link>http://pyvideo.org/pycon-uk-2017/pycon-uk-2017-sunday-introduction.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 29 Oct 2017 09:00:00 +0100</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-29:pycon-uk-2017/pycon-uk-2017-sunday-introduction.html</guid></item><item><title>PyCon UK 2017 Saturday Lightning Talks</title><link>http://pyvideo.org/pycon-uk-2017/pycon-uk-2017-saturday-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 28 Oct 2017 16:30:00 +0100</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-28:pycon-uk-2017/pycon-uk-2017-saturday-lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyCon UK 2017 Friday Lightning Talks</title><link>http://pyvideo.org/pycon-uk-2017/pycon-uk-2017-friday-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 27 Oct 2017 17:30:00 +0100</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-27:pycon-uk-2017/pycon-uk-2017-friday-lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyCon UK 2017 Thursday Lightning Talks</title><link>http://pyvideo.org/pycon-uk-2017/pycon-uk-2017-thursday-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-10-27:pycon-uk-2017/pycon-uk-2017-thursday-lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyData Delhi 2017 - Day 2</title><link>http://pyvideo.org/pydata-delhi-2017/pydata-delhi-2017-day-2.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-03:pydata-delhi-2017/pydata-delhi-2017-day-2.html</guid></item><item><title>PyData Delhi 2017 - Day 1</title><link>http://pyvideo.org/pydata-delhi-2017/pydata-delhi-2017-day-1.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-02:pydata-delhi-2017/pydata-delhi-2017-day-1.html</guid></item><item><title>28.05.2017 - Lightning Talks</title><link>http://pyvideo.org/pyconweb-2017/28052017-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 28 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-28:pyconweb-2017/28052017-lightning-talks.html</guid><category>lightning talks</category></item><item><title>27.05.2017 - Lightning Talks</title><link>http://pyvideo.org/pyconweb-2017/27052017-lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-27:pyconweb-2017/27052017-lightning-talks.html</guid><category>lightning talks</category></item><item><title>Come work with us! Get to know companies looking for Python developers</title><link>http://pyvideo.org/pyconweb-2017/come-work-with-us-get-to-know-companies-looking-for-python-developers.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-27:pyconweb-2017/come-work-with-us-get-to-know-companies-looking-for-python-developers.html</guid></item><item><title>This is PyConWeb</title><link>http://pyvideo.org/pyconweb-2017/this-is-pyconweb.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The aftermovie of PyConWeb 2017 conference in Munich.&lt;/p&gt;
+&lt;p&gt;Sign up on &lt;a class="reference external" href="https://pyconweb.com"&gt;https://pyconweb.com&lt;/a&gt; and be a part of it in 2018!&lt;/p&gt;
+&lt;p&gt;Follow us: &lt;a class="reference external" href="http://twitter.com/pyconweb"&gt;http://twitter.com/pyconweb&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-27:pyconweb-2017/this-is-pyconweb.html</guid><category>pyconweb</category></item><item><title>PyCon SE 2017 Lightning talks</title><link>http://pyvideo.org/pycon-se-2017/pycon-se-2017-lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks session.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-06:pycon-se-2017/pycon-se-2017-lightning-talks.html</guid><category>lightning talks</category></item><item><title>Charlas rápidas</title><link>http://pyvideo.org/pycon-es-2017/charlas-rapidas.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 23 Sep 2017 18:00:00 +0200</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-23:pycon-es-2017/charlas-rapidas.html</guid><category>lightning talks</category></item><item><title>Lightning Talks</title><link>http://pyvideo.org/euroscipy-2017/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Presenter: various&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-31:euroscipy-2017/lightning-talks.html</guid><category>lightning talks</category></item><item><title>Poster Introductions</title><link>http://pyvideo.org/euroscipy-2017/poster-introductions.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Poster introductions (2 minute talks)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 31 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-31:euroscipy-2017/poster-introductions.html</guid></item><item><title>Lightning Talks</title><link>http://pyvideo.org/pycon-russia-2017/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks на PYCON RUSSIA 2017&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-16:pycon-russia-2017/lightning-talks.html</guid><category>lightning talks</category></item><item><title>Ethics in Machine Learning Panel</title><link>http://pyvideo.org/pydata-berlin-2017/ethics-in-machine-learning-panel.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Advances in AI are happening at a tremendous pace, and especially Machine Learning systems are hastily deployed in settings that span as wide as social media, search engines, advertising, military use, and legal systems. At first sight results are often promising, but more and more &amp;quot;outliers&amp;quot; are becoming visible as well. Systemic bias in culture, language, or business practices often become intensified: From the Tay-chatbot turning racist, to both Google and Flickr classifying images of African-Americans as &amp;quot;monkeys&amp;quot;, to discrimination and sexism encoded in language models used for everything from translation, to court sentencing decision. Luckily, initiatives that address some of these concerns is happening through more interpretable models, new privacy regulations, novel privacy-preserving learning algorithms, and researchers and engineers standing up for more just and transparent machine learning models and methods.&lt;/p&gt;
+&lt;p&gt;The panel aims to debate these themes with speakers, and the audience, and go beyond the usual &amp;quot;AI hype&amp;quot; and discuss both the amazing progress, as well as the setbacks, in making societies better, more humane, and ready for the future!&lt;/p&gt;
+&lt;p&gt;Speaking at the panel will be:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Roelof Pieters, Panel Host, Co-founder at creative.ai&lt;/li&gt;
+&lt;li&gt;Marek Rosa, CEO/CTO at GoodAI&lt;/li&gt;
+&lt;li&gt;Françoise Provencher, Data Team Lead at Shopify&lt;/li&gt;
+&lt;li&gt;Hendrik Heuer, Researcher at Institute for Information Management (ifib) at the University of Bremen&lt;/li&gt;
+&lt;li&gt;Andreas Dewes, Founder at 7scientists&lt;/li&gt;
+&lt;li&gt;Katharine Jarmul, Founder at kjamistan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Link to Q&amp;amp;A: &lt;a class="reference external" href="https://youtu.be/uOKhB1_vyAw"&gt;https://youtu.be/uOKhB1_vyAw&lt;/a&gt; (Second pyvideo tab)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-06-30:pydata-berlin-2017/ethics-in-machine-learning-panel.html</guid><category>panel</category><category>ethics</category><category>machine learning</category></item><item><title>lightning talks</title><link>http://pyvideo.org/pydata-berlin-2017/lightning-talks.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-06-30:pydata-berlin-2017/lightning-talks.html</guid><category>lightning talks</category></item><item><title>How diversity drives excellence in our data driven tech world</title><link>http://pyvideo.org/pydata-seattle-2017/how-diversity-drives-excellence-in-our-data-driven-tech-world.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In an age where decisions are increasingly powered by data, the benefits of being data-driven are undeniable. We no longer need to convince the data science community of the value of data. But can the same be said about the value of diversity? This panel discussion and QA will be framed around the benefits of inclusion efforts and how building a diverse data science community benefits everyone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This session will be organized as a panel and QA discussion around the need for diversity, how diversity drives excellence, and incentivizing a diverse community. The panel participants will represent an array of diversity in backgrounds, experiences, current job positions, and career stages.&lt;/p&gt;
+&lt;p&gt;The flow of the discussion will loosely follow this general outline: Brief panelist introductions What obstacles have you encountered to building a diverse community? What lessons can you share about overcoming these obstacles? What actionable advice do you have for someone who is trying to increase understanding of the value of building a diverse a community?&lt;/p&gt;
+&lt;p&gt;The goals of the session are to build a discussion such that the audience will Learn about how others have overcome obstacles to inclusive environments. Have an increased understanding of how diversity benefits more than the minority. Connect with others and share resources for building up communities in which the importance of diversity is a foundational principle.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-06:pydata-seattle-2017/how-diversity-drives-excellence-in-our-data-driven-tech-world.html</guid></item><item><title>Lightning Talks 2017-07-14</title><link>http://pyvideo.org/europython-2017/lightning-talks-2017-07-14.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks
+EuroPython 2017 - 2017-07-14 - Anfiteatro 2&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-14:europython-2017/lightning-talks-2017-07-14.html</guid><category>lightning talks</category></item><item><title>Lightning Talks 2017-07-12</title><link>http://pyvideo.org/europython-2017/lightning-talks-2017-07-12.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks
+EuroPython 2017 - 2017-07-12 - Anfiteatro 2&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-12:europython-2017/lightning-talks-2017-07-12.html</guid><category>lightning talks</category></item><item><title>Closing talk</title><link>http://pyvideo.org/pycon-ukraine-2012/closing-talk.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;UA PYCON 2012. Final&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-21:pycon-ukraine-2012/closing-talk.html</guid></item><item><title>Lightning Talks 7</title><link>http://pyvideo.org/pycon-ukraine-2012/lightning-talks-7.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;UA PYCON 2012. day 2
+Lihting Talks 7&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 21 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-21:pycon-ukraine-2012/lightning-talks-7.html</guid><category>lightning talks</category></item><item><title>Highlights from Django: Under The Hood 2016</title><link>http://pyvideo.org/django-under-the-hood-2016/highlights-from-django-under-the-hood-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django: Under The Hood: &lt;a class="reference external" href="http://djangounderthehood.com/"&gt;http://djangounderthehood.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Django: Under The Hood is an annual Django conference for experienced Django developers. Come and learn about the internals of Django, and help to shape its future.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various Speakers</dc:creator><pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-03:django-under-the-hood-2016/highlights-from-django-under-the-hood-2016.html</guid></item><item><title>Abertura Python Brasil 12</title><link>http://pyvideo.org/python-brasil-2016/abertura-python-brasil-12.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Abertura Python Brasil 12&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-15:python-brasil-2016/abertura-python-brasil-12.html</guid></item><item><title>Lightning Talk - Um jornalista dev</title><link>http://pyvideo.org/python-brasil-2016/lightning-talk-um-jornalista-dev.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Um jornalista dev&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-um-jornalista-dev.html</guid><category>lightning talks</category></item><item><title>Lightning Talks PyCon Ukraine 24 April 2016</title><link>http://pyvideo.org/pycon-ukraine-2016/lightning-talks-pycon-ukraine-24-april-2016.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 24 Apr 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-04-24:pycon-ukraine-2016/lightning-talks-pycon-ukraine-24-april-2016.html</guid><category>lightning talks</category></item><item><title>Lightning Talks PyCon Ukraine 23 April 2016</title><link>http://pyvideo.org/pycon-ukraine-2016/lightning-talks-pycon-ukraine-23-april-2016.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-04-23:pycon-ukraine-2016/lightning-talks-pycon-ukraine-23-april-2016.html</guid><category>lightning talks</category></item><item><title>DjangoConf Lightning Talks and Closing</title><link>http://pyvideo.org/djangocon-au-2016/djangoconf-lightning-talks-and-closing.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-12:djangocon-au-2016/djangoconf-lightning-talks-and-closing.html</guid><category>lightning talks</category></item><item><title>PyDay Rafaela 2016 - Charlas Relámpago</title><link>http://pyvideo.org/pyday-rafaela-2016/pyday-rafaela-2016-charlas-relampago.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Charlas Relámpago&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 24 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-24:pyday-rafaela-2016/pyday-rafaela-2016-charlas-relampago.html</guid><category>lightning talks</category></item><item><title>DjangoCon 2008 Lightning Talks</title><link>http://pyvideo.org/djangocon-us-2008/djangocon-2008-lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Various speakers give short talks on Django and related topics.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-us-2008/djangocon-2008-lightning-talks.html</guid><category>lightning talks</category><category>Django</category><category>djangocon</category><category>djangocon2008</category></item><item><title>Lightning talks May 20th, 2017 Evening session session</title><link>http://pyvideo.org/pycon-us-2017/lightning-talks-may-20th-2017-evening-session-session.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks 2017-05-20 Evening&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="23%" /&gt;
+&lt;col width="65%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head" rowspan="2"&gt;Start&lt;/th&gt;
+&lt;th class="head" rowspan="2"&gt;Speakers&lt;/th&gt;
+&lt;th class="head" rowspan="2"&gt;Subject&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;0:30&lt;/td&gt;
+&lt;td rowspan="4"&gt;Meredydd Luff&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Compiling blocking Python to non-blocking JS&lt;/strong&gt;
+- Wrote client side JS in Python before yield or await
+statements, using Skulpt transpiler.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;5:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;Efron Licht&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Elements of Style&lt;/strong&gt;
+- Write understandable code; write a story. Shorter
+functions.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;11:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;Maria Mckinley&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Refactoring Lengthy Bits of Code&lt;/strong&gt;
+- Towards understanding the steps to refactoring: a
+test, prose, outline, make functions and tests.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;15:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;Erik Rose&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Getting Things Unguilty&lt;/strong&gt;
+- Using &amp;quot;getting things done&amp;quot; as a one slide
+flowchart.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;21:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;Meggie Mahnken&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Using _slots_ for More Opinionated Objects&lt;/strong&gt;
+- __slots__ when you don't want to allow attributes;
+sometimes efficient.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;26:00&lt;/td&gt;
+&lt;td rowspan="3"&gt;Travis&lt;/td&gt;
+&lt;td rowspan="3"&gt;&lt;strong&gt;Crowd Computing&lt;/strong&gt;
+- fun controlling crowds with Python&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="5"&gt;29:15&lt;/td&gt;
+&lt;td rowspan="5"&gt;Allen Downey&lt;/td&gt;
+&lt;td rowspan="5"&gt;&lt;strong&gt;Physical Modeling in Python&lt;/strong&gt;
+- Making an interactive book to improve the undergrad
+engineering student retention by putting in real world
+early.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;33:00&lt;/td&gt;
+&lt;td rowspan="4"&gt;Luceneo&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Time is Money&lt;/strong&gt;
+- Communicating Professor Antonio Candido's
+alternative view to this aphorism.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;35:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;Cynthia Lynn&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;PyCon, a High Schooler's Perspective&lt;/strong&gt;
+- A 15 year-old programmer.  Didn't come for a job;
+felt accepted and welcome.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;41:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;David Bieber&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Python Fire, comand line interfaces&lt;/strong&gt;
+- A single line or decorators added to functions or
+classes to make CLIs; great workflow.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;47:15&lt;/td&gt;
+&lt;td rowspan="4"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Pitches for different conferences&lt;/strong&gt;
+- One minute each for Python conferences around the
+world.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-20:pycon-us-2017/lightning-talks-may-20th-2017-evening-session-session.html</guid><category>lightning talks</category></item><item><title>Lightning talks May 20th 2017 Morning session</title><link>http://pyvideo.org/pycon-us-2017/lightning-talks-may-20th-2017-morning-session.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks 2017-05-20 Morning&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="23%" /&gt;
+&lt;col width="65%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head" rowspan="2"&gt;Start&lt;/th&gt;
+&lt;th class="head" rowspan="2"&gt;Speakers&lt;/th&gt;
+&lt;th class="head" rowspan="2"&gt;Subject&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;0:15&lt;/td&gt;
+&lt;td rowspan="3"&gt;James Powell&lt;/td&gt;
+&lt;td rowspan="3"&gt;&lt;strong&gt;penv:  a stupid (but useful?) tool&lt;/strong&gt;
+- A teaser for a script to replace virtualenv.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="6"&gt;5:45&lt;/td&gt;
+&lt;td rowspan="6"&gt;Amber Brown&lt;/td&gt;
+&lt;td rowspan="6"&gt;&lt;strong&gt;Falsehoods Developers Have About Identity&lt;/strong&gt;
+- Human identities have complexities, including
+changing names, different forms and surname orders,
+changing timezones and country names.  Developers
+should not make assumptions.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="5"&gt;11:15&lt;/td&gt;
+&lt;td rowspan="5"&gt;Jelle Zijlstra&lt;/td&gt;
+&lt;td rowspan="5"&gt;&lt;strong&gt;Fun with Type Annotations&lt;/strong&gt;
+- Python has type annotations, which aids
+documentation and restructuring and also provides an
+oportunity to contribute to open source.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;14:15&lt;/td&gt;
+&lt;td rowspan="3"&gt;Mark Kohdev&lt;/td&gt;
+&lt;td rowspan="3"&gt;&lt;strong&gt;Music Data, Metadata, and Morrrreeeee&lt;/strong&gt;
+- Spotify has a lot of free metadata about music.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;18:45&lt;/td&gt;
+&lt;td rowspan="4"&gt;Nate Smith&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Tildetown&lt;/strong&gt;
+- tilde.town is an intentional digital community
+accessible over SSH.   Non-commercial.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="6"&gt;24:00&lt;/td&gt;
+&lt;td rowspan="6"&gt;Patrick Laban&lt;/td&gt;
+&lt;td rowspan="6"&gt;&lt;strong&gt;What do we hate?  Time Zones!&lt;/strong&gt;
+- Time zones are weirdly set up, e.g., daylight
+savings, Indian reservations, China, offsets by crazed
+weasels, and strange compromises. They are insane -
+don't roll your own timezone code.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-20:pycon-us-2017/lightning-talks-may-20th-2017-morning-session.html</guid><category>lightning talks</category></item><item><title>Lightning talks May 19th, 2017 Evening session</title><link>http://pyvideo.org/pycon-us-2017/lightning-talks-may-19th-2017-evening-session.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks 2017-05-19 Evening&lt;/p&gt;
+&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="12%" /&gt;
+&lt;col width="23%" /&gt;
+&lt;col width="65%" /&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head" rowspan="2"&gt;Start&lt;/th&gt;
+&lt;th class="head" rowspan="2"&gt;Speakers&lt;/th&gt;
+&lt;th class="head" rowspan="2"&gt;Subject&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td rowspan="3"&gt;0:55&lt;/td&gt;
+&lt;td rowspan="3"&gt;Katy&lt;/td&gt;
+&lt;td rowspan="3"&gt;&lt;strong&gt;Emoji Archeology 101 - A lightning talk cover&lt;/strong&gt;
+- A call to revolution against the Unicode emoji.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;5:55&lt;/td&gt;
+&lt;td rowspan="4"&gt;Daniel Whitenack&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Taking Over the Data World with Containerized&lt;/strong&gt;
+&lt;strong&gt;Python&lt;/strong&gt;
+- Using Kubernetes cluster with Pachyderm.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;11:20&lt;/td&gt;
+&lt;td rowspan="4"&gt;Fang-Pen Lin&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Bugbuzz - A modern web-based debugger for Python&lt;/strong&gt;
+- Adding just a couple lines triggers a web based
+debugger with basic functionality.  Uses PubNub.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="5"&gt;16:45&lt;/td&gt;
+&lt;td rowspan="5"&gt;Kojo Idrissa&lt;/td&gt;
+&lt;td rowspan="5"&gt;&lt;strong&gt;Software Engineering for Beginners&lt;/strong&gt;
+- Focus on common tools like version control, in-code
+documentation, testing &amp;amp; TDD, dependency management &amp;amp;
+deployment, and finally OS stuff.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="8"&gt;21:50&lt;/td&gt;
+&lt;td rowspan="8"&gt;Cameron Dershem&lt;/td&gt;
+&lt;td rowspan="8"&gt;&lt;strong&gt;Community Level Development:  What Python Should&lt;/strong&gt;
+&lt;strong&gt;Learn From Rust&lt;/strong&gt;
+- Please learn From Rust. Rust is the best community.
+Devs are on chat and enforce good attitude; cool thank
+you page; roadmap; 'how should this be taught' section
+in RFCs; mentorship for starter maintainers; great
+opensource book.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;26:30&lt;/td&gt;
+&lt;td rowspan="4"&gt;Al Swigart&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;How to Do PyCon&lt;/strong&gt;
+- Skip talks and meet people; use shirt trick; don't
+eat alone; Twitter is great for followup.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;31:53&lt;/td&gt;
+&lt;td rowspan="4"&gt;Myron Walker&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Faking Python Imports&lt;/strong&gt;
+- Fake for modules and callables not available on test
+environment. Use directory of local fakes.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;35:12&lt;/td&gt;
+&lt;td rowspan="4"&gt;Vince Salvino&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Help Wanted: A PyPI Vulnerability DB&lt;/strong&gt;
+- Like WPScan, it would be nice to a central DB and
+tool for known PyPI security issues. Talk to me.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="5"&gt;37:50&lt;/td&gt;
+&lt;td rowspan="5"&gt;Lev
+Konstantinovskiy&lt;/td&gt;
+&lt;td rowspan="5"&gt;&lt;strong&gt;Same Content, Different Words&lt;/strong&gt;
+- Is 'Ice cream' the same as 'Gelato' in different
+reviews? Use Word Mover's Distance in GenSim to find
+out.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="5"&gt;43:20&lt;/td&gt;
+&lt;td rowspan="5"&gt;Mario&lt;/td&gt;
+&lt;td rowspan="5"&gt;&lt;strong&gt;Randomize Your Decisions&lt;/strong&gt;
+- We spammed ourselves by having too many alerts, had
+hacked users, bugs everywhere, bad SEO. Still, it was
+worth making a website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="5"&gt;48:30&lt;/td&gt;
+&lt;td rowspan="5"&gt;Tim Head&lt;/td&gt;
+&lt;td rowspan="5"&gt;&lt;strong&gt;Bayesian Optimization: Coffee&lt;/strong&gt;
+- Tweak settings with Bayesian Optimization, easily.
+Made scikit-optimize with simpler calls than scikit-
+learn.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td rowspan="4"&gt;53:35&lt;/td&gt;
+&lt;td rowspan="4"&gt;Meg Ray&lt;/td&gt;
+&lt;td rowspan="4"&gt;&lt;strong&gt;Teaching Python to Children&lt;/strong&gt;
+- Use both teacher pedagogy and developer technical
+skills to train K-12 teachers.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-19:pycon-us-2017/lightning-talks-may-19th-2017-evening-session.html</guid><category>lightning talks</category></item><item><title>Education Summit Thursday Afternoon Room A105</title><link>http://pyvideo.org/pycon-us-2017/education-summit-thursday-afternoon-room-a105.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Education Summit Thursday Afternoon Room A105&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-18:pycon-us-2017/education-summit-thursday-afternoon-room-a105.html</guid></item><item><title>Education Summit Thursday Afternoon Room A106 Part 1</title><link>http://pyvideo.org/pycon-us-2017/education-summit-thursday-afternoon-room-a106-part-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Education Summit Thursday Afternoon Room A106 Part 1&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-18:pycon-us-2017/education-summit-thursday-afternoon-room-a106-part-1.html</guid></item><item><title>Education Summit Thursday morning</title><link>http://pyvideo.org/pycon-us-2017/education-summit-thursday-morning.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Education Summit Thursday morning&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-18:pycon-us-2017/education-summit-thursday-morning.html</guid></item><item><title>Feedback session and Closing Address</title><link>http://pyvideo.org/pycon-pune-2017/feedback-session-and-closing-address.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Feedback session and Closing Address of PyCon Pune&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-02-17:pycon-pune-2017/feedback-session-and-closing-address.html</guid></item><item><title>Lightning Talks - Sunday</title><link>http://pyvideo.org/pydata-london-2017/lightning-talks-sunday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Filmed at PyData London 2017&lt;/p&gt;
+&lt;p&gt;www.pydata.org&lt;/p&gt;
+&lt;p&gt;PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 07 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-07:pydata-london-2017/lightning-talks-sunday.html</guid><category>lightning talks</category></item><item><title>Lightning Talks - Saturday</title><link>http://pyvideo.org/pydata-london-2017/lightning-talks-saturday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;www.pydata.org&lt;/p&gt;
+&lt;p&gt;PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 06 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-06:pydata-london-2017/lightning-talks-saturday.html</guid><category>lightning talks</category></item><item><title>lightning talks</title><link>http://pyvideo.org/pycon-belarus-2015/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-01-31:pycon-belarus-2015/lightning-talks.html</guid><category>lightning talks</category></item><item><title>Lightning talks session 3</title><link>http://pyvideo.org/pycon-pl-2016/lightning-talks-session-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon PL 2016:  Lightning talks session 3&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-15:pycon-pl-2016/lightning-talks-session-3.html</guid><category>lightning talks</category></item><item><title>Lightning talks session 2</title><link>http://pyvideo.org/pycon-pl-2016/lightning-talks-session-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon PL 2016:  Lightning talks sesion 2&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-14:pycon-pl-2016/lightning-talks-session-2.html</guid><category>lightning talks</category></item><item><title>Lightning talks session 1</title><link>http://pyvideo.org/pycon-pl-2016/lightning-talks-session-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon PL 2016:  Lightning talks session 1&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-13:pycon-pl-2016/lightning-talks-session-1.html</guid><category>lightning talks</category></item><item><title>Lightning talks - Saturday</title><link>http://pyvideo.org/pycon-sk-2016/lightning-talks-saturday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks - Saturday session&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 12 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-12:pycon-sk-2016/lightning-talks-saturday.html</guid><category>lightning talks</category></item><item><title>Lightning talks - Friday</title><link>http://pyvideo.org/pycon-sk-2016/lightning-talks-friday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks - Friday session&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-11:pycon-sk-2016/lightning-talks-friday.html</guid><category>lightning talks</category></item><item><title>Lightning talks: Euro Python</title><link>http://pyvideo.org/pycon-sk-2017/lightning-talks-euro-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks: Euro Python&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-12:pycon-sk-2017/lightning-talks-euro-python.html</guid><category>lightning talks</category></item><item><title>Lightning Talks &amp; Closing Remarks</title><link>http://pyvideo.org/pydata-amsterdam-2017/lightning-talks-closing-remarks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Amsterdam 2017&lt;/p&gt;
+&lt;p&gt;Lighting Talks and Closing Remarks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pydata-amsterdam-2017/lightning-talks-closing-remarks.html</guid><category>lightning talks</category></item><item><title>Resumen PyConES 2016</title><link>http://pyvideo.org/pycon-es-2016/resumen-pycones-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Vídeo resumen de la PyConES 2016 celebrada en Almería &lt;a class="reference external" href="http://2016.es.pycon.org/"&gt;http://2016.es.pycon.org/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-12-21:pycon-es-2016/resumen-pycones-2016.html</guid></item><item><title>Clausura y entrega de premios Cajamar PythonHack 2016</title><link>http://pyvideo.org/pycon-es-2016/clausura-y-entrega-de-premios-cajamar-pythonhack-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Clausura de PyConES 2016 y entrega de los premios Cajamar PythonHack 2016.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://2016.es.pycon.org/"&gt;http://2016.es.pycon.org/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-09:pycon-es-2016/clausura-y-entrega-de-premios-cajamar-pythonhack-2016.html</guid></item><item><title>Lightning Talks - Wednesday - 1</title><link>http://pyvideo.org/djangocon-europe-2014/lightning-talks-wednesday-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon 2014 - île des Embiez - France&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-14:djangocon-europe-2014/lightning-talks-wednesday-1.html</guid><category>lightning talks</category></item><item><title>Lightning Talks - Wednesday - 2</title><link>http://pyvideo.org/djangocon-europe-2014/lightning-talks-wednesday-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon 2014 - île des Embiez - France&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-14:djangocon-europe-2014/lightning-talks-wednesday-2.html</guid><category>lightning talks</category></item><item><title>Lightning Talks - Tuesday</title><link>http://pyvideo.org/djangocon-europe-2014/lightning-talks-tuesday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon 2014 - île des Embiez - France&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-13:djangocon-europe-2014/lightning-talks-tuesday.html</guid><category>lightning talks</category></item><item><title>Lightning talks</title><link>http://pyvideo.org/pycon-italia-2014/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon Italia 2014 Lightning talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-25:pycon-italia-2014/lightning-talks.html</guid><category>lightning talks</category></item><item><title>PyCon UY 2013 Ligthing talks</title><link>http://pyvideo.org/pycon-uy-2013/pycon-uy-2013-ligthing-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon UY 2013: Ligthing talk - Documentor - Diego Sarmentero&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 02 Nov 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-11-02:pycon-uy-2013/pycon-uy-2013-ligthing-talks.html</guid></item><item><title>Recruitment Session</title><link>http://pyvideo.org/pycon-ireland-2015/recruitment-session.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sponsors present their job opportunities&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-24:pycon-ireland-2015/recruitment-session.html</guid></item><item><title>Charlas Relámpago Día 1</title><link>http://pyvideo.org/pycon-ar-2016/charlas-relampago-dia-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Charlas Relámpago Día 1&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-25:pycon-ar-2016/charlas-relampago-dia-1.html</guid><category>lightning talks</category></item><item><title>Charlas Relámpago Día 2</title><link>http://pyvideo.org/pycon-ar-2016/charlas-relampago-dia-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Charlas Relámpago Día 2&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-25:pycon-ar-2016/charlas-relampago-dia-2.html</guid><category>lightning talks</category></item><item><title>Charlas Relámpago (Sorpresa)</title><link>http://pyvideo.org/pycon-ar-2016/charlas-relampago-sorpresa.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Charlas Relámpago (Sorpresa)&lt;/p&gt;
+&lt;p&gt;Luego de las charlas relámpago una de las participantes del evento pidió pasar al frente para comentar su experiencia en el evento, fue uno de los momentos más emotivos vivido por todos los participantes, previo al cierre de la PyconAR 2016.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-25:pycon-ar-2016/charlas-relampago-sorpresa.html</guid><category>lightning talks</category></item><item><title>Entrega de Premios y Cierre del evento</title><link>http://pyvideo.org/pycon-ar-2016/entrega-de-premios-y-cierre-del-evento.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Entrega de Premios y Cierre del evento&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-25:pycon-ar-2016/entrega-de-premios-y-cierre-del-evento.html</guid></item><item><title>Lightning Talks 2013-02-25</title><link>http://pyvideo.org/pycon-russia-2013/lightning-talks-2013-02-25.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks February 25 2013&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Mon, 25 Feb 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-02-25:pycon-russia-2013/lightning-talks-2013-02-25.html</guid><category>lightning talks</category></item><item><title>Lightning Talks 2013-02-24</title><link>http://pyvideo.org/pycon-russia-2013/lightning-talks-2013-02-24.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks February 24 2013&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 24 Feb 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-02-24:pycon-russia-2013/lightning-talks-2013-02-24.html</guid><category>lightning talks</category></item><item><title>Round table: Do you need to switch from Python 2 to Python 3?</title><link>http://pyvideo.org/pycon-russia-2013/round-table-do-you-need-to-switch-from-python-2-to-python-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Round table&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 24 Feb 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-02-24:pycon-russia-2013/round-table-do-you-need-to-switch-from-python-2-to-python-3.html</guid></item><item><title>Lightning talks - 1</title><link>http://pyvideo.org/pycon-russia-2014/lightning-talks-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon Russia 2014 first day lightning talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-06-02:pycon-russia-2014/lightning-talks-1.html</guid><category>lightning talks</category></item><item><title>Lightning talks - 2</title><link>http://pyvideo.org/pycon-russia-2014/lightning-talks-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon Russia 2014 second day lightning talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-06-02:pycon-russia-2014/lightning-talks-2.html</guid><category>lightning talks</category></item><item><title>Lightning Talks - 2</title><link>http://pyvideo.org/pycon-russia-2015/lightning-talks-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon RU 2015 second day lightning talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-19:pycon-russia-2015/lightning-talks-2.html</guid><category>lightning talks</category></item><item><title>Lightning Talks - 1</title><link>http://pyvideo.org/pycon-russia-2015/lightning-talks-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon RU 2015 first day lightning talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-18:pycon-russia-2015/lightning-talks-1.html</guid><category>lightning talks</category></item><item><title>Lightning Talks</title><link>http://pyvideo.org/pycon-russia-2016/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon RU 2016 Lightning Talks&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 03 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-03:pycon-russia-2016/lightning-talks.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 1</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 1&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-1.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 10</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-10.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 10&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-10.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 2</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 2&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-2.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 3</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 3&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-3.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 4</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-4.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 4&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-4.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 5</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-5.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 5&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-5.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 6</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-6.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 6&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-6.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 7</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-7.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 7&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-7.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 3, talk 9</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-3-talk-9.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 3, talk 9&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sat, 19 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-19:pycon-pl-2013/lightning-talks-day-3-talk-9.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 1</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 1&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-1.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 2</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 2&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-2.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 3</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 3&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-3.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 4</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-4.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 4&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-4.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 5</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-5.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 5&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-5.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 6</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-6.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 6&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-6.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 7</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-7.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 7&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-7.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 8</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-8.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 8&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-8.html</guid><category>lightning talks</category></item><item><title>Lightning Talks, day 2, talk 9</title><link>http://pyvideo.org/pycon-pl-2013/lightning-talks-day-2-talk-9.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks, day 2, talk 9&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Fri, 18 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-18:pycon-pl-2013/lightning-talks-day-2-talk-9.html</guid><category>lightning talks</category></item><item><title>Werkzeug - debugowanie aplikacji internetowych w sytuacjach ekstremalnych</title><link>http://pyvideo.org/pycon-pl-2013/werkzeug-debugowanie-aplikacji-internetowych-w-sytuacjach-ekstremalnych.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Tytuł: Werkzeug - debugowanie aplikacji internetowych w sytuacjach ekstremalnych
+Prelegent: Marcin Karkocha&lt;/p&gt;
+&lt;p&gt;Debugowanie aplikacji internetowych nie należy do najłatwiejszych i najprzyjemniejszych zadań. Pewnie nie raz zdarzyła wam się sytuacja gdzie wszystko pięknie działa wszędzie poza systemem produkcyjnym. To, że aplikacja przechodzi testy, działa na systemach testowych i developerskich nie oznacza w tym wypadku, że jest dobrze. Dodatkowo wszystko komplikuje fakt iż system produkcyjny jest jedynym miejscem gdzie pojawia się nasz problem. W takiej sytuacji z pomocą przychodzi nam werkzeug z jego interaktywną konsolą dostępną na stronie internetowej oraz kilka innych narzędzi które pomogą nam zlokalizować problem oraz zrozumieć sytuacje która ma miejsce. Niniejsza prezentacja poprowadzi nas od narzędzi poprzez przykłady aż do ogólnych zasad którymi należy się kierować w takich sytuacjach.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pl.pycon.org/2013/pl/agenda"&gt;http://pl.pycon.org/2013/pl/agenda&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-17:pycon-pl-2013/werkzeug-debugowanie-aplikacji-internetowych-w-sytuacjach-ekstremalnych.html</guid></item><item><title>PyCon Korea 2015 Lightning Talks 2nd day</title><link>http://pyvideo.org/pycon-korea-2015/pycon-korea-2015-lightning-talks-2nd-day.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;차영호 - &lt;a class="reference external" href="https://docs.google.com/presentation/d/1hDRB1ZMf63lsLWXQxxPTnVYldytcUpgxtakUHR1ipYk/present?slide=id.p"&gt;clang 과 javaparser와 python을 이용한 소스변경사항 고객용
+리포트
+자동생성하기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;서지혁 - 네이버 블로그를 백업해주는 도구인 exitnaver와, exitnaver&lt;/li&gt;
+&lt;li&gt;박조은 - &lt;a class="reference external" href="http://www.slideshare.net/zzonee/pyconkr-2015-2"&gt;어느 여자개발자의 육아휴직
+2년&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;임재수 - &lt;a class="reference external" href="https://github.com/krikit/ctypes_tutorial"&gt;built-in 모듈인 ctypes에 대해 소개할까
+합니다.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;김영근 - PyCon의 철학과 다양한 파이콘 참석 후기.&lt;/li&gt;
+&lt;li&gt;이비오 -&lt;a class="reference external" href="https://docs.google.com/presentation/d/1xnmdBi3jpvqYcdyAeTDGWdUkusoS_fr4vpsR_IsRqa4/present?slide=id.p"&gt;가제 : 우리는 이래도
+되는가?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;서정민 - &lt;a class="reference external" href="https://speakerdeck.com/alotofsec/gaebabmeoggi-keomyuniti-gaebalgwa-unyeong"&gt;개밥먹기 : 커뮤니티의 개발과
+운영&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;김대현 - C++에서 닷넷으로 그리고 자바, 파이썬. 파이썬이 내게 가져다
+준 것들.&lt;/li&gt;
+&lt;li&gt;이지호 - &lt;a class="reference external" href="http://www.slideshare.net/JiHoLee4/2015-52202803"&gt;기술 서적을 집필하기 위해 필요한 동기와 자잘한
+기술&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;강대성 - &lt;a class="reference external" href="http://www.slideshare.net/daesung7kang/raspberry-pi-python-52363367"&gt;엔지니어의 삶 - Raspberry Pi 와 Python 으로 에어컨
+제어&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;박현우 -&lt;a class="reference external" href="http://www.slideshare.net/lqez/2015-52276621"&gt;4.5cm ~
+8.5m&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Various speakers</dc:creator><pubDate>Sun, 30 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-30:pycon-korea-2015/pycon-korea-2015-lightning-talks-2nd-day.html</guid><category>lightning talks</category></item></channel></rss>

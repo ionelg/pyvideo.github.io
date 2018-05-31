@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_plpython.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-08T00:00:00+00:00</updated><entry><title>Python e PostgreSQL, un connubio perfetto</title><link href="http://pyvideo.org/pycon-italia-2017/python-e-postgresql-un-connubio-perfetto.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>Marco Nenciarini</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/python-e-postgresql-un-connubio-perfetto.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PostgreSQL ha come obiettivi primari l’integrità dei dati,
+l’affidabilità e le caratteristiche integrate orientate agli
+sviluppatori. Per questo molti progetti lo scelgono fin dall’inizio. In
+questo talk vedremo come PostgreSQL e Python si integrano su più
+livelli, e come sia possibile sfruttare in Python le caratteristiche
+avanzate di questo database.&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="http://prezi.com/5kvmyfmqp1mt/"&gt;http://prezi.com/5kvmyfmqp1mt/&lt;/a&gt;&lt;/p&gt;
+</summary><category term="django-orm"></category><category term="psycopg2"></category><category term="pl/python"></category><category term="postgresql"></category><category term="database"></category></entry></feed>

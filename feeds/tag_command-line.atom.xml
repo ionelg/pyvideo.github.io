@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_command-line.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-04-09T00:00:00+00:00</updated><entry><title>Awesome CLI</title><link href="http://pyvideo.org/pycon-italia-2017/awesome-cli.html" rel="alternate"></link><published>2017-04-09T00:00:00+00:00</published><updated>2017-04-09T00:00:00+00:00</updated><author><name>Mark Fink</name></author><id>tag:pyvideo.org,2017-04-09:pycon-italia-2017/awesome-cli.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wanted to get user input from your command line program?
+Or maybe color the output a bit? Or do you want to write an immersive
+terminal application like top, or even vim? Then you need to speak a bit
+of terminal! This talk describes how to talk to your terminal from
+scratch and goes on to show why the Python library prompt-toolkit is so
+awesome.&lt;/p&gt;
+&lt;p&gt;The terminal emulators we run so many of our programming tools in are
+more powerful than we give them credit for, and the key to that power is
+understanding the interface. This talk will cover terminal colors and
+styles, writing to arbitrary portions of the screen, handling signals
+from the terminal, determining the terminal’s dimensions and scrollback
+buffer behavior.&lt;/p&gt;
+&lt;p&gt;Terminal programming can get hairy, especially if you want to support
+multiple platforms like Mac, Linux and Win; along the way we’ll deal
+with encoding issues, automatisation issues and look into 4 decades’ of
+terminal communication. By gaining a deeper understanding of these
+issues, we’ll be able to choose from the abstractions over them offered
+by Python libraries like Blessings, prompt-toolkit, asciimatics etc.&lt;/p&gt;
+</summary><category term="terminal"></category><category term="prompt-toolkit"></category><category term="cli"></category><category term="command-line"></category></entry><entry><title>Ansible roles, private git repos and the Ansible Galaxy tool</title><link href="http://pyvideo.org/pycon-italia-2017/ansible-roles-private-git-repos-and-the-ansible-galaxy-tool.html" rel="alternate"></link><published>2017-04-08T00:00:00+00:00</published><updated>2017-04-08T00:00:00+00:00</updated><author><name>serena lorenzini</name></author><id>tag:pyvideo.org,2017-04-08:pycon-italia-2017/ansible-roles-private-git-repos-and-the-ansible-galaxy-tool.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ansible is a python tool that automates the management of an IT
+infrastructure. It is easy to learn but rushing to use it with a limited
+knowledge of its best practices leads to not reusable code.&lt;/p&gt;
+&lt;p&gt;Creating reusable Ansible roles is a strongly encouraged practice, in
+fact there is a tool designed just for this purpose: Ansible Galaxy. It
+comes bundled with Ansible and its purpose is to download roles from the
+Galaxy hub and other sources.&lt;/p&gt;
+&lt;p&gt;This talk wants to show how we manage our Ansible roles and their
+dependencies in a consistent way by means of Ansible Galaxy. It will
+also offer an overview of how Ansible roles can be tested.&lt;/p&gt;
+</summary><category term="config-ninja"></category><category term="continuous-integration"></category><category term="command-line"></category><category term="gitlab"></category><category term="ansible"></category><category term="best-practices"></category></entry><entry><title>Presenting pysftpserver: OpenSSH SFTP service with Python</title><link href="http://pyvideo.org/pycon-italia-2017/presenting-pysftpserver-openssh-sftp-service-with-python.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Filippo Morelli</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/presenting-pysftpserver-openssh-sftp-service-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever needed to connect to an OpenSSH SFTP server and keep track
+of the user activities? Or maybe limit user permissions? Or define
+specific callbacks to react to user actions?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;pysftpserver&lt;/em&gt; is an OpenSSH SFTP wrapper, written purely in Python. It
+is yet another cool example of what you might already know: how powerful
+Python can be while staying extremely simple.&lt;/p&gt;
+&lt;p&gt;This talk aims at presenting the tool and a few use cases in which it
+was harnessed, including one with Django and Django REST Framework. It
+requires a good knowledge of Python and Django and understanding the
+basics of a SFTP service.&lt;/p&gt;
+</summary><category term="SFTP"></category><category term="command-line"></category><category term="django-rest-framework"></category><category term="storage"></category><category term="django"></category><category term="ssh"></category><category term="servers"></category></entry><entry><title>External Commands</title><link href="http://pyvideo.org/scipyla-2016/external-commands.html" rel="alternate"></link><published>2016-06-20T00:00:00+00:00</published><updated>2016-06-20T00:00:00+00:00</updated><author><name>Juan Cabral</name></author><id>tag:pyvideo.org,2016-06-20:scipyla-2016/external-commands.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Palestrante: Juan Cabral&lt;/p&gt;
+&lt;p&gt;Resumo:
+Probably as a scientist you need to develop your fancy new experiment code around some obscure inherited piece of legacy software in some obscure language. In the worst scenario you can't access the original source code. The only alternative is (sadly) run the command and capture their output. This dissertation try to review all the available alternatives to interact with external commands in Python.&lt;/p&gt;
+</summary><category term="command line"></category></entry></feed>

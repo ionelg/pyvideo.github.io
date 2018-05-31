@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_rust.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2018-05-13T00:00:00+00:00</updated><entry><title>Pumping up Python modules using Rust</title><link href="http://pyvideo.org/pycon-us-2018/pumping-up-python-modules-using-rust.html" rel="alternate"></link><published>2018-05-13T00:00:00+00:00</published><updated>2018-05-13T00:00:00+00:00</updated><author><name>vigneshwer dhinakaran</name></author><id>tag:pyvideo.org,2018-05-13:pycon-us-2018/pumping-up-python-modules-using-rust.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you’ve spent much time writing (or debugging) Python performance problems, you’ve probably had a hard time managing memory with its limited language support.&lt;/p&gt;
+&lt;p&gt;In this talk, we venture deep into the belly of the Rust Language to uncover the secret incantations for building high performance and memory safe Python extensions using Rust.&lt;/p&gt;
+&lt;p&gt;Rust has a lot to offer in terms of safety and performance for high-level programming languages such Python, Ruby, Js and more with its easy Foreign Function Interface capabilities which enables developers to easily develop bindings for foreign code.&lt;/p&gt;
+</summary><category term="rust"></category></entry><entry><title>Interacting with C and Rust using CFFI</title><link href="http://pyvideo.org/pycon-ireland-2017/interacting-with-c-and-rust-using-cffi.html" rel="alternate"></link><published>2017-10-21T00:00:00+00:00</published><updated>2017-10-21T00:00:00+00:00</updated><author><name>Romain Guillebert</name></author><id>tag:pyvideo.org,2017-10-21:pycon-ireland-2017/interacting-with-c-and-rust-using-cffi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;One of Python's main advantages has always been its ability to expose external libraries to Python code very easily, however, writing wrappers around these libraries has always been a pain point that CFFI aims to address. CFFI allows you to call code written in other programming languages without having to write anything other than Python code, it is famous for being able to call C code but is also able to call code written in other languages like Rust and Go. This talk will go over the advantages of using CFFI as opposed to the other ways of calling external libraries in Python (such as writing C extensions) and showcase more advanced ways of using CFFI to improve PyPy's compatibility with Python modules.&lt;/p&gt;
+</summary><category term="rust"></category></entry><entry><title>Rusty Python</title><link href="http://pyvideo.org/pycon-italia-2017/rusty-python.html" rel="alternate"></link><published>2017-04-07T00:00:00+00:00</published><updated>2017-04-07T00:00:00+00:00</updated><author><name>Matteo Bertini</name></author><id>tag:pyvideo.org,2017-04-07:pycon-italia-2017/rusty-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python è un linguaggio “colla”, esistono librerie per creare estensioni
+nei linguaggi più vari, da C/C++ a Fortran con poche righe di codice
+abbiamo il nostro wrapper bello funzionante.&lt;/p&gt;
+&lt;p&gt;Da qualche tempo un nuovo linguaggio di aggiunge alla lista: Rust!&lt;/p&gt;
+&lt;p&gt;Ci sono due strade, la prima è quella di fare in modo che la libreria
+Rust esponga una API C, e per poi usarla con &lt;tt class="docutils literal"&gt;ctypes&lt;/tt&gt; o &lt;tt class="docutils literal"&gt;cffi&lt;/tt&gt;.
+L’altra strada passa per &lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;rust-cpython&lt;/span&gt;&lt;/tt&gt;, un wrapper Rust per le API C
+di Python, con cui è possibile sia chiamare Python da Rust che estendere
+Python con moduli in puro Rust.&lt;/p&gt;
+&lt;p&gt;In questo talk vedremo come è possibile esporre delle strutture Rust in
+modo da offrire una interfaccia Pythonica senza venire a compromessi con
+le prestazioni.&lt;/p&gt;
+&lt;p&gt;Prerequisiti:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;conoscenza base di Python&lt;/li&gt;
+&lt;li&gt;conoscenza minima di Rust&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Take away:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;“Si può fare!!” un modulo Python in Rust, con setup e test su Travis.&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="Python"></category><category term="extensions"></category><category term="Rust"></category></entry></feed>

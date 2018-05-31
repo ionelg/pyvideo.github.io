@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 24 Sep 2017 10:00:00 +0200</lastBuildDate><item><title>Ansible roles, private git repos and the Ansible Galaxy tool</title><link>http://pyvideo.org/pycon-italia-2017/ansible-roles-private-git-repos-and-the-ansible-galaxy-tool.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ansible is a python tool that automates the management of an IT
+infrastructure. It is easy to learn but rushing to use it with a limited
+knowledge of its best practices leads to not reusable code.&lt;/p&gt;
+&lt;p&gt;Creating reusable Ansible roles is a strongly encouraged practice, in
+fact there is a tool designed just for this purpose: Ansible Galaxy. It
+comes bundled with Ansible and its purpose is to download roles from the
+Galaxy hub and other sources.&lt;/p&gt;
+&lt;p&gt;This talk wants to show how we manage our Ansible roles and their
+dependencies in a consistent way by means of Ansible Galaxy. It will
+also offer an overview of how Ansible roles can be tested.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">serena lorenzini</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/ansible-roles-private-git-repos-and-the-ansible-galaxy-tool.html</guid><category>config-ninja</category><category>continuous-integration</category><category>command-line</category><category>gitlab</category><category>ansible</category><category>best-practices</category></item><item><title>Desplegando Python continuamente sin esfuerzo</title><link>http://pyvideo.org/pycon-es-2017/desplegando-python-continuamente-sin-esfuerzo.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Los términos &amp;quot;despliegue continuo&amp;quot; e &amp;quot;integración continua&amp;quot; están cada vez más presentes en el léxico del programador. Si bien Python es un lenguaje tremendamente apropiado para aplicar estas prácticas, la cantidad de herramientas, opciones o, simplemente, de conceptos hace que el recién llegado alcance un nivel de confusión tal que la tarea parezca imposible. Usando herramientas habituales en Python mostraremos que construir un sistema de despliegue continuo es cómodo y sencillo.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ana López Pérez</dc:creator><pubDate>Sun, 24 Sep 2017 10:00:00 +0200</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-09-24:pycon-es-2017/desplegando-python-continuamente-sin-esfuerzo.html</guid><category>continuous integration</category><category>continuous delivery</category></item><item><title>Vom Commit zum Deployment - Build pipelines in Jenkins</title><link>http://pyvideo.org/pycon-de-2013/vom-commit-zum-deployment-build-pipelines-in-je.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Wenn man Code in ein Repository eincheckt möchte man dazu schnelles und
+aussagekräftiges Feedback.&lt;/p&gt;
+&lt;p&gt;Natürlich sind lokal die Tests durchgelaufen (oder etwa nicht?), aber
+wie kann man weitere Überprüfungen automatisieren? Dieser Vortrag zeigt,
+wie man in Jenkins und Werkzeugen wie nose/pylint/coverage build
+pipelines anlegt, die von Unittests und linting bis zum Deployment gehen
+können.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Fenzl</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/vom-commit-zum-deployment-build-pipelines-in-je.html</guid><category>build pipeline</category><category>continuous integration</category></item></channel></rss>

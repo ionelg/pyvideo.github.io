@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_christine-spindler.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-10-25T00:00:00+00:00</updated><entry><title>Python on bare metal Beginners tutorial with MicroPython</title><link href="http://pyvideo.org/pycon-de-2017/python-on-bare-metal-beginners-tutorial-with-micropython.html" rel="alternate"></link><published>2017-10-25T00:00:00+00:00</published><updated>2017-10-25T00:00:00+00:00</updated><author><name>Christine Spindler</name></author><id>tag:pyvideo.org,2017-10-25:pycon-de-2017/python-on-bare-metal-beginners-tutorial-with-micropython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Christine Spindler&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Christine holds a degree in economics and electrical engineering. Since the beginning of 2016 she works with Damien P. George and takes care of logistics and production at George Robotics Ltd. – the company behind MicroPython.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MicroPython is a complete reimplementation of Python that runs on small devices like microcontrollers. In this hands-on workshop I'll show how easy it is to use MicroPython on a pyboard.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Everybody that attends will get a MicroPython pyboards to follow all examples on their own machine. Bring a laptop and Micro USB cable along – make sure it has a data line.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Recorded at&lt;/strong&gt; PyCon.DE 2017 Karlsruhe: &lt;a class="reference external" href="https://de.pycon.org/"&gt;https://de.pycon.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video editing&lt;/strong&gt;: Sebastian Neubauer &amp;amp; Andrei Dan&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Blender, Avidemux &amp;amp; Sonic Pi&lt;/p&gt;
+</summary><category term="micropython"></category></entry></feed>

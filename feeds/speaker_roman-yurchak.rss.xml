@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate><item><title>FreeDiscovery - information retrieval and e-Discovery in Python</title><link>http://pyvideo.org/pyparis-2017/freediscovery-information-retrieval-and-e-discovery-in-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk introduces FreeDiscovery - an open-source Python software that
+provides a REST API for information retrieval applications. Based on the
+scikit-learn machine learning library, its features include text
+categorization, semantic search, hierarchical clustering and duplicates
+detection.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Roman Yurchak</dc:creator><pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-06-12:pyparis-2017/freediscovery-information-retrieval-and-e-discovery-in-python.html</guid></item></channel></rss>

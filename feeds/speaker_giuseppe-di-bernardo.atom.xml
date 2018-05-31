@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_giuseppe-di-bernardo.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-07-12T00:00:00+00:00</updated><entry><title>Big Data Analytics at the MPCDF: GPU Crystallography with Python</title><link href="http://pyvideo.org/europython-2017/big-data-analytics-at-the-mpcdf-gpu-crystallography-with-python.html" rel="alternate"></link><published>2017-07-12T00:00:00+00:00</published><updated>2017-07-12T00:00:00+00:00</updated><author><name>Giuseppe Di Bernardo</name></author><id>tag:pyvideo.org,2017-07-12:europython-2017/big-data-analytics-at-the-mpcdf-gpu-crystallography-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In close collaboration with scientists from MPG, the Max Planck
+Computing and Data Facility is&amp;nbsp;engaged in the development and
+optimization of algorithms and applications for high
+performance&amp;nbsp;computing, as well as in the design and&amp;nbsp;implementation of
+solutions for data-intensive projects.&amp;nbsp;Python is now used at MPCDF in
+the emerging area of “atom probe crystallography” (APT): a Fourier
+spectral analysis in 3D reciprocal space can be simulated in order to
+reveal both composition and crystallographic structure at the atomic
+scale of billions APT experimental data sets. The Python data
+ecosystem has proved to be well suited to this, as it has grown
+beyond the confines of single machines to embrace scalability. This
+talk aims to describe our approach to scaling across multiple GPUs,
+and the role of our visualization methods too. Our data workflow
+analysis relies on the GPU-accelerated Python software package called
+PyNX, an open source Python library which provides fast parallel
+computation scattering. The code is well suited for GPU computing,
+using both the pyCUDA and pyOpenCL libraries. Exploratory data
+analysis and performance tests are initially carried on through
+Jupyter notebooks and Python packages e.g., pandas, matplotlib,
+plotly. In production stage, interactive visualization is realized by
+using standard scientific tool, e.g. Paraview, an open-source 3D
+visualization program which e.g. requires Python modules to generate
+visualization components within VTK files.&lt;/p&gt;
+</summary></entry></feed>

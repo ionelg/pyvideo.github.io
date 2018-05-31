@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Explore the brain with Nilearn</title><link>http://pyvideo.org/pycon-italia-2017/explore-the-brain-with-nilearn.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In the past recent years, the Python programming language became popular
+and widely used in many science areas, that you can notes from huge
+amount of high quality &lt;strong&gt;scientific&lt;/strong&gt; libraries available in GitHub.
+Python has already won the confidence in neuro-imaging community&lt;/p&gt;
+&lt;p&gt;Analysis of different &lt;strong&gt;neuroimaging&lt;/strong&gt; modalities consists of
+identifying such a complex pipeline that include supporting specific
+&lt;strong&gt;MRI&lt;/strong&gt; data acquisition, image processing, statistics and predictive
+modeling, and visualization of the results. &lt;strong&gt;Nilearn&lt;/strong&gt; is a Python
+package designed to face these challenges. It provides state-of-the-art
+&lt;strong&gt;machine-learning&lt;/strong&gt; methods for analysis task fMRI, resting-state, or
+anathomical data. In my talk, I would like to present general purpose of
+Nilearn, focusing on &lt;strong&gt;functional connectivity&lt;/strong&gt; and &lt;strong&gt;connectome&lt;/strong&gt;
+analysis in resting-state fMRI.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Darya Chyzhyk</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pycon-italia-2017/explore-the-brain-with-nilearn.html</guid><category>computer-science</category><category>cognitive-science</category><category>Artificial Intelligence</category><category>Machine Learning</category></item><item><title>Introduction to Data-Analysis with Pandas / Time Series Analysis with Pandas</title><link>http://pyvideo.org/pycon-italia-2017/introduction-to-data-analysis-with-pandas-time-series-analysis-with-pandas.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pandas is the &lt;em&gt;Swiss-Multipurpose Knife&lt;/em&gt; for Data Analysis in Python.
+With Pandas dealing with data-analysis is easy and simple but there are
+some things you need to get your head around first as Data-Frames and
+Data-Series.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;first part&lt;/strong&gt; of talk with provide an &lt;strong&gt;introduction to Pandas&lt;/strong&gt;
+for beginners, while the &lt;strong&gt;second part&lt;/strong&gt; will focus on &lt;strong&gt;Time Series
+Analysis&lt;/strong&gt; with Pandas.&lt;/p&gt;
+&lt;p&gt;part &lt;strong&gt;one&lt;/strong&gt; (~40&amp;quot;) &lt;em&gt;Introduction to Pandas&lt;/em&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;reading and writing data across multiple formats (CSV, Excel, JSON,
+SQL, HTML,…)&lt;/li&gt;
+&lt;li&gt;statistical data analysis and aggregation.&lt;/li&gt;
+&lt;li&gt;work with built-in data visualisation&lt;/li&gt;
+&lt;li&gt;inner-mechanics of Pandas: Data-Frames, Data-Series &amp;amp; Numpy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;part &lt;strong&gt;two&lt;/strong&gt; (~20&amp;quot;) &lt;em&gt;Time Series Analysis&lt;/em&gt;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;how to analyse periodical data with pandas&lt;/li&gt;
+&lt;li&gt;how to mangle, reshape and pivot&lt;/li&gt;
+&lt;li&gt;caveats when working with timed data&lt;/li&gt;
+&lt;li&gt;visualize your data on the fly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;bonus (if we have time left)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;gain insights with statsmodels (e.g. seasonality)&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Hendorf</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/introduction-to-data-analysis-with-pandas-time-series-analysis-with-pandas.html</guid><category>data-visualization</category><category>computer-science</category><category>statistics</category><category>data-analysis</category></item></channel></rss>

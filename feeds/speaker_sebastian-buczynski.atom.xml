@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_sebastian-buczynski.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-07-11T00:00:00+00:00</updated><entry><title>Why you don't need design patterns in Python?</title><link href="http://pyvideo.org/europython-2017/why-you-dont-need-design-patterns-in-python.html" rel="alternate"></link><published>2017-07-11T00:00:00+00:00</published><updated>2017-07-11T00:00:00+00:00</updated><author><name>Sebastian Buczyński</name></author><id>tag:pyvideo.org,2017-07-11:europython-2017/why-you-dont-need-design-patterns-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Exactly 23 years have passed since release of one of the biggest IT
+classics - &amp;quot;Design Patterns: Elements of Reusable Object-Oriented
+Software&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Contents of the book had considerable influence on dominant
+programming languages of those days. However, design patterns were
+not glorified by everyone. Voices of rational critic appeared,
+pointing out that design patterns are just ways to compensate for
+missing languages features by tons of clumsy code. If one implements
+design patterns in Python by the book, they will get code that looks
+awkward, at best.&lt;/p&gt;
+&lt;p&gt;This talk is to present Python's features that either simplifies or
+eliminates need for implementing design patterns. Even if you don't
+know what design patterns are - don't worry. You still may see some
+new interesting Python's features and their usage.&lt;/p&gt;
+</summary></entry><entry><title>Distributed locks with Python and Redis</title><link href="http://pyvideo.org/europython-2015/distributed-locks-with-python-and-redis.html" rel="alternate"></link><published>2015-08-03T00:00:00+00:00</published><updated>2015-08-03T00:00:00+00:00</updated><author><name>Sebastian Buczyński</name></author><id>tag:pyvideo.org,2015-08-03:europython-2015/distributed-locks-with-python-and-redis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sebastian Buczyński - Distributed locks with Python and Redis
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Traditional methods of coping with concurrent programming problems are
+well-known and described in literature. Many programming languages,
+including Python, contain in their standard libraries tools and
+primitives such as semaphores and can spawn threads or subprocesses.&lt;/p&gt;
+&lt;p&gt;However, in the face of increasing interest in service oriented
+architecture and building distributed systems, that span across many
+independent server nodes, emerges a need to adapt traditional
+solutions, so they can be applied in the new environment.&lt;/p&gt;
+&lt;p&gt;In this talk I will share my experiences gathered during building a
+modern contact center - highly concurrent system, which requires
+certain resources to be accessed exclusively by several self-contained
+components.&lt;/p&gt;
+</summary></entry></feed>

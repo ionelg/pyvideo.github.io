@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_pawel-lewtak.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-07-11T00:00:00+00:00</updated><entry><title>2nd hardest thing in computer science</title><link href="http://pyvideo.org/pycon-cz-2017/2nd-hardest-thing-in-computer-science.html" rel="alternate"></link><published>2017-06-08T00:00:00+00:00</published><updated>2017-06-08T00:00:00+00:00</updated><author><name>Paweł Lewtak</name></author><id>tag:pyvideo.org,2017-06-08:pycon-cz-2017/2nd-hardest-thing-in-computer-science.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you heard about the two hardest things in computer science? It's
+cache invalidation and naming things. I want to focus on the second
+one.&lt;/p&gt;
+&lt;p&gt;Let's see common examples of both good and bad naming. What's the
+common part of each of them? What's makes names good? Can we settle
+on good enough or should we aim for perfect names? I'll show some of
+best and bad practices so you'll be able to recognize both of them
+when you make code review for your peers. Naming is one of two
+hardest things in CS, so I don't claim to be right about everything
+but I'm open to discussion and happy to learn from you as well.&lt;/p&gt;
+</summary></entry><entry><title>Improve your developer's toolset</title><link href="http://pyvideo.org/europython-2017/improve-your-developers-toolset.html" rel="alternate"></link><published>2017-07-11T00:00:00+00:00</published><updated>2017-07-11T00:00:00+00:00</updated><author><name>Paweł Lewtak</name></author><id>tag:pyvideo.org,2017-07-11:europython-2017/improve-your-developers-toolset.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;For Python development, we mainly focus on IDE, browser and sometimes
+a command line. I want to focus on command line tools which seem to
+be a bit forgotten these days. Let me show a few tools I'm using on
+daily basis and how they helped me become more productive. I'll prove
+it's possible to start up a new environment from scratch that feels
+like $HOME. Finally, I want to convince you how important it is to
+constantly challenge yourself and your tools, how useful is a custom
+toolbox tailored to you.&lt;/p&gt;
+</summary></entry></feed>

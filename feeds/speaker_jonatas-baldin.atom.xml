@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jonatas-baldin.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-10-05T00:00:00+00:00</updated><entry><title>Django Channeled</title><link href="http://pyvideo.org/python-sul-2017/django-channeled.html" rel="alternate"></link><published>2017-09-08T00:00:00+00:00</published><updated>2017-09-08T00:00:00+00:00</updated><author><name>Jonatas Baldin</name></author><id>tag:pyvideo.org,2017-09-08:python-sul-2017/django-channeled.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;E aquela palestrinha  malandra do 'JOJO'&lt;/p&gt;
+&lt;p&gt;Twitter  - &amp;#64;jonatasbaldin&lt;/p&gt;
+</summary></entry><entry><title>In the land of Serverless, who uses Zappa is king!</title><link href="http://pyvideo.org/pycon-za-2017/in-the-land-of-serverless-who-uses-zappa-is-king.html" rel="alternate"></link><published>2017-10-05T00:00:00+00:00</published><updated>2017-10-05T00:00:00+00:00</updated><author><name>Jonatas Baldin</name></author><id>tag:pyvideo.org,2017-10-05:pycon-za-2017/in-the-land-of-serverless-who-uses-zappa-is-king.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Serverless is an architecture style where we don't have servers*,
+dealing just with third-party services. This means infinite scaling,
+less downtime and less maintenance. Of course this is not the answer
+for every problem, but it can be a good choice.&lt;/p&gt;
+&lt;p&gt;Together with this concept, there's Zappa, a framework that makes that
+easily to deploy Python WSGI applications with AWS Lambda and AWS API
+Gateway.&lt;/p&gt;
+&lt;p&gt;In this talk, we're going to discuss about the concept and the tool,
+deploying a web Python application with Zappa!&lt;/p&gt;
+&lt;p&gt;--  Kidding: Serverless still has servers ;)&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hannah-hazi.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-10-26T15:00:00+01:00</updated><entry><title>Python as a Second Language</title><link href="http://pyvideo.org/pycon-uk-2017/python-as-a-second-language.html" rel="alternate"></link><published>2017-10-26T15:00:00+01:00</published><updated>2017-10-26T15:00:00+01:00</updated><author><name>Hannah Hazi</name></author><id>tag:pyvideo.org,2017-10-26:pycon-uk-2017/python-as-a-second-language.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sometimes we can learn the most by coming at a topic sideways. Using examples from code written by people who are getting into Python after experiences with another language first, we can discover what ‘idiomatic’ Python looks like and find some tricks to writing concise, readable, delightful Python code.
+The talk will focus on useful tips for people coming in from different languages into Python land, including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;How to loop like a native&lt;/li&gt;
+&lt;li&gt;The Most Diabolical Python Anti-Pattern&lt;/li&gt;
+&lt;li&gt;When (and when not) to use classes&lt;/li&gt;
+&lt;li&gt;The Joy and Horror of Dynamic Typing&lt;/li&gt;
+&lt;li&gt;Designing flexible code&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

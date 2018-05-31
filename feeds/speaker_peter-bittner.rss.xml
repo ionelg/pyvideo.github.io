@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>L'Italia, Python e la chimera dell'Agile</title><link>http://pyvideo.org/pycon-italia-2017/litalia-python-e-la-chimera-dellagile.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sono quasi certo che il proverbio “tra il dire e il fare c’è di mezzo
+il mare” lo abbiano inventato pensando alle metodologie agili. Forse
+in USA o in Svezia ci riescono davvero, ma in Italia? Possiamo dire
+di essere agili quando di test ne facciamo “ un po’ “, i task degli
+sprint li decide il cliente e il contratto prevede un budget fissato
+e una deadline prestabilita? E com’è la situazione tra i pythonisti?
+Ne parliamo con Marco Beri, Iacopo Spalletti, Roberto Bettazzoni e
+Peter Bittner in un panel dove siete tutti invitati a partecipare e
+condividere casi di successo e scheletri nell’armadio.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Iacopo Spalletti</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/litalia-python-e-la-chimera-dellagile.html</guid></item><item><title>Continuous Delivery for Python Developers</title><link>http://pyvideo.org/pycon-italia-2017/continuous-delivery-for-python-developers.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Continuous Delivery sounds easy in theory, but it’s hard to do in
+practice. There are myriads of things you can and should do to get your
+code delivered faster, reliably. We look at what we can do as Python
+developers, or as a small or mid-sized team to make the industrialized
+software development production chain come true.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What is Continuous Delivery?&lt;/li&gt;
+&lt;li&gt;Why should we do it?&lt;/li&gt;
+&lt;li&gt;We explain a hands-on process and show tools and platforms that can
+be used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We may have time to try the demonstrated tools and setups in a hands-on
+demo. Bring your own notebook and get an immediate feeling of CD.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Bittner</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/continuous-delivery-for-python-developers.html</guid></item><item><title>Lightning talks - Monday</title><link>http://pyvideo.org/djangocon-europe-2017/lightning-talks-monday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks covering painless.cloud &amp;amp; SCSS&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Bittner</dc:creator><pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-03:djangocon-europe-2017/lightning-talks-monday.html</guid><category>lightning talks</category></item><item><title>Progetti a prezzo fisso e l'Agile</title><link>http://pyvideo.org/pycon-italia-2016/progetti-a-prezzo-fisso-e-lagile.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Bittner</dc:creator><pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-12:pycon-italia-2016/progetti-a-prezzo-fisso-e-lagile.html</guid></item></channel></rss>

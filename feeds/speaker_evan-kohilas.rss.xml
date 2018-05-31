@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 06 Aug 2017 00:00:00 +0000</lastBuildDate><item><title>Decoding the Frustrations and Vulnerabilities of Modern Text Processing</title><link>http://pyvideo.org/pycon-au-2017/decoding-the-frustrations-and-vulnerabilities-of-modern-text-processing.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When it comes to processing text, Python is easily one of the best languages for the job. However, in today's modern world, with emojis👌🏻, ƒοяειgη ℓαnγuαgεs, and
+m̕ą̶̕ĺic̷í͜o̶͟͜us͠ ҉͞d̴a͜t̵̛͘ą҉ we are no longer dealing with easy and safe to handle ASCII input.&lt;/p&gt;
+&lt;p&gt;Join us as we go through the adventures of battling UnicodeError dragons, working with Python3's I/O, what to do when working with bytes, how to account for data from the web and/or databases nicely, what the different types of string literals are, the new f&amp;quot;{format_strings}&amp;quot;, and the security vulnerabilities that string formatting and malicious input can possess (and how to prevent it).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Evan Kohilas</dc:creator><pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-06:pycon-au-2017/decoding-the-frustrations-and-vulnerabilities-of-modern-text-processing.html</guid></item><item><title>Lightning Talks - Sunday</title><link>http://pyvideo.org/pycon-au-2017/lightning-talks-sunday.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Sam Kitajima-Kimbrel - You Aren't Facebook, and That's OK 0:19&lt;/li&gt;
+&lt;li&gt;Jason King - Don't do what I did 4:55&lt;/li&gt;
+&lt;li&gt;Evan Kohilas - Rubber Snaek 9:55&lt;/li&gt;
+&lt;li&gt;Dr. Russell Keith-Magee - Tools for Apiarists 12:13&lt;/li&gt;
+&lt;li&gt;William Brown - Hard CPUs Make Multithreading 17:23&lt;/li&gt;
+&lt;li&gt;Allen Rueben - Joining the dots 21:54&lt;/li&gt;
+&lt;li&gt;Malcolm Ramsay - How I Reinvented Solarized 24:16&lt;/li&gt;
+&lt;li&gt;Zac Hatfield-Dodds - From REPL to reliable 26:47&lt;/li&gt;
+&lt;li&gt;Daniel McCarthy - Hexapod and MicroPython 31:55&lt;/li&gt;
+&lt;li&gt;Lilly Ryan - Towns I Wish I Could Visit 35:35&lt;/li&gt;
+&lt;li&gt;Jeremy Rothstein - I'm a mockoholic 41:00&lt;/li&gt;
+&lt;li&gt;Nick Moore - ESP32 and MicroPython 45:54&lt;/li&gt;
+&lt;li&gt;Katie Bell - Hello 48:38&lt;/li&gt;
+&lt;li&gt;Peter Hall - A Brief History of 'What is the Time?' 53:37&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sam Kitajima-Kimbrel</dc:creator><pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-08-06:pycon-au-2017/lightning-talks-sunday.html</guid><category>lightning talks</category></item></channel></rss>

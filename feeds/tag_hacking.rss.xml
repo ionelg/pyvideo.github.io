@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>ByteCode al supporto dei test per protocolli ed enforcing di best practices</title><link>http://pyvideo.org/pycon-italia-2017/bytecode-al-supporto-dei-test-per-protocolli-ed-enforcing-di-best-practices.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python è un linguaggio interpretato con efficaci strumenti di
+introspezione, fino a permetterci di accedere al suo bytecode e vedere
+cosa la virtual machine sta per eseguire. Per quanto questa esigenza sia
+solitamente molto limitata in ambito di produzione ed uso del software
+può venirci utile all’interno delle test suite per verificare che il
+codice scritto da terzi o dal noi stessi del domani rispetti ancora dei
+protocolli o delle best practices che avevamo presupposto.&lt;/p&gt;
+&lt;p&gt;La maggior parte di queste esigenze possono essere soddisfatte anche
+tramite l’uso di metaclassi o monkeypatching, ma in alcuni casi è
+possibile saltare i check preposti involontariamente (ad esempio
+ereditando dalla classe sbagliata nel caso delle metaclassi), mentre la
+verifica del byte code ci consente di controllare cosa effettivamente
+sarà eseguito, non cosa ci aspettiamo sia eseguito.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alessandro Molina</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/bytecode-al-supporto-dei-test-per-protocolli-ed-enforcing-di-best-practices.html</guid><category>quality-assurance</category><category>CPython</category><category>testing</category><category>robustness</category><category>static-typing</category><category>bytecode</category><category>hacking</category><category>compiler</category></item><item><title>Scientific Hooliganism: lessons from the first hack in history</title><link>http://pyvideo.org/pycon-italia-2017/scientific-hooliganism-lessons-from-the-first-hack-in-history.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In 1903, Guglielmo Marconi prepared to unveil his world-first,
+long-distance wireless communication technology to the Royal Institution
+in London. He was looking forward to roaring success, scientific
+acclaim, and a string of wealthy new customers - but he didn’t count
+upon falling victim to the first hack in history.&lt;/p&gt;
+&lt;p&gt;This is a tale of business secrets, flame wars, stage magic, and
+magnificent sideburns, direct from the records of Edwardian England.&lt;/p&gt;
+&lt;p&gt;The talk highlights several of the lessons that the FLOSS and
+information security communities can still learn from the fateful events
+of 1903. Marconi’s tale is a master class in the necessity of open
+source technology, as well as being a delightful introduction to the art
+of vulnerability reporting.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lilly Ryan</dc:creator><pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-07:pycon-italia-2017/scientific-hooliganism-lessons-from-the-first-hack-in-history.html</guid><category>infosec</category><category>FLOSS</category><category>radio</category><category>security</category><category>hacking</category><category>history</category></item><item><title>Hacking PyLongObject on Python 3.2</title><link>http://pyvideo.org/europython-2011/hacking-pylongobject-on-python-32.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Cesare Di Mauro - 24 June 2011 in &amp;quot;Track Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Beginning with Python 3 the old integer (&amp;quot;int&amp;quot;) type has gone leaving
+the place to &amp;quot;long&amp;quot;, which replaced it giving a unique, uniform type to
+deal with integers. However longs need a more complex structure which
+effectively dropped a bit of Python 3.x performance. Looking at their
+implementation, an idea grown that can help to improve the situation on
+common sceneries (using &amp;quot;short&amp;quot; integers). A slightly changed structure
+will be presented and compared with the old PyIntObject and the current
+Python 3.2 PyLongObject, along with some optimizations, thoughts, and
+issues found on the road, which will show the effort required by such
+change on a Python core element.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cesare Di Mauro</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/hacking-pylongobject-on-python-32.html</guid><category>hacking</category></item><item><title>Through the Side Channel: Timing and Implementation Attacks in Python</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--through-the-side-channel--timing-and-.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Through the Side Channel: Timing and Implementation Attacks in Python&lt;/p&gt;
+&lt;p&gt;Presented by Geremy Condra&lt;/p&gt;
+&lt;p&gt;Python's dynamic nature, large standard library, and concern for beauty
+over performance make it an elegant and uniquely easy to use language,
+but they also cause some unique problems. In this talk we'll explore how
+features ranging from dictionaries to duck typing can become security
+risks, demonstrate those attacks on real Python projects, and examine
+how you can protect yourself and your code.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Over the last decade, an increasing body of evidence has accumulated
+indicating that even when a system is hardened enough to provide strong
+guarantees about its high-level behavior, implementation details and
+especially performance properties can still provide attackers with an
+easy way in. For Python, this is especially problematic: its generally
+high-level view and the emphasis placed on flexibility often mean that
+it can be difficult to stop attackers from gaining a foothold, while its
+comparatively low execution speed increases the efficacy of wide variety
+of implementation and timing attacks.&lt;/p&gt;
+&lt;p&gt;To help Pythonistas understand and cope with these problems, we've
+divided this talk into two parts: in the first, we demonstrate the
+attacks against a series of widely-deployed Python projects with the
+goal of both improving awareness about the issue and demonstrating
+common weaknesses to be avoided. The second demonstrates effective
+countermeasures and alternative constructions with the goal of improving
+defenders' odds of spotting and correcting these flaws in their own
+code.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geremy Condra</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--through-the-side-channel--timing-and-.html</guid><category>hacking</category><category>hardening</category><category>pycon</category><category>pycon2011</category><category>security</category></item></channel></rss>

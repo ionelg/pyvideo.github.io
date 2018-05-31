@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Python e PostgreSQL, un connubio perfetto</title><link>http://pyvideo.org/pycon-italia-2017/python-e-postgresql-un-connubio-perfetto.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PostgreSQL ha come obiettivi primari l’integrità dei dati,
+l’affidabilità e le caratteristiche integrate orientate agli
+sviluppatori. Per questo molti progetti lo scelgono fin dall’inizio. In
+questo talk vedremo come PostgreSQL e Python si integrano su più
+livelli, e come sia possibile sfruttare in Python le caratteristiche
+avanzate di questo database.&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="http://prezi.com/5kvmyfmqp1mt/"&gt;http://prezi.com/5kvmyfmqp1mt/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marco Nenciarini</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pycon-italia-2017/python-e-postgresql-un-connubio-perfetto.html</guid><category>django-orm</category><category>psycopg2</category><category>pl/python</category><category>postgresql</category><category>database</category></item></channel></rss>

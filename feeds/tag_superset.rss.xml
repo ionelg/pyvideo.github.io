@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Dai dati alla visualizzazione: la mia prima data pipeline</title><link>http://pyvideo.org/pycon-italia-2017/dai-dati-alla-visualizzazione-la-mia-prima-data-pipeline.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Costruire una data pipeline non deve essere per forza complicato. Nel
+talk vedremo come si può realizzare una semplice data pipeline usando
+Luigi per consumare dati da una API e prepararli per fare esplorazione e
+visualizzazione con Superset (AKA Caravel).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Riccardo Magliocchetti</dc:creator><pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-09:pycon-italia-2017/dai-dati-alla-visualizzazione-la-mia-prima-data-pipeline.html</guid><category>DataExploration</category><category>superset</category><category>DataVisualization</category><category>etl</category><category>luigi</category></item></channel></rss>

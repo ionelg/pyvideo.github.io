@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate><item><title>Practical Debugging - Tips, Tricks and Ways to think</title><link>http://pyvideo.org/europython-2017/practical-debugging-tips-tricks-and-ways-to-think.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When we write code, oftentimes things are not working as expected. We
+followed the tutorial and yet we got an error. We introduce a new
+feature but something else broke.&lt;/p&gt;
+&lt;p&gt;Having to deal with bugs is inevitable. Trying to &amp;quot;debug&amp;quot; what
+happened or what caused the problem can be really frustrating and
+timewasting.&lt;/p&gt;
+&lt;p&gt;The aim of this talk is go give ways to think &amp;amp; steps to take
+when we are faced with the process of debugging.&lt;/p&gt;
+&lt;p&gt;The language for the examples is going to be Python &amp;amp; the tools
+used - from the python ecosystem.&lt;/p&gt;
+&lt;p&gt;The talk will be practical, with a lot of real-world examples.&lt;/p&gt;
+&lt;p&gt;The goal is to cover the following scenarios by showing different ways to approch the problem:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;You followed a tutorial but it's not working. What to do?&lt;/li&gt;
+&lt;li&gt;You introduce new feature but things broke somewhere else in the project. What to do?&lt;/li&gt;
+&lt;li&gt;You are using a popular 3rd party library but something breaks. What to do?&lt;/li&gt;
+&lt;li&gt;A bug occurs and you have no idea what or who caused it. What to do?&lt;/li&gt;
+&lt;li&gt;You can't fix or find the bug. What now?&lt;/li&gt;
+&lt;li&gt;You want to generalize your debugging skills. How to do that?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will be talking about critical changes, binary search, problem
+isolation, interactive debuggers, printing, testing, greping and
+other interesting things.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Radoslav Georgiev</dc:creator><pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-14:europython-2017/practical-debugging-tips-tricks-and-ways-to-think.html</guid></item></channel></rss>

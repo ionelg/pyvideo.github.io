@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate><item><title>Baby steps in short-text classification with python</title><link>http://pyvideo.org/europython-2017/baby-steps-in-short-text-classification-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk aims to provide an information about where and how one could
+start using simple text-classification models.
+Additionally it will be shown how a python classificator  can be incorporated
+into existing system.
+The presentation will be broken into 3 topics and a conclusion.&lt;/p&gt;
+&lt;p&gt;First, the presentation provides an overview of how the problem was
+approached, what information was useful or not and how the technologies
+tack shown in the second part was decided on.&lt;/p&gt;
+&lt;p&gt;Second part will concentrate on using Naive Bayesian model for text classification.
+How the model was trained, what difficulties were met and how they were solved.
+Additionally the talk will give a brief overview of other possible model choices
+(random forest, SVM).&lt;/p&gt;
+&lt;p&gt;The third part will show how the model was deployed and used in the
+production. One architecture solution will be shown in details
+(REST calls between Java Client and Flask Server), while other
+possibilities will be mentioned briefly.&lt;/p&gt;
+&lt;p&gt;As the conclusion the possible improvements for the model in use will
+be suggested as well as short example of supervised learning algorithm
+(CNN) and unsupervised classification algorithm (LDA) for the same purpose.
+Along with the examples the proc and cons will be named.&lt;/p&gt;
+&lt;p&gt;Technologies mentioned and used: Flask, Green Unicorn vs uWSGI, NLTK,
+Sci-Kit, Python 3, Java 8, Jersey, Docker, Kubernetes&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alisa Dammer</dc:creator><pubDate>Wed, 12 Jul 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-07-12:europython-2017/baby-steps-in-short-text-classification-with-python.html</guid></item></channel></rss>
